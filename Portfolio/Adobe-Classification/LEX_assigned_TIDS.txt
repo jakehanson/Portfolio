@@ -1,0 +1,805 @@
+## SC	SiteCatalyst SAINT Import File	v:2.1
+## SC	'## SC' indicates a SiteCatalyst pre-process header. Please do not remove these lines.
+## SC	D:2022-08-29 16:07:04	A:249457:101
+Key	Name	Manager	Department	Brand	Type	Channel	Network	Delivery	Device
+1	Anonymous	Brand - Unassigned	Brand - Unassigned	LexingtonLaw	Other	Other	Other	nan	nan
+50	Google: Brand Desktop - LEX 1	Online - PPC Google BR (New)	Paid Search - Brand	LexingtonLaw	Other	Other	Google	nan	nan
+52	newcheckingaccount.com	Lead Gen - Short Form	Lead Gen	LexingtonLaw	Other	Other	Other	nan	nan
+123	NewImpulse2 test [NA]	Lead Gen - Short Form	Lead Gen	LexingtonLaw	Other	Other	Other	nan	nan
+142	Commission Junction (nopop)	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+143	Commission Junction	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+164	LexingtonLawFirm.com	Brand - Direct Entry	Direct	LexingtonLaw	Other	Other	Other	nan	nan
+344	creditrepairrights.com	Online - Natural Search	Natural Search	LexingtonLaw	Other	Other	Other	nan	nan
+346	BankruptcyRights.com	Online - Natural Search	Natural Search	LexingtonLaw	Other	Other	Other	nan	nan
+347	FOG callbacks	Lead Gen - External	Lead Gen	LexingtonLaw	Other	Other	Other	nan	nan
+388	Pre 5000 Affiliate ID	Financial - Mortgage Broker	Finance Mortgage	LexingtonLaw	Other	Other	Other	nan	nan
+397	Google (NS)	Online - Natural Search NonBrand	Natural Search	LexingtonLaw	Other	Other	Other	nan	nan
+403	Yahoo (NS)	Online - Natural Search	Natural Search	LexingtonLaw	Other	Other	Other	nan	nan
+408	Brete Thomas	Financial - Other	Finance Mortgage	LexingtonLaw	Other	Other	Other	nan	nan
+501	Bing: Brand - LEX 1 - Desktop	Online - PPC Bing BR (Old)	Paid Search - Brand	LexingtonLaw	Other	Other	Bing	nan	nan
+517	lex99.com (TCT confirm)	Lead Gen - External	Lead Gen	LexingtonLaw	Other	Other	Other	nan	nan
+645	Direct Mail - Remarket TCT 99c	Lead Gen - Direct Mail	nan	LexingtonLaw	Other	Other	Other	nan	nan
+662	FS Partnership Program (Interface)	Financial - Mortgage Broker	Finance Mortgage	LexingtonLaw	Other	Other	Other	nan	nan
+958	Spiders & Bots	Brand - Direct Entry	Direct	LexingtonLaw	Other	Other	Other	nan	nan
+973	lexingtenlaw.com	Online - Natural Search	Natural Search	LexingtonLaw	Other	Other	Other	nan	nan
+994	TheTopTens (Dylan)	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+1030	eFolks Lead Gen	Lead Gen - Internal	Lead Gen	LexingtonLaw	Other	Other	Other	nan	nan
+1186	Lending Tree - Online IOS Mobile App	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+1371	Polydataone	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+1430	Chane Steiner - AAA Organic	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+1548	Lending Tree - Home Refinance Zero Match	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+1584	DirectMail.utah1	Lead Gen - Direct Mail	nan	LexingtonLaw	Other	Other	Other	nan	nan
+1585	NS YouTube: How to Cancel	Online - Social Media	Paid Social	LexingtonLaw	Other	Other	Other	nan	nan
+1650	Credit Rescue Squad	Financial - Auto Lender	Finance Mortgage	LexingtonLaw	Other	Other	Other	nan	nan
+1690	Chane Steiner - CRC Organic	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+1790	Google NBrand Search [PS.WS]	Online - PPC Other Legacy	Paid Search - Non-Brand	LexingtonLaw	Other	Other	Other	nan	nan
+1791	Online - PPC Display New1	Online - PPC Display Prospecting	Display	LexingtonLaw	Display - Prospecting	Other	Other	nan	nan
+1806	Katzir Soze Investments Ltd (Assaf)	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+1807	TopTenREVIEWS (Don Calamaro)	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+1816	Commission Junction (CJ) Pay Per Call	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+1887	Bills.com (Online) - FDR Decline	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+1955	AOL (NS)	Online - Natural Search	Natural Search	LexingtonLaw	Other	Other	Other	nan	nan
+1956	Ask (NS)	Online - Natural Search	Natural Search	LexingtonLaw	Other	Other	Other	nan	nan
+1957	Bing (NS)	Online - Natural Search	Natural Search	LexingtonLaw	Other	Other	Other	nan	nan
+1966	Capitol Area Properties 	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+2003	Lexington Law (NS Brand)	Online - Natural Search	Natural Search	LexingtonLaw	Other	Other	Other	nan	nan
+2021	AutoMall.com	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+2024	Centerfield Media Holdings, LLC	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+2081	Google: Brand Mobile - LEX 1	Online - PPC Google BR (New)	Paid Search - Brand	LexingtonLaw	Other	Other	Google	nan	nan
+2084	TU ZPC Callback	Remarketing - CA Phone	Remarketing	LexingtonLaw	Other	Other	Other	nan	nan
+2180	Lawyers.com	Online - Natural Search	Natural Search	LexingtonLaw	Other	Other	Other	nan	nan
+2240	LEX FOG Direct Mail 	Remarketing - FOG Direct Mail	Remarketing	LexingtonLaw	Other	Other	Other	nan	nan
+2241	Direct Traffic to Lexingtonlaw.com	Brand - Direct Entry	Direct	LexingtonLaw	Other	Other	Other	nan	nan
+2246	Credit Access site - lexabc.com - Retired	Remarketing - CA Email	Remarketing	LexingtonLaw	Other	Other	Other	nan	nan
+2247	Fallout SMS 1 - Retired	Remarketing - FOG SMS	Remarketing	LexingtonLaw	Other	Other	Other	nan	nan
+2248	Credit Access SMS 3	Remarketing - CA SMS	Remarketing	LexingtonLaw	Other	Other	Other	nan	nan
+2251	Partner Lead Email 1	Lead Gen - Remarketing	Lead Gen	LexingtonLaw	Other	Other	Other	nan	nan
+2255	LEX Refer_Email 	Remarketing - FFHD Email	Remarketing	LexingtonLaw	Other	Other	Other	nan	nan
+2256	F+HD_Email Discount	Remarketing - FFHD Email	Remarketing	LexingtonLaw	Other	Other	Other	nan	nan
+2257	Pending_Email F+HD	Remarketing - FFHD Email	Remarketing	LexingtonLaw	Other	Other	Other	nan	nan
+2283	Credit Access Email 1 - Retired	Remarketing - CA Email	Remarketing	LexingtonLaw	Other	Other	Other	nan	nan
+2288	Credit Karma - Authenticated Users - Score Center Notifications	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+2290	Credit Karma - MyCredit-ReportCardAnn	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+2311	SkyRocket Bing - CATCH ALL	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+2312	SkyRocket SEO	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+2314	SkyRocket Google - CATCH ALL	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+2336	Credit Karma - Yahoo! Display	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+2365	America One Funding/ AmOne (Online)	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+2393	Credit Access SMS 2	Remarketing - CA SMS	Remarketing	LexingtonLaw	Other	Other	Other	nan	nan
+2402	CA-NL SMS Day20 Test B	Remarketing - SMS	Remarketing	LexingtonLaw	Other	Other	Other	nan	nan
+2417	Lending Club - Online	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+2447	Credit Karma - iPhone	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+2449	Credit Karma - New Area of Site (Dec)	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+2464	Credit Access SMS 5	Remarketing - CA SMS	Remarketing	LexingtonLaw	Other	Other	Other	nan	nan
+2524	LL SMS Day86 Test B	Remarketing - SMS	Remarketing	LexingtonLaw	Other	Other	Other	nan	nan
+2525	FindLaw	Online - Natural Search	Natural Search	LexingtonLaw	Other	Other	Other	nan	nan
+2537	Credit Access SMS 7	Remarketing - CA SMS	Remarketing	LexingtonLaw	Other	Other	Other	nan	nan
+2540	Online - PPC Display New5	Online - PPC Display Other	Display	LexingtonLaw	Other	Native	Native	nan	nan
+2542	Credit Access SMS 1	Remarketing - CA SMS	Remarketing	LexingtonLaw	Other	Other	Other	nan	nan
+2551	SkyRocket Google - 1	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+2572	NB - Off Hours LP (Desktop)	Online - PPC Other Legacy	Paid Search - Non-Brand	LexingtonLaw	Other	Other	Other	nan	nan
+2588	Yelp.com 	Online - Natural Search	Natural Search	LexingtonLaw	Other	Other	Other	nan	nan
+2631	Homefront Management & Marketing Inc.	Financial - Other	Finance Mortgage	LexingtonLaw	Other	Other	Other	nan	nan
+2637	Partner Lead Email 3	Lead Gen - Remarketing	Lead Gen	LexingtonLaw	Other	Other	Other	nan	nan
+2680	Drips: SMS CCOM	Credit.com	Freemium & Email	LexingtonLaw	Other	Other	Other	nan	nan
+2687	Compare Cards	Financial - Other	Finance Mortgage	LexingtonLaw	Other	Other	Other	nan	nan
+2706	Digital Brands Inc.	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+2720	SkyRocket - Brand	Online - Affiliate Brand	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+2729	Online - PPC Display Old3	Online - PPC Display Other	Display	LexingtonLaw	Other	Native	Native	nan	nan
+2795	Drips: SMS Credit.com discount	Credit.com	Freemium & Email	LexingtonLaw	Other	Other	Other	nan	nan
+2814	GMB - Santa Ana, CA	Online - Natural Search	Natural Search	LexingtonLaw	Other	Other	Other	nan	nan
+2866	Google: Brand Desktop - LEX Reviews 1	Online - PPC Google BR (Old)	Paid Search - Brand	LexingtonLaw	Other	Other	Google	nan	nan
+2867	Google: Brand Mobile - LEX Reviews 1	Online - PPC Google BR (Old)	Paid Search - Brand	LexingtonLaw	Other	Other	Google	nan	nan
+2872	Google: Brand Desktop - LEX Negative 2	Online - PPC Google BR (Old)	Paid Search - Brand	LexingtonLaw	Other	Other	Google	nan	nan
+2874	Google: NBrand Desktop - Credit Repair 2	Online - PPC Google NB (Old)	Paid Search - Non-Brand	LexingtonLaw	Other	Other	Google	nan	nan
+2875	Google: NBrand Mobile - Credit Repair 2	Online - PPC Google NB (Old)	Paid Search - Non-Brand	LexingtonLaw	Other	Other	Google	nan	nan
+2876	Google: NBrand Desktop - Clean Credit 1	Online - PPC Google NB (Old)	Paid Search - Non-Brand	LexingtonLaw	Other	Other	Google	nan	nan
+2878	Google: NBrand Desktop - Fix Credit 1	Online - PPC Google NB (Old)	Paid Search - Non-Brand	LexingtonLaw	Other	Other	Google	nan	nan
+2879	Google: NBrand Mobile - Fix Credit 1	Online - PPC Google NB (Old)	Paid Search - Non-Brand	LexingtonLaw	Other	Other	Google	nan	nan
+2890	Google: NBrand Desktop - Credit Restore 1	Online - PPC Google NB (Old)	Paid Search - Non-Brand	LexingtonLaw	Other	Other	Google	nan	nan
+2929	Online - PPC Display New12	Online - PPC Display Other	Display	LexingtonLaw	Other	Native	Native	nan	nan
+2937	Google: NBrand Desktop - Bad Credit 1	Online - PPC Google NB (Old)	Paid Search - Non-Brand	LexingtonLaw	Other	Other	Google	nan	nan
+2938	Google: NBrand Desktop - Credit Professionals 2	Online - PPC Google NB (Old)	Paid Search - Non-Brand	LexingtonLaw	Other	Other	Google	nan	nan
+2954	Credit Sesame - Web	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+2996	Online - PPC Display Old9	Online - PPC Display Other	Display	LexingtonLaw	Other	Native	Native	nan	nan
+2999	Online - PPC Display Old10	Online - PPC Display Other	Display	LexingtonLaw	Other	Native	Native	nan	nan
+3022	Lex P90 SMS Month 10 B	Lead Gen - Remarketing	Lead Gen	LexingtonLaw	Other	Other	Other	nan	nan
+3063	Credit Access Email 10.1 - Retired	Remarketing - CA Email	Remarketing	LexingtonLaw	Other	Other	Other	nan	nan
+3066	LEX_RMKTG_CRAS_6	Remarketing - CA Email	Remarketing	LexingtonLaw	Other	Other	Other	nan	nan
+3120	LEX_RMKTG_CRAS_5	Remarketing - CA Email	Remarketing	LexingtonLaw	Other	Other	Other	nan	nan
+3169	Online - PPC Display New15	Online - PPC Display Other	Display	LexingtonLaw	Other	Native	Native	nan	nan
+3194	MSN: Brand Desktop - LEX Reviews 1	Online - PPC Bing BR (Old)	Paid Search - Brand	LexingtonLaw	Other	Other	Bing	nan	nan
+3195	MSN: Brand Desktop - LEX 2	Online - PPC Bing BR (Old)	Paid Search - Brand	LexingtonLaw	Other	Other	Bing	nan	nan
+3217	MSN: NBrand Desktop - Better Credit 2	Online - PPC Bing NB (New)	Paid Search - Non-Brand	LexingtonLaw	Other	Other	Bing	nan	nan
+3218	MSN: NBrand Desktop - Clean Credit 1	Online - PPC Bing NB (New)	Paid Search - Non-Brand	LexingtonLaw	Other	Other	Bing	nan	nan
+3219	MSN: NBrand Desktop - Clean Credit 2	Online - PPC Bing NB (New)	Paid Search - Non-Brand	LexingtonLaw	Other	Other	Bing	nan	nan
+3220	MSN: NBrand Desktop - Clear Credit 1	Online - PPC Bing NB (New)	Paid Search - Non-Brand	LexingtonLaw	Other	Other	Bing	nan	nan
+3223	MSN: NBrand Desktop - Correct Credit 2	Online - PPC Bing NB (New)	Paid Search - Non-Brand	LexingtonLaw	Other	Other	Bing	nan	nan
+3224	MSN: NBrand Desktop - Credit Bureau Names 1	Online - PPC Bing NB (New)	Paid Search - Non-Brand	LexingtonLaw	Other	Other	Bing	nan	nan
+3226	MSN: NBrand Desktop - Credit Bureaus 1	Online - PPC Bing NB (New)	Paid Search - Non-Brand	LexingtonLaw	Other	Other	Bing	nan	nan
+3228	MSN: NBrand Desktop - Credit Disputes 1	Online - PPC Bing NB (New)	Paid Search - Non-Brand	LexingtonLaw	Other	Other	Bing	nan	nan
+3229	MSN: NBrand Desktop - Credit Disputes 2	Online - PPC Bing NB (New)	Paid Search - Non-Brand	LexingtonLaw	Other	Other	Bing	nan	nan
+3232	MSN: NBrand Desktop - Credit Professionals 1	Online - PPC Bing NB (Old)	Paid Search - Non-Brand	LexingtonLaw	Other	Other	Bing	nan	nan
+3234	MSN: NBrand Desktop - Credit Repair 1	Online - PPC Bing NB (Old)	Paid Search - Non-Brand	LexingtonLaw	Other	Other	Bing	nan	nan
+3235	MSN: NBrand Desktop - Credit Repair 2	Online - PPC Bing NB (New)	Paid Search - Non-Brand	LexingtonLaw	Other	Other	Bing	nan	nan
+3238	MSN: NBrand Desktop - Credit Repair Reviews 1	Online - PPC Bing NB (New)	Paid Search - Non-Brand	LexingtonLaw	Other	Other	Bing	nan	nan
+3243	MSN: NBrand Desktop - Fix Credit 1	Online - PPC Bing NB (New)	Paid Search - Non-Brand	LexingtonLaw	Other	Other	Bing	nan	nan
+3247	MSN: NBrand Desktop - How To HV 2	Online - PPC Bing NB (New)	Paid Search - Non-Brand	LexingtonLaw	Other	Other	Bing	nan	nan
+3255	MSN: NBrand Desktop - Rebuild Credit 2	Online - PPC Bing NB (Old)	Paid Search - Non-Brand	LexingtonLaw	Other	Other	Bing	nan	nan
+3259	MSN: NBrand Desktop - Remove Credit Negatives 2	Online - PPC Bing NB (Old)	Paid Search - Non-Brand	LexingtonLaw	Other	Other	Bing	nan	nan
+3278	Google: NBrand Mobile - Credit Help 2	Online - PPC Google NB (Old)	Paid Search - Non-Brand	LexingtonLaw	Other	Other	Google	nan	nan
+3279	Google: NBrand Mobile - Credit Professionals 2	Online - PPC Google NB (Old)	Paid Search - Non-Brand	LexingtonLaw	Other	Other	Google	nan	nan
+3280	Google: NBrand Mobile - Credit Repair 1	Online - PPC Google NB (Old)	Paid Search - Non-Brand	LexingtonLaw	Other	Other	Google	nan	nan
+3309	Google: NBrand Desktop - Remove Credit Negatives 2	Online - PPC Google NB (Old)	Paid Search - Non-Brand	LexingtonLaw	Other	Other	Google	nan	nan
+3314	Google: NBrand Mobile - Fix Credit 2	Online - PPC Google NB (Old)	Paid Search - Non-Brand	LexingtonLaw	Other	Other	Google	nan	nan
+3321	Google: NBrand Mobile - Loans 1	Online - PPC Google NB (Old)	Paid Search - Non-Brand	LexingtonLaw	Other	Other	Google	nan	nan
+3335	ConsumerAffairs	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+3347	Google: NBrand Desktop - Credit Bureaus - RLSA	Online - PPC Google NB (Old)	Paid Search - Non-Brand	LexingtonLaw	Other	Other	Google	nan	nan
+3372	Facebook: Prospecting - Broad 2 (Snapshot)	Online - PPC Social Prospecting	Paid Social	LexingtonLaw	Other	Other	Other	nan	nan
+3374	Facebook: Credit Repair - Interests Ad 1	Online - PPC Social Prospecting	Paid Social	LexingtonLaw	Other	Other	Other	nan	nan
+3395	GDN Mobile - DSK Text 	Online - PPC Display Prospecting	Display	LexingtonLaw	Display - Prospecting	Other	Other	nan	nan
+3396	Online - PPC Display GDN Desktop - DSK Text	Online - PPC Display Prospecting	Display	LexingtonLaw	Display - Prospecting	Other	Other	nan	nan
+3419	LEX_Pending_Email_1 - Retired	Remarketing - FC Email	e5	LexingtonLaw	Other	Other	Other	nan	nan
+3421	LEX_Pending_Email_2 - Retired	Remarketing - FC Email	e5	LexingtonLaw	Other	Other	Other	nan	nan
+3422	LEX_RMKTG_Pending_3	Remarketing - FC Email	e5	LexingtonLaw	Other	Other	Other	nan	nan
+3423	LEX_RMKTG_Pending_4	Remarketing - FC Email	e5	LexingtonLaw	Other	Other	Other	nan	nan
+3424	LEX_RMKTG_ROR_1	Remarketing - FC Email	e5	LexingtonLaw	Other	Other	Other	nan	nan
+3425	Lex E7 Email Day 70 - Retired	Remarketing - FC Email	e5	LexingtonLaw	Other	Other	Other	nan	nan
+3426	LEX_RMKTG_ROR_2	Remarketing - FC Email	e5	LexingtonLaw	Other	Other	Other	nan	nan
+3428	Lex CO Email Day 61 - Retired	Remarketing - FC Email	e5	LexingtonLaw	Other	Other	Other	nan	nan
+3431	LEX_RMKTG_EXP_2	Remarketing - FC Email	e5	LexingtonLaw	Other	Other	Other	nan	nan
+3517	Google: NBrand Desktop - Credit Repair KW Exact	Online - PPC Google NB (Old)	Paid Search - Non-Brand	LexingtonLaw	Other	Other	Google	nan	nan
+3540	MSN: NBrand Mobile - How To Remove Negatives 2	Online - PPC Bing NB (Old)	Paid Search - Non-Brand	LexingtonLaw	Other	Other	Bing	nan	nan
+3566	Homes.com - Homes Media Solutions	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+3568	Ryan Bales bettercreditblog.org	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+3659	MSN: Nbrand Desktop - Legal 2	Online - PPC Bing NB (Old)	Paid Search - Non-Brand	LexingtonLaw	Other	Other	Bing	nan	nan
+3660	MSN: Nbrand Desktop - Subprime Credit 2	Online - PPC Bing NB (Old)	Paid Search - Non-Brand	LexingtonLaw	Other	Other	Bing	nan	nan
+3682	Simple Thrifty Living - Jeff Hunter	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+3686	MSN: Nbrand Desktop - Credit Repair KW Exact	Online - PPC Bing NB (New)	Paid Search - Non-Brand	LexingtonLaw	Other	Other	Bing	nan	nan
+3688	MSN: Nbrand Desktop - Fix My Credit KW Exact	Online - PPC Bing NB (Old)	Paid Search - Non-Brand	LexingtonLaw	Other	Other	Bing	nan	nan
+3711	Google: Brand Desktop - LEX Misspellings 1	Online - PPC Google BR (Old)	Paid Search - Brand	LexingtonLaw	Other	Other	Google	nan	nan
+3714	MSN: Brand Desktop - LEX Misspellings 1	Online - PPC Bing BR (Old)	Paid Search - Brand	LexingtonLaw	Other	Other	Bing	nan	nan
+3715	MSN: Brand Mobile - LEX Misspellings 1	Online - PPC Bing BR (Old)	Paid Search - Brand	LexingtonLaw	Other	Other	Bing	nan	nan
+3731	Liberty Rent Contract Online	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+3747	Lex SMS Day 12 Short Link Test	Lead Gen - Remarketing	Lead Gen	LexingtonLaw	Other	Other	Other	nan	nan
+3764	MSN: NBrand Mobile - Fix Credit 1	Online - PPC Bing NB (Old)	Paid Search - Non-Brand	LexingtonLaw	Other	Other	Bing	nan	nan
+3766	MSN: NBrand Mobile - Fix My Credit KW Exact	Online - PPC Bing NB (Old)	Paid Search - Non-Brand	LexingtonLaw	Other	Other	Bing	nan	nan
+3769	MSN: NBrand Mobile - How To Remove Negatives 1	Online - PPC Bing NB (Old)	Paid Search - Non-Brand	LexingtonLaw	Other	Other	Bing	nan	nan
+3770	MSN: NBrand Mobile - Improve Credit 1	Online - PPC Bing NB (New)	Paid Search - Non-Brand	LexingtonLaw	Other	Other	Bing	nan	nan
+3771	MSN: NBrand Mobile - Improve Credit 2	Online - PPC Bing NB (New)	Paid Search - Non-Brand	LexingtonLaw	Other	Other	Bing	nan	nan
+3773	MSN: NBrand Mobile - Increase Credit 2	Online - PPC Bing NB (Old)	Paid Search - Non-Brand	LexingtonLaw	Other	Other	Bing	nan	nan
+3778	MSN: Brand Mobile - LEX Reviews 1	Online - PPC Bing BR (Old)	Paid Search - Brand	LexingtonLaw	Other	Other	Bing	nan	nan
+3782	MSN: NBrand Mobile - Rebuild Credit 2	Online - PPC Bing NB (Old)	Paid Search - Non-Brand	LexingtonLaw	Other	Other	Bing	nan	nan
+3787	MSN: NBrand Mobile - Raise Credit 2	Online - PPC Bing NB (Old)	Paid Search - Non-Brand	LexingtonLaw	Other	Other	Bing	nan	nan
+3796	MSN: NBrand Mobile - Better Credit 1	Online - PPC Bing NB (Old)	Paid Search - Non-Brand	LexingtonLaw	Other	Other	Bing	nan	nan
+3799	Lynn (Linda) Burns	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+3803	J&C RTO HTSP/SMS	Financial - Mortgage Broker	Finance Mortgage	LexingtonLaw	Other	Other	Other	nan	nan
+3820	AMS Financial - Brandon Perry	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+3825	Debtcollectionanswers.com - Ultimate Credit Solution	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+3828	MSN: NBrand Mobile - Credit Repair 1	Online - PPC Bing NB (New)	Paid Search - Non-Brand	LexingtonLaw	Other	Other	Bing	nan	nan
+3833	MSN: NBrand Mobile - Credit Repair 2 - Non CR	Online - PPC Bing NB (New)	Paid Search - Non-Brand	LexingtonLaw	Other	Other	Bing	nan	nan
+3836	MSN: NBrand Mobile - Credit Repair KW Exact	Online - PPC Bing NB (New)	Paid Search - Non-Brand	LexingtonLaw	Other	Other	Bing	nan	nan
+3879	OpenRoad Lending - online	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+3889	Google: NBrand Desktop - Build Credit 2	Online - PPC Google NB (Old)	Paid Search - Non-Brand	LexingtonLaw	Other	Other	Google	nan	nan
+3897	Google: Brand Desktop - LEX Credit Repair 1	Online - PPC Google BR (Old)	Paid Search - Brand	LexingtonLaw	Other	Other	Google	nan	nan
+3898	Google: Brand Mobile - LEX Credit Repair 1	Online - PPC Google BR (Old)	Paid Search - Brand	LexingtonLaw	Other	Other	Google	nan	nan
+3941	Gemini: Brand Desktop - LEX 1	Online - PPC Gemini BR (Old)	Paid Search - Brand	LexingtonLaw	Other	Other	Other	nan	nan
+3958	Gemini: NBrand Desktop - Credit Bureaus 1	Online - PPC Gemini NB (Old)	Paid Search - Non-Brand	LexingtonLaw	Other	Other	Other	nan	nan
+3969	Gemini: NBrand Desktop - Credit Repair 1 - Non CR	Online - PPC Gemini NB (Old)	Paid Search - Non-Brand	LexingtonLaw	Other	Other	Other	nan	nan
+4089	Consumers Advocate Group - Ad Practitioners, LLC	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+4136	Patchwork Tech - CreditRepairReview.com	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+4233	Credit.com - DFP intent (advice)	Credit.com - Intent	Intent	LexingtonLaw	Other	Other	Other	nan	nan
+4245	Display - About Us Video	Brand - Direct Legacy	Direct	LexingtonLaw	Other	Other	Other	nan	nan
+4250	Credit.com - Errors on Credit Report blog	Credit.com - Blog	Blog	LexingtonLaw	Other	Other	Other	nan	nan
+4320	Credit.com - Adroll	Credit.com	Freemium & Email	LexingtonLaw	Other	Other	Other	nan	nan
+4321	Credit.com - Outbrain Mobile	Credit.com	Freemium & Email	LexingtonLaw	Other	Other	Other	nan	nan
+4322	Online - PPC Display New38	Online - PPC Display Other	Display	LexingtonLaw	Other	Native	Native	nan	nan
+4324	Credit.com - Intent Callouts	Credit.com - Intent	Intent	LexingtonLaw	Other	Other	Other	nan	nan
+4332	Credit.com - lexington law review (in text links)	Credit.com - Intent	Intent	LexingtonLaw	Other	Other	Other	nan	nan
+4334	Credit.com - JH Mobile	Credit.com - CRC	Freemium & Email	LexingtonLaw	Other	Other	Other	nan	nan
+4337	Credit.com - Email Test Home Page	Credit.com - Email	Freemium & Email	LexingtonLaw	Other	Other	Other	nan	nan
+4348	OneUnited - Unity Card (CCOM Aff)	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+4354	James Kirby	Financial - Other	Finance Mortgage	LexingtonLaw	Other	Other	Other	nan	nan
+4413	Google: NBrand Desktop - Google_Search_Gamma	Online - PPC Google NB (Old)	Paid Search - Non-Brand	LexingtonLaw	Other	Other	Google	nan	nan
+4414	Google: NBrand Mobile - Google_Search_Gamma	Online - PPC Google NB (New)	Paid Search - Non-Brand	LexingtonLaw	Other	Other	Google	nan	nan
+4499	Partner Lead Email 2	Lead Gen - Remarketing	Lead Gen	LexingtonLaw	Other	Other	Other	nan	nan
+4525	Credit.com - INTENT Credit Repair in-text test	Credit.com - Intent	Intent	LexingtonLaw	Other	Other	Other	nan	nan
+4567	Credit Sesame - Personal Loan Decline Email	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+4582	Credit Sesame - PH C Email	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+4583	Credit Sesame - PH D Email	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+4584	Credit Sesame - PH F Email	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+4585	Credit Sesame - Credit Monitoring Alert Email	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+4637	Facebook Acquisition DNF LAL 1% Category 2 - Low Quality	Online - PPC Social Facebook	Paid Social	LexingtonLaw	Other	Other	Other	nan	nan
+4678	Facebook: RT - CR - Discount	Online - PPC Social Retargeting	Paid Social	LexingtonLaw	Other	Other	Paid Social Retargeting	nan	nan
+4679	First Loan Choice	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+4712	Credit.com - Native Default	Credit.com	Freemium & Email	LexingtonLaw	Other	Other	Other	nan	nan
+4729	MSN: NBrand Desktop - Boost Credit 2	Online - PPC Bing NB (New)	Paid Search - Non-Brand	LexingtonLaw	Other	Other	Bing	nan	nan
+4735	MSN: NBrand Desktop - Build Credit 2	Online - PPC Bing NB (New)	Paid Search - Non-Brand	LexingtonLaw	Other	Other	Bing	nan	nan
+4770	Facebook: Retargeting - $50 Off	Online - PPC Social Retargeting	Paid Social	LexingtonLaw	Other	Other	Paid Social Retargeting	nan	nan
+4824	Google: General - DSA - Desktop	Online - Paid Search Google NB L	Paid Search - Non-Brand	LexingtonLaw	Other	Other	Google	nan	nan
+4831	MSN: NBrand Mobile - FICO 1	Online - PPC Bing NB (New)	Paid Search - Non-Brand	LexingtonLaw	Other	Other	Bing	nan	nan
+4904	Criteo - Display Retargeting	Online - PPC Display Retargeting	Display	LexingtonLaw	Display - Retargeting	Other	Other	nan	nan
+4905	Criteo - New Years Retargeting	Online - PPC Display Retargeting	Display	LexingtonLaw	Display - Retargeting	Other	Other	nan	nan
+4929	Facebook: Invoca Phone - $50 Discount	Online - PPC Social Retargeting	Paid Social	LexingtonLaw	Other	Other	Paid Social Retargeting	nan	nan
+30080	Credit Sesame - Featured Placement	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+30223	Facebook: Acq Test Apartment	Online - PPC Social Facebook	Paid Social	LexingtonLaw	Other	Other	Other	nan	nan
+30240	Roxs Marketing - Online Affiliate	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+30244	Natural Intelligence - Online 2 	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+30250	RTO Homes Hotswap 	Hotswap - External	Hotswap External	LexingtonLaw	Other	Other	Other	nan	nan
+30292	Facebook: Lex Step 1-3 Abandons 30 Days - AN	Online - PPC Social Facebook	Paid Social	LexingtonLaw	Other	Other	Other	nan	nan
+30335	ConsumersAdvocate	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+30698	TransUnion.com - Site Placement - LL	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+30716	TUCM - Site Placement - LL	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+30794	ConsumersAdvocate - Mobile Traffic	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+30796	Online Affiliate - Trustpilot	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+30815	Adcloud - Lex Retargeting	Online - PPC Display Retargeting	Display	LexingtonLaw	Display - Retargeting	Other	Other	nan	nan
+30935	Affiliate - Applied Minds	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+30937	Lending Tree - Loan Denial	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+30958	Credit.com - Benefits - Return	Credit.com - CRC	Freemium & Email	LexingtonLaw	Other	Other	Other	nan	nan
+30969	CRC - Mobile Dashboard Neg Item List	Credit.com - CRC	Freemium & Email	LexingtonLaw	Other	Other	Other	nan	nan
+31025	LexLaw-Influencer	Brand - Direct Earned PR	Earned Media	LexingtonLaw	Other	Other	Other	nan	nan
+31027	LexLaw-Blog	Online - Natural Search	Natural Search	LexingtonLaw	Other	Other	Other	nan	nan
+31130	AceTech - Loan Denial	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+31140	Online - BlueKeel - Facebook	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+31220	GMB - Waterford, MI	Online - Natural Search	Natural Search	LexingtonLaw	Other	Other	Other	nan	nan
+31221	GMB - Jacksonville, FL	Online - Natural Search	Natural Search	LexingtonLaw	Other	Other	Other	nan	nan
+31222	GMB - Phoenix, AZ	Online - Natural Search	Natural Search	LexingtonLaw	Other	Other	Other	nan	nan
+31225	GMB - Tucson, AZ	Online - Natural Search	Natural Search	LexingtonLaw	Other	Other	Other	nan	nan
+31226	GMB - Jackson, MS	Online - Natural Search	Natural Search	LexingtonLaw	Other	Other	Other	nan	nan
+31227	GMB - North Salt Lake, UT	Online - Natural Search GMB	Natural Search	LexingtonLaw	Other	Other	Other	nan	nan
+31228	GMB - Bluffton, SC	Online - Natural Search	Natural Search	LexingtonLaw	Other	Other	Other	nan	nan
+31229	Natural Search-10	Online - Natural Search	Natural Search	LexingtonLaw	Other	Other	Other	nan	nan
+31234	MSN: Brand Desktop - LEX Credit Repair 1	Online - PPC Bing BR (New)	Paid Search - Brand	LexingtonLaw	Other	Other	Bing	nan	nan
+31235	MSN: Brand Mobile - LEX Credit Repair 1	Online - Paid Search Bing Brand 	Paid Search - Brand	LexingtonLaw	Other	Other	Bing	nan	nan
+31240	Google: Fix Credit 2 - Target CPA	Online - Paid Search Google NB L	Paid Search - Non-Brand	LexingtonLaw	Other	Other	Google	nan	nan
+31260	ConsumerAffairs - Click Traffic	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+31330	Geist Display 538	Online - PPC Geist Display	Display	LexingtonLaw	Other	Other	Other	nan	nan
+31343	Natural Search - Index	Online - Natural Search Brand	Natural Search	LexingtonLaw	Other	Other	Other	nan	nan
+31344	Natural Search - GMB (Static)	Online - Natural Search Brand	Natural Search	LexingtonLaw	Other	Other	Other	nan	nan
+31345	Natural Search - Credit Repair Services	Online - Natural Search Brand	Natural Search	LexingtonLaw	Other	Other	Other	nan	nan
+31346	Natural Search - FAQ/Costs	Online - Natural Search Brand	Natural Search	LexingtonLaw	Other	Other	Other	nan	nan
+31347	Natural Search - FAQ	Online - Natural Search Brand	Natural Search	LexingtonLaw	Other	Other	Other	nan	nan
+31348	Natural Search - Our Firm/Reviews	Online - Natural Search Brand	Natural Search	LexingtonLaw	Other	Other	Other	nan	nan
+31349	Natural Search - Credit Snapshot	Online - Natural Search Brand	Natural Search	LexingtonLaw	Other	Other	Other	nan	nan
+31351	Natural Search - Our Firm	Online - Natural Search Brand	Natural Search	LexingtonLaw	Other	Other	Other	nan	nan
+31352	Natural Search - Signup	Online - Natural Search Brand	Natural Search	LexingtonLaw	Other	Other	Other	nan	nan
+31370	NS YouTube: General TID	Online - Natural Search	Natural Search	LexingtonLaw	Other	Other	Other	nan	nan
+31371	GMB - New York, New York	Online - Natural Search	Natural Search	LexingtonLaw	Other	Other	Other	nan	nan
+31372	Natural Search - Lexington Law App - Android	Online - Natural Search	Natural Search	LexingtonLaw	Other	Other	Other	nan	nan
+31373	SocialMedia-Facebook	Brand - Direct Earned Social	Earned Media	LexingtonLaw	Other	Other	Other	nan	nan
+31465	Affiliate - Media Force	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+31476	Affiliate - Wickfire - General - Closed/Shut Down	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+31553	Creditdotcom-RS4	Credit.com - Intent	Intent	LexingtonLaw	Other	Other	Other	nan	nan
+31592	Credit Sesame - Collections Email	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+31613	Wickfire - Names - Closed	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+31664	Active Sun- Email	Lead Gen - External	Lead Gen	LexingtonLaw	Other	Other	Other	nan	nan
+31722	Facebook: LEX - ACQ - A - InMarket New Used Car - 3	Online - PPC Social Prospecting	Paid Social	LexingtonLaw	Other	Other	Other	nan	nan
+31751	Lending Tree - Personal Loans	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+31755	Credit Sesame - Var1-ios-aoop-payment-history	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+31756	Credit Sesame - Var2-ios-aoop-payment-history 	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+31757	Credit Sesame - Var1-ios-aoop-sesame-potential-payment-history-simulation 	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+31774	Credit Sesame - Var2-ios-aoop-sesame-potential-payment-history-simulation 	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+31780	TUCM.com - DFP - Fair	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+31802	GDN - GSP - Desktop	Online - PPC Display GDN	Display	LexingtonLaw	Other	Display	Other	nan	nan
+31804	Google: Brand Desktop - Lexington Law KW Exact	Online - Paid Search Google Bran	Paid Search - Brand	LexingtonLaw	Other	Other	Google	nan	nan
+31805	Google: B - Lexington Law KW	Online - PPC Google BR (New)	Paid Search - Brand	LexingtonLaw	Other	Other	Google	nan	nan
+31820	Gemini: NBrand Desktop - Native 	Online - Paid Search Gemini NB L	nan	LexingtonLaw	Other	Other	Other	nan	nan
+31834	Affiliate - Cicola Investments - DRIPS	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+31836	LeadPoint - Credit Cards - Inactive	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+31837	Credit Sesame - Preferred Placement	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+31844	Lendio	Hotswap - External	Hotswap External	LexingtonLaw	Other	Other	Other	nan	nan
+31882	Natural Search - Lexington Law App - iTunes	Online - Natural Search	Natural Search	LexingtonLaw	Other	Other	Other	nan	nan
+31884	GDN - US C.com Remarketing	Online - PPC Display Other	Display	LexingtonLaw	Other	Native	Native	nan	nan
+31900	Affiliate - Banks.com	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+31957	Social Media - Facebook - Video	Brand - Direct Earned Content	Earned Media	LexingtonLaw	Other	Other	Other	nan	nan
+31958	Social Media - Facebook - Images	Brand - Direct Earned Content	Earned Media	LexingtonLaw	Other	Other	Other	nan	nan
+31959	Social Media - Facebook - Blogs 	Brand - Direct Earned Content	Earned Media	LexingtonLaw	Other	Other	Other	nan	nan
+31961	Social Media -Instagram 	Brand - Direct Earned Content	Earned Media	LexingtonLaw	Other	Other	Other	nan	nan
+31963	Social Media - Twitter - Chat 	Brand - Direct Earned Content	Earned Media	LexingtonLaw	Other	Other	Other	nan	nan
+31964	Social Media - Twitter - Posts 	Brand - Direct Earned Content	Earned Media	LexingtonLaw	Other	Other	Other	nan	nan
+31965	Social Media - Twitter - Blogs 	Brand - Direct Earned Content	Earned Media	LexingtonLaw	Other	Other	Other	nan	nan
+31968	Social Media - YouTube - Videos	Brand - Direct Earned Social	Earned Media	LexingtonLaw	Other	Other	Other	nan	nan
+32006	Gemini: NBrand - Lexington Law - Native	Online - Paid Search Google NB L	Paid Search - Non-Brand	LexingtonLaw	Other	Other	Google	nan	nan
+32024	GDN - Smart Display 	Online - PPC Display Other	Display	LexingtonLaw	Other	Native	Native	nan	nan
+32066	Affiliate - Bryan Enterprises 	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+32112	CCOM LL Test	Credit.com - Email	Freemium & Email	LexingtonLaw	Other	Other	Other	nan	nan
+32113	Consumers Advocate - BCB 	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+32114	CreditReviews.com - STL	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+32117	Credit Sesame Mobile: IOS AOOP PH	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+32118	Credit Sesame Mobile: IOS AAOP PH Sim Control	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+32119	Credit Sesame Mobile: IOS AOOP PH Sim Variation Preferred Placement	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+32122	Credit Sesame Mobile: Android AOOP PH	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+32129	Lifestyle Influencer	Brand - Direct Earned PR	Earned Media	LexingtonLaw	Other	Other	Other	nan	nan
+32132	GMB - Overland Park, Kansas	Online - Natural Search	Natural Search	LexingtonLaw	Other	Other	Other	nan	nan
+32133	GMB - Nundelein, Illinois	Online - Natural Search	Natural Search	LexingtonLaw	Other	Other	Other	nan	nan
+32135	GMB - Lewiston, Maine	Online - Natural Search	Natural Search	LexingtonLaw	Other	Other	Other	nan	nan
+32136	GMB - Frederick, Maryland	Online - Natural Search	Natural Search	LexingtonLaw	Other	Other	Other	nan	nan
+32138	GMB - Fairlawn, Ohio	Online - Natural Search	Natural Search	LexingtonLaw	Other	Other	Other	nan	nan
+32139	GMB - Pittsburgh, Pennsylvania	Online - Natural Search	Natural Search	LexingtonLaw	Other	Other	Other	nan	nan
+32140	GMB - Oakton, Virginia	Online - Natural Search	Natural Search	LexingtonLaw	Other	Other	Other	nan	nan
+32141	GMB - Birmingham, Alabama	Online - Natural Search	Natural Search	LexingtonLaw	Other	Other	Other	nan	nan
+32142	GMB - Oklahoma City, Oklahoma	Online - Natural Search	Natural Search	LexingtonLaw	Other	Other	Other	nan	nan
+32147	Natural Search - Client Services	Online - Natural Search	Natural Search	LexingtonLaw	Other	Other	Other	nan	nan
+32150	Natural Search- Lex Pinterest	Online - Natural Search	Natural Search	LexingtonLaw	Other	Other	Other	nan	nan
+32156	Facebook: RT - Credit Sesame - Influencer	Online - PPC Social Retargeting	Paid Social	LexingtonLaw	Other	Other	Paid Social Retargeting	nan	nan
+32159	Natural Search-74	Online - Natural Search	Natural Search	LexingtonLaw	Other	Other	Other	nan	nan
+32160	GMB - Local Pack Test 1	Online - Natural Search	Natural Search	LexingtonLaw	Other	Other	Other	nan	nan
+32161	Yelp - ALL	Online - Natural Search	Natural Search	LexingtonLaw	Other	Other	Other	nan	nan
+32162	Invoca - Mpire - PUSH	Online - Affiliate Invoca	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+32163	Invoca - Aragon - Push - Inactive	Online - Affiliate Invoca	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+32166	Invoca - Fluent - Deployment Test	Online - Affiliate Invoca	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+32172	Credit.com	Credit.com - Intent	Intent	LexingtonLaw	Other	Other	Other	nan	nan
+32173	Credit.com	Credit.com - Intent	Intent	LexingtonLaw	Other	Other	Other	nan	nan
+32175	Credit.com	Credit.com - Paid Media	Paid Media	LexingtonLaw	Other	Other	Other	nan	nan
+32176	Credit Sesame Mobile: Android AOOP PH Sim Variation Preferred Placement	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+32178	Credit Sesame Mobile: Android Tips	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+32218	GDN - 2019 Creatives 	Online - PPC Display GDN	Display	LexingtonLaw	Other	Display	Other	nan	nan
+32229	Centro: R - LL CS Visits Email Placements - Discount	Online - PPC Display Retargeting	Display	LexingtonLaw	Display - Retargeting	Other	Other	nan	nan
+32233	Bing: P - LL IMA Desk	Online - PPC Display Prospecting	Display	LexingtonLaw	Display - Prospecting	Other	Other	nan	nan
+32251	Hampton Laboratories - HS 	Hotswap - External	Hotswap External	LexingtonLaw	Other	Other	Other	nan	nan
+32274	Linqia Custom: Audience	Online - PPC Social Prospecting	Paid Social	LexingtonLaw	Other	Other	Other	nan	nan
+32277	Lexington Law Shared Audience -Whitelisted	Online - PPC Social Prospecting	Paid Social	LexingtonLaw	Other	Other	Other	nan	nan
+32281	Facebook: Prospecting - Broad	Online - PPC Social Prospecting	Paid Social	LexingtonLaw	Other	Other	Other	nan	nan
+32283	Facebook: Customer LTV Lookalike 1%	Online - PPC Social Prospecting	Paid Social	LexingtonLaw	Other	Other	Other	nan	nan
+32293	Stringo:Yahoo_Native:Five Category KW	Online - PPC Native Prospecting	Display	LexingtonLaw	Native - Prospecting	Other	Other	nan	nan
+32325	Yahoo: Lexington Law - PPC Native Prospecting	Online - PPC Native Prospecting	Display	LexingtonLaw	Native - Prospecting	Other	Other	nan	nan
+32334	MSN: Brand Desktop - Lexington Law Sign In 1 	Online - PPC Bing BR (New)	Paid Search - Brand	LexingtonLaw	Other	Other	Bing	nan	nan
+32335	MSN: Brand Mobile - Lexington Law Sign In 1 	Online - PPC Bing BR (Old)	Paid Search - Brand	LexingtonLaw	Other	Other	Bing	nan	nan
+32361	CreditReviews.com - OB	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+32406	Geist:FB_Native:SneakPeakReview	Online - PPC Native Prospecting	Display	LexingtonLaw	Native - Prospecting	Other	Other	nan	nan
+32418	Outbrain: Lexington Law - PPC Native Prospecting	Online - PPC Native Prospecting	Display	LexingtonLaw	Native - Prospecting	Other	Other	nan	nan
+32424	Gemini: NBrand Desktop - Native - SRT - B	Online - PPC Native Prospecting	Display	LexingtonLaw	Native - Prospecting	Other	Other	nan	nan
+32430	MSN: Brand Desktop - Lexington Law KW Exact	Online - PPC Bing BR (New)	Paid Search - Brand	LexingtonLaw	Other	Other	Bing	nan	nan
+32434	Google: Brand Test	Online - PPC Google BR (New)	Paid Search - Brand	LexingtonLaw	Other	Other	Google	nan	nan
+32438	Yahoo: Lexington Law - Native - Prospecting	Online - PPC Native Prospecting	Display	LexingtonLaw	Native - Prospecting	Other	Other	nan	nan
+32440	LEX_RMKTG_Kaleyra_FOG_2	Remarketing - FOG SMS	Remarketing	LexingtonLaw	Other	Other	Other	nan	nan
+32443	LEX_RMKTG_Kaleyra_FOG_4	Remarketing - FOG SMS	Remarketing	LexingtonLaw	Other	Other	Other	nan	nan
+32444	LEX_RMKTG_Kaleyra_FOG_5	Remarketing - FOG SMS	Remarketing	LexingtonLaw	Other	Other	Other	nan	nan
+32459	Axiom Credibility	Hotswap - External	Hotswap External	LexingtonLaw	Other	Other	Other	nan	nan
+32479	RateSpecial - AFID 428069	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+32509	Lexington Law Client Cohort #4	Remarketing - FFHD Email	Remarketing	LexingtonLaw	Other	Other	Other	nan	nan
+32510	Lexington Law Client Cohort #5	Remarketing - FFHD Email	Remarketing	LexingtonLaw	Other	Other	Other	nan	nan
+32511	Lexington Law Client Cohort #6	Remarketing - Direct	Remarketing	LexingtonLaw	Other	Other	Other	nan	nan
+32553	LEX_RMKTG_Kaleyra_FOG_1	Remarketing - FOG SMS	Remarketing	LexingtonLaw	Other	Other	Other	nan	nan
+32573	Facebook: Prospecting - Broad	Online - PPC Social Prospecting	Paid Social	LexingtonLaw	Other	Other	Other	nan	nan
+32627	Rate Special - $50 Off	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+32635	Credit Sesame - Morpheus My Actions Page Regular placement	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+32636	Credit Sesame - Morpheus My Actions Page Preferred placement 	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+32637	Credit Sesame - Morpheus Payment History Page Regular placement	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+32657	Brand E5 Email Day 135b - Retired	Remarketing - FC Email	e5	LexingtonLaw	Other	Other	Other	nan	nan
+32659	LEX_RMKTG_ChargeOff_2	Remarketing - FC Email	e5	LexingtonLaw	Other	Other	Other	nan	nan
+32660	LEX_RMKTG_ChargeOff_4	Remarketing - FC Email	e5	LexingtonLaw	Other	Other	Other	nan	nan
+32663	LEX_RMKTG_ChargeOff_3	Remarketing - FC Email	e5	LexingtonLaw	Other	Other	Other	nan	nan
+32695	1-PGX Brand (Informational)	Credit.com - Brand PPC	Brand PPC	LexingtonLaw	Other	Other	Other	nan	nan
+32700	CCOM CR 8	Credit.com - CRC	Freemium & Email	LexingtonLaw	Other	Other	Other	nan	nan
+32711	4-32711- Credit Repair KW Exact - Desktop	Credit.com - Non-Brand PPC	Non Brand PPC	LexingtonLaw	Other	Other	Other	nan	nan
+32713	Online Affiliate - Synergy Email Pub25	Email Marketing - Networks	Email Marketing	LexingtonLaw	Other	Other	Other	nan	nan
+32726	Online Affiliate - Synergy Email Pub21	Email Marketing - Networks	Email Marketing	LexingtonLaw	Other	Other	Other	nan	nan
+32767	Credit Sesame - Welcome Email	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+32768	Yahoo: Brand - Lexington Law - Native - Prospecting	Online - PPC Native Prospecting	Display	LexingtonLaw	Native - Prospecting	Other	Other	nan	nan
+32769	Yahoo: Lexington Law - Native - Prospecting	Online - PPC Native Prospecting	Display	LexingtonLaw	Native - Prospecting	Other	Other	nan	nan
+32770	Verizon: R - Both Brands Bliss Opens	Online - PPC Native Retargeting	Display	LexingtonLaw	Native - Retargeting	Other	Other	nan	nan
+32772	Outbrain: Lexington Law - Native - Prospecting	Online - PPC Native Prospecting	Display	LexingtonLaw	Native - Prospecting	Other	Other	nan	nan
+32779	PowerInbox: Apple News	Online - PPC Native Prospecting	Display	LexingtonLaw	Native - Prospecting	Other	Other	nan	nan
+32780	Digital-32780	Online - PPC Native Prospecting	Display	LexingtonLaw	Native - Prospecting	Other	Other	nan	nan
+32782	Revcontent: Lexington Law - Native - Prospecting	Online - PPC Native Prospecting	Display	LexingtonLaw	Native - Prospecting	Other	Other	nan	nan
+32793	Credit Access SMS Day 15	Remarketing - CA SMS	Remarketing	LexingtonLaw	Other	Other	Other	nan	nan
+32796	LEX_RMKTG_CRAS_1	Remarketing - CA Email	Remarketing	LexingtonLaw	Other	Other	Other	nan	nan
+32797	Bliss Media 1	Email Marketing - Networks	Email Marketing	LexingtonLaw	Other	Other	Other	nan	nan
+32801	CCOM Brafton 1	Credit.com - Blog	Blog	LexingtonLaw	Other	Other	Other	nan	nan
+32803	CCOM Brafton 3	Credit.com - Blog	Blog	LexingtonLaw	Other	Other	Other	nan	nan
+32818	LEX_RMKTG_CRAS_4	Remarketing - CA Email	Remarketing	LexingtonLaw	Other	Other	Other	nan	nan
+32822	Web Leads Email 1	Remarketing - Web Lead Email	Remarketing	LexingtonLaw	Other	Other	Other	nan	nan
+32823	Web Leads Email 2	Remarketing - Web Lead Email	Remarketing	LexingtonLaw	Other	Other	Other	nan	nan
+32824	Web Leads Email 3	Remarketing - Web Lead Email	Remarketing	LexingtonLaw	Other	Other	Other	nan	nan
+32849	CCOM Blog 5	Credit.com - Blog	Blog	LexingtonLaw	Other	Other	Other	nan	nan
+32866	Consumers Advocate - PLS.org	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+32889	Email - Welcome1	Credit.com - Email	Freemium & Email	LexingtonLaw	Other	Other	Other	nan	nan
+32893	CCOM Intent 3	Credit.com - Intent	Intent	LexingtonLaw	Other	Other	Other	nan	nan
+32897	ExtraCredit - Restore It - Premium	Credit.com - Extra Credit	Extra Credit	LexingtonLaw	Other	Other	Other	nan	nan
+32916	Active Email	Lead Gen - External	Lead Gen	LexingtonLaw	Other	Other	Other	nan	nan
+32931	Dot818 - Online Affiliate - Loan Denial - Closed/Shutdown	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+32937	Credit Sesame - Mobile App PH Variation 1	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+32956	Facebook: LAL 8%	Online - PPC Social Prospecting	Paid Social	LexingtonLaw	Other	Other	Other	nan	nan
+32957	Facebook: PR - Interests (Credit Cards)	Online - PPC Social Prospecting	Paid Social	LexingtonLaw	Other	Other	Other	nan	nan
+32959	Facebook: Prospecting - Interests (Housing)	Online - PPC Social Prospecting	Paid Social	LexingtonLaw	Other	Other	Other	nan	nan
+32961	Facebook: Prospecting - Interest  (Competitors)	Online - PPC Social Prospecting	Paid Social	LexingtonLaw	Other	Other	Other	nan	nan
+33013	Taboola: P - Credit Audience	Online - PPC Native Prospecting	Display	LexingtonLaw	Native - Prospecting	Other	Other	nan	nan
+33016	Social Media-19	Brand - Direct Earned Social	Earned Media	LexingtonLaw	Other	Other	Other	nan	nan
+33017	Social Media-20	Brand - Direct Earned Social	Earned Media	LexingtonLaw	Other	Other	Other	nan	nan
+33018	Social Media-21	Brand - Direct Earned Social	Earned Media	LexingtonLaw	Other	Other	Other	nan	nan
+33019	Social Media-22	Brand - Direct Earned Social	Earned Media	LexingtonLaw	Other	Other	Other	nan	nan
+33020	Social Media-23	Brand - Direct Earned Social	Earned Media	LexingtonLaw	Other	Other	Other	nan	nan
+33032	Social Media-35	Brand - Direct Earned Social	Earned Media	LexingtonLaw	Other	Other	Other	nan	nan
+33051	Dot Dash - Affiliate - Investopedia	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+33060	4-33060- Credit Repair Services - Theme	Credit.com - Non-Brand PPC	Non Brand PPC	LexingtonLaw	Other	Other	Other	nan	nan
+33065	Credit Sesame - Collections PreFill Test	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+33066	DLS Store - Affiliate - AutoLoan - Inactive	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+33073	Affiliate - Synergy Email Pub43	Email Marketing - Networks	Email Marketing	LexingtonLaw	Other	Other	Other	nan	nan
+33075	Google: NB Credit Score	Online - PPC Google NB (New)	Paid Search - Non-Brand	LexingtonLaw	Other	Other	Google	nan	nan
+33093	AmOne - Email	Hotswap - External	Hotswap External	LexingtonLaw	Other	Other	Other	nan	nan
+33098	4-General - Clean Credit KWE - Lex Lander Online	Credit.com - Non-Brand PPC	Non Brand PPC	LexingtonLaw	Other	Other	Other	nan	nan
+33107	1-PGX Brand	Credit.com - Brand PPC	Brand PPC	LexingtonLaw	Other	Other	Other	nan	nan
+33145	ACE (Funding Way) - Affiliate - Spanish	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+33196	Stringo-LEX-Centro-Prospecting-33196	Online - PPC Display Prospecting	Display	LexingtonLaw	Display - Prospecting	Other	Other	nan	nan
+33198	Stringo-Centro-Prospecting-33198	Online - PPC Display Prospecting	Display	LexingtonLaw	Display - Prospecting	Other	Other	nan	nan
+33200	Stringo-Centro-Prospecting-33200	Online - PPC Display Prospecting	Display	LexingtonLaw	Display - Prospecting	Other	Other	nan	nan
+33201	Stringo-Centro-Prospecting-33201	Online - PPC Display Prospecting	Display	LexingtonLaw	Display - Prospecting	Other	Other	nan	nan
+33203	Taboola: P - Credit Audience	Online - PPC Display Prospecting	Display	LexingtonLaw	Display - Prospecting	Other	Other	nan	nan
+33206	Centro Display	Online - PPC Display Prospecting	Display	LexingtonLaw	Display - Prospecting	Other	Other	nan	nan
+33208	Centro: R - CR Credit Matters - Discount - V2	Online - PPC Display Retargeting	Display	LexingtonLaw	Display - Retargeting	Other	Other	nan	nan
+33220	Credit Sesame - Collections NON-Prefill Test	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+33227	RX Marketing - Affiliate - Email/CPA	Email Marketing - Direct Brand	Email Marketing	LexingtonLaw	Other	Other	Other	nan	nan
+33234	Synergy - Pub49 - #2	Email Marketing - Networks	Email Marketing	LexingtonLaw	Other	Other	Other	nan	nan
+33236	CO Email Test 50 FWF - Retired	Remarketing - FC Email	e5	LexingtonLaw	Other	Other	Other	nan	nan
+33240	LEX_FFHD_Email_1	Remarketing - FFHD Email	Remarketing	LexingtonLaw	Other	Other	Other	nan	nan
+33250	Google: NB - Credit Repair v2	Online - PPC Google NB (New)	Paid Search - Non-Brand	LexingtonLaw	Other	Other	Google	nan	nan
+33255	Google: NB - How to Fix Credit	Online - PPC Google NB (New)	Paid Search - Non-Brand	LexingtonLaw	Other	Other	Google	nan	nan
+33259	Google: NB - Credit Bureaus	Online - PPC Google NB (New)	Paid Search - Non-Brand	LexingtonLaw	Other	Other	Google	nan	nan
+33261	Google: NB - Credit Building	Online - PPC Google NB (New)	Paid Search - Non-Brand	LexingtonLaw	Other	Other	Google	nan	nan
+33276	Google: NB - Credit Restoration	Online - PPC Google NB (New)	Paid Search - Non-Brand	LexingtonLaw	Other	Other	Google	nan	nan
+33277	Google: B Lexington Law Firm Exact KW	Online - PPC Google BR (New)	Paid Search - Brand	LexingtonLaw	Other	Other	Google	nan	nan
+33284	Skate Marketing - Affiliate - Email	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+33286	Ascentium Analytics- Affiliate - Sub2	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+33287	CX3 Ads - Affiliate - Email	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+33294	Synergy - Pub49.3	Email Marketing - Networks	Email Marketing	LexingtonLaw	Other	Other	Other	nan	nan
+33300	Madrivo - Affiliate - Email CPA	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+33302	1-PGX Brand	Credit.com - Brand PPC	Brand PPC	LexingtonLaw	Other	Other	Other	nan	nan
+33306	1-PGX Brand	Credit.com - Brand PPC	Brand PPC	LexingtonLaw	Other	Other	Other	nan	nan
+33312	Synergy - Pub60	Email Marketing - Networks	Email Marketing	LexingtonLaw	Other	Other	Other	nan	nan
+33319	Credit Sesame - Hyper Test	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+33320	Credit Sesame - Non Hyper Test	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+33349	Publishers - Data Axle	Online - PPC Bliss Media	Email Marketing	LexingtonLaw	Bliss Media	Other	Other	nan	nan
+33389	Google: B - Non-Exact KW's	Online - PPC Google BR (New)	Paid Search - Brand	LexingtonLaw	Other	Other	Google	nan	nan
+33396	Funded - Affiliate - LoanDenial/Email	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+33398	Launch Potato - Affiliate - Review Site	Online - Affiliate Invoca	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+33400	Verizon: R - Both Brands Bliss Opens - Discount	Online - PPC Native Retargeting	Display	LexingtonLaw	Native - Retargeting	Other	Other	nan	nan
+33401	Verizon: R - LL Visitors - Discount	Online - PPC Native Retargeting	Display	LexingtonLaw	Native - Retargeting	Other	Other	nan	nan
+33403	Verizon: R - CCOM Visitors - Discount	Online - PPC Native Retargeting	Display	LexingtonLaw	Native - Retargeting	Other	Other	nan	nan
+33430	Specific Collections	Credit.com - CRC	Freemium & Email	LexingtonLaw	Other	Other	Other	nan	nan
+33431	Specific Inquiries	Credit.com - CRC	Freemium & Email	LexingtonLaw	Other	Other	Other	nan	nan
+33432	Specific Late Payments	Credit.com - CRC	Freemium & Email	LexingtonLaw	Other	Other	Other	nan	nan
+33443	Dorado Digital - Affiliate - Email	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+33444	Capital Bull Mortgage - Affiliate - Email	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+33445	InStar - Affiliate - Email	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+33447	Publishers - Synergy CatchAll	Email Marketing - Networks	Email Marketing	LexingtonLaw	Other	Other	Other	nan	nan
+33454	Rokt-1	Online - PPC Display Prospecting	Display	LexingtonLaw	Display - Prospecting	Other	Other	nan	nan
+33457	Data Axle-1	Online - PPC Display Other	Display	LexingtonLaw	Other	Native	Native	nan	nan
+33460	Bradley F&F	Financial - Mortgage Broker	Finance Mortgage	LexingtonLaw	Other	Other	Other	nan	nan
+33464	4-33464- Credit Bureau KW - Mobile	Credit.com - Non-Brand PPC	Non Brand PPC	LexingtonLaw	Other	Other	Other	nan	nan
+33473	Fluent - CPA	Online - Affiliate Invoca	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+33483	Google: NB - LL Clean Credit Score	Online - PPC Google NB (New)	Paid Search - Non-Brand	LexingtonLaw	Other	Other	Google	nan	nan
+33487	Google: NB - Credit Repair Exact Match	Online - PPC Google NB (New)	Paid Search - Non-Brand	LexingtonLaw	Other	Other	Google	nan	nan
+33488	Native Pros - ROKT 001	Online - PPC Display Prospecting	Display	LexingtonLaw	Display - Prospecting	Other	Other	nan	nan
+33489	Native Pros - ROKT 002	Online - PPC Display Prospecting	Display	LexingtonLaw	Display - Prospecting	Other	Other	nan	nan
+33495	Geist November 2022 Test 	Online - PPC Display Prospecting	Display	LexingtonLaw	Display - Prospecting	Other	Other	nan	nan
+33496	Native Pros - ROKT 005	Online - PPC Display Prospecting	Display	LexingtonLaw	Display - Prospecting	Other	Other	nan	nan
+33497	Native Pros - ROKT 006	Online - PPC Display Prospecting	Display	LexingtonLaw	Display - Prospecting	Other	Other	nan	nan
+33498	Native Pros - ROKT 007	Online - PPC Display Prospecting	Display	LexingtonLaw	Display - Prospecting	Other	Other	nan	nan
+33499	Native Pros - ROKT 008	Online - PPC Display Prospecting	Display	LexingtonLaw	Display - Prospecting	Other	Other	nan	nan
+33500	Digital-33500	Online - PPC Display Prospecting	Display	LexingtonLaw	Display - Prospecting	Other	Other	nan	nan
+33504	Phone to Web Test	Brand - Unassigned	Brand - Unassigned	LexingtonLaw	Other	Other	Other	nan	nan
+33522	Facebook: LTV Test	Online - PPC Social Prospecting	Paid Social	LexingtonLaw	Other	Other	Other	nan	nan
+33538	Lendio Credit Ready	Lead Gen - External	Lead Gen	LexingtonLaw	Other	Other	Other	nan	nan
+33551	Synergy - Pub 34 #5 - Discount50	Email Marketing - Networks	Email Marketing	LexingtonLaw	Other	Other	Other	nan	nan
+33558	Credit Sesame - CM Alert - Account Delinquent	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+33568	4-33568- Remove Negatives	Credit.com - Non-Brand PPC	Non Brand PPC	LexingtonLaw	Other	Other	Other	nan	nan
+33570	C3/Mass1ve - Affiliate - Email	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+33573	Credit Sesame - CM Alert - Email 1	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+33574	Credit Sesame - CM Alert - Email 2	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+33575	Credit Sesame - CM Alert - Email 3	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+33576	RX Marketing - Affiliate - Email1 	Email Marketing - Direct Brand	Email Marketing	LexingtonLaw	Other	Other	Other	nan	nan
+33579	Credit Sesame - Loan Decline - Mobile Web	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+33580	Credit Sesame - Loan Decline - Desktop	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+33583	Mobile Focused Media - Affiliate - Affinity	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+33584	Credit Sesame - CM Alert - Collections	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+33590	Dianomi: P - General CS	Online - PPC Native Prospecting	Display	LexingtonLaw	Native - Prospecting	Other	Other	nan	nan
+33591	Google: NB - Remove Negative Items	Online - PPC Google NB (New)	Paid Search - Non-Brand	LexingtonLaw	Other	Other	Google	nan	nan
+33599	CR OSU Redirect to LEX	Brand - Direct Entry	Direct	LexingtonLaw	Other	Other	Other	nan	nan
+33600	CR Snapshot Redirect to LEX	Brand - Direct Entry	Direct	LexingtonLaw	Other	Other	Other	nan	nan
+33608	4-33608- Credit Repair KW Exact - Mobile	Credit.com - Non-Brand PPC	Non Brand PPC	LexingtonLaw	Other	Other	Other	nan	nan
+33611	4-33611- Credit Bureau KW - Desktop	Credit.com - Non-Brand PPC	Non Brand PPC	LexingtonLaw	Other	Other	Other	nan	nan
+33612	LEX_RMKTG_Drips_VerizonSave	Remarketing - SMS	Remarketing	LexingtonLaw	Other	Other	Other	nan	nan
+33614	Tax_season_email_1	Remarketing - Email	Remarketing	LexingtonLaw	Other	Other	Other	nan	nan
+33616	TaxSeason_Email_3	Remarketing - Email	Remarketing	LexingtonLaw	Other	Other	Other	nan	nan
+33617	TaxSeason_Email_4	Remarketing - Email	Remarketing	LexingtonLaw	Other	Other	Other	nan	nan
+33641	Consumers Advocate - Credit Help	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+33642	Consumers Advocate - Money.com	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+33646	Credit Sesame - Var2-android-aoop-payment-history	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+33648	Credit Sesame - Var2-android-aoop-sesame-potential-payment-history-simulation	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+33660	Facebook: Credit Scale	Online - PPC Social Prospecting	Paid Social	LexingtonLaw	Other	Other	Other	nan	nan
+33675	Google: NB - Credit Consultation	Online - PPC Google NB (New)	Paid Search - Non-Brand	LexingtonLaw	Other	Other	Google	nan	nan
+33676	Google: NB - Credit Advice	Online - PPC Google NB (New)	Paid Search - Non-Brand	LexingtonLaw	Other	Other	Google	nan	nan
+33677	Google: NB - Credit Advisor	Online - PPC Google NB (New)	Paid Search - Non-Brand	LexingtonLaw	Other	Other	Google	nan	nan
+33678	Google: NB - Remove Collections	Online - Paid Search Google NB A	Paid Search - Non-Brand	LexingtonLaw	Other	Other	Google	nan	nan
+33679	Google: NB - Dispute Credit Report	Online - PPC Google NB (New)	Paid Search - Non-Brand	LexingtonLaw	Other	Other	Google	nan	nan
+33699	4-33699- Credit Repair Companies Theme	Credit.com - Non-Brand PPC	Non Brand PPC	LexingtonLaw	Other	Other	Other	nan	nan
+33705	4-33705- General - Clean Credit KWE	Credit.com - Non-Brand PPC	Non Brand PPC	LexingtonLaw	Other	Other	Other	nan	nan
+33707	4-33707- Credit Repair Companies - Mobile	Credit.com - Non-Brand PPC	Non Brand PPC	LexingtonLaw	Other	Other	Other	nan	nan
+33709	NorCal Marketing - Affiliate Review Site Mysanantonio.com	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+33710	NorCal Marketing - Affiliate Review Site Sfgate.com	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+33714	Plateau Data - Affiliate - Ad	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+33715	Smooth Sales - affiliate - email	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+33719	LEX_CreditAcessEC_Email_1b - Retired	Remarketing - CA Email	Remarketing	LexingtonLaw	Other	Other	Other	nan	nan
+33723	LEX Lead Gen Email 4	Lead Gen - Remarketing	Lead Gen	LexingtonLaw	Other	Other	Other	nan	nan
+33724	LEX Lead Gen Email 5	Lead Gen - Remarketing	Lead Gen	LexingtonLaw	Other	Other	Other	nan	nan
+33725	LEX Lead Gen Email 6	Lead Gen - Remarketing	Lead Gen	LexingtonLaw	Other	Other	Other	nan	nan
+33727	Web Leads Email 4	Remarketing - Web Lead Email	Remarketing	LexingtonLaw	Other	Other	Other	nan	nan
+33728	Web Leads Email 5	Remarketing - Web Lead Email	Remarketing	LexingtonLaw	Other	Other	Other	nan	nan
+33734	A4D- Affiliate - Email	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+33747	Outbrain: P - CS MSN NL	Online - PPC Display Prospecting	Display	LexingtonLaw	Display - Prospecting	Other	Other	nan	nan
+33751	MSAN: P - In-Market Audiences	Online - PPC Display Prospecting	Display	LexingtonLaw	Display - Prospecting	Other	Other	nan	nan
+33752	Google: NB - Credit Repair - Lex HP	Online - PPC Google NB (New)	Paid Search - Non-Brand	LexingtonLaw	Other	Other	Google	nan	nan
+33763	Compton Outreach - NAAC	Online - PPC Search Other	Paid Search - Non-Brand	LexingtonLaw	Other	Search	Other	nan	nan
+33771	Google: NB - House In-Market - Fix Credit	Online - PPC Google NB (New)	Paid Search - Non-Brand	LexingtonLaw	Other	Other	Google	nan	nan
+33776	RX Marketing - Affiliate - New Creative 7	Email Marketing - Direct Brand	Email Marketing	LexingtonLaw	Other	Other	Other	nan	nan
+33783	Simple Thrifty Living â€“ LEX Social	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+33787	Trove SB2	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+33789	Globalwide- Affiliate - online	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+33790	Web Leads Email 6	Remarketing - Web Lead Email	Remarketing	LexingtonLaw	Other	Other	Other	nan	nan
+33795	LEX ECF Email 4	Remarketing - ECF Email	Remarketing	LexingtonLaw	Other	Other	Other	nan	nan
+33796	LEX ECF Email 5	Remarketing - ECF Email	Remarketing	LexingtonLaw	Other	Other	Other	nan	nan
+33797	LEX ECF Email 6	Remarketing - ECF Email	Remarketing	LexingtonLaw	Other	Other	Other	nan	nan
+33798	LEX_RMKTG_CRAS_0	Remarketing - CA Email	Remarketing	LexingtonLaw	Other	Other	Other	nan	nan
+33799	FOG Direct Mail	Remarketing - FOG Direct Mail	Remarketing	LexingtonLaw	Other	Other	Other	nan	nan
+33800	CreditAccess Direct Mail	Remarketing - CA Direct Mail	Remarketing	LexingtonLaw	Other	Other	Other	nan	nan
+33801	FormerClient Direct Mail	Remarketing - FC Direct Mail	e5	LexingtonLaw	Other	Other	Other	nan	nan
+33804	FFHD Client Site Link	Remarketing - FFHD SMS	Remarketing	LexingtonLaw	Other	Other	Other	nan	nan
+33824	RX- Affiliate - SMS	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+33826	EPC VIP- Online Affiliate	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+33835	4-33835- Credit Repair - Theme	Credit.com - Non-Brand PPC	Non Brand PPC	LexingtonLaw	Other	Other	Other	nan	nan
+33841	NorCal Marketing - Affiliate Review Site Westword.com	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+33843	Plateau Data - Affiliate - Ad - Refi	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+33846	Credit Sesame - What's Changed OCF Placement	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+33851	Bing: B - LL KW Exact Desktop - Split Test - Lex HP	Online - PPC Bing BR (New)	Paid Search - Brand	LexingtonLaw	Other	Other	Bing	nan	nan
+33852	Bing: B - LL KW Exact Mobile - Split Test - Credit Snapshot LP	Online - PPC Bing BR (New)	Paid Search - Brand	LexingtonLaw	Other	Other	Bing	nan	nan
+33856	Google: NB - LL Rent To Own - RTO Ebook LP	Online - PPC Google NB (New)	Paid Search - Non-Brand	LexingtonLaw	Other	Other	Google	nan	nan
+33893	Madrivo - Affiliate - Email CPA #2	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+33896	Ryan Bales	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+33900	Basis:R-DN-SignupPages-VCreative	Online - PPC Display Retargeting	Display	LexingtonLaw	Display - Retargeting	Other	Other	nan	nan
+33901	Basis:R-D-SignupPages-$50off	Online - PPC Display Retargeting	Display	LexingtonLaw	Display - Retargeting	Other	Other	nan	nan
+33903	Basis:R-DN-LEX&CCOMpgsTopDMAs7dayRec;-VCreative	Online - PPC Display Retargeting	Display	LexingtonLaw	Display - Retargeting	Other	Other	nan	nan
+33919	Generic blast	Credit.com - Email	Freemium & Email	LexingtonLaw	Other	Other	Other	nan	nan
+33920	Current lex law template-B	Credit.com - Email	Freemium & Email	LexingtonLaw	Other	Other	Other	nan	nan
+33952	Concussion Media - Email	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+33955	LIve Smarter - Affiliate	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+33957	Admediary - Affiliate - email	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+33959	Revenueads - Affiliate- email	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+33963	LEX General | SKW - [Fix My Credit] - Mobile	Online - PPC Google NB (New)	Paid Search - Non-Brand	LexingtonLaw	Other	Other	Google	nan	nan
+33964	LEX General | SKW - [Fix My Credit] - Desktop	Online - PPC Google NB (New)	Paid Search - Non-Brand	LexingtonLaw	Other	Other	Google	nan	nan
+33967	LEX General | SKW - [Credit Repair Services] - Mobile	Online - PPC Google NB (New)	Paid Search - Non-Brand	LexingtonLaw	Other	Other	Google	nan	nan
+33969	LEX General | TKW - Clean/Clear Credit 1 - Mobile	Online - PPC Google NB (New)	Paid Search - Non-Brand	LexingtonLaw	Other	Other	Google	nan	nan
+33983	Fog Test Email 1b - Retired	Remarketing - FOG Email	Remarketing	LexingtonLaw	Other	Other	Other	nan	nan
+33984	Fog Test Email 2a - Retired	Remarketing - FOG Email	Remarketing	LexingtonLaw	Other	Other	Other	nan	nan
+33985	LEX_RMKTG_FOG_NegItems_2	Remarketing - FOG Email	Remarketing	LexingtonLaw	Other	Other	Other	nan	nan
+33986	Fog Test Email 3a - Retired	Remarketing - FOG Email	Remarketing	LexingtonLaw	Other	Other	Other	nan	nan
+33987	LEX_RMKTG_FOG_NegItems_3	Remarketing - FOG Email	Remarketing	LexingtonLaw	Other	Other	Other	nan	nan
+33989	LEX_RMKTG_FOG_NegItems_4	Remarketing - FOG Email	Remarketing	LexingtonLaw	Other	Other	Other	nan	nan
+33999	LEX_RMKTG_Kaleyra_ROR	Remarketing - FC SMS	e5	LexingtonLaw	Other	Other	Other	nan	nan
+34017	Credit Sesame - New User Variation 1	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+34018	Credit Sesame - New User Variation 2 	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+34021	Credit Sesame - Old User Variation 1 	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+34022	Credit Sesame - Old User Variation 2 	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+34023	Credit Sesame - Old User Variation 3	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+34035	NorCal Marketing - Affiliate Review Site Tampabay.com	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+34039	Credit Sesame - Segment Variation 1	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+34040	Credit Sesame - Segment Variation 2	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+34041	Credit Sesame - Segment Variation 3	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+34042	Atwave December Special	Email Marketing - Networks	Email Marketing	LexingtonLaw	Other	Other	Other	nan	nan
+34045	Noble Connections - Display	Online - PPC Display Prospecting	Display	LexingtonLaw	Display - Prospecting	Other	Other	nan	nan
+34050	Noble Connections - Display - 01	Online - PPC Display Prospecting	Display	LexingtonLaw	Display - Prospecting	Other	Other	nan	nan
+34051	Noble Connections - Display 12	Online - PPC Display Prospecting	Display	LexingtonLaw	Display - Prospecting	Other	Other	nan	nan
+34053	Noble Connections - Display - 02	Online - PPC Display Prospecting	Display	LexingtonLaw	Display - Prospecting	Other	Other	nan	nan
+34071	LEX General | TKW - Dispute - Dispute Letter 1 - Mobile	Online - PPC Google NB (New)	Paid Search - Non-Brand	LexingtonLaw	Other	Other	Google	nan	nan
+34073	LEX General | TKW - Dispute - Dispute Items 1 - Mobile	Online - PPC Google NB (New)	Paid Search - Non-Brand	LexingtonLaw	Other	Other	Google	nan	nan
+34075	LEX General | TKW - Dispute - Dispute Inquiries 1 - Mobile	Online - PPC Google NB (New)	Paid Search - Non-Brand	LexingtonLaw	Other	Other	Google	nan	nan
+34077	LEX General | TKW - Dispute - Dispute Company 1 - Mobile	Online - PPC Google NB (New)	Paid Search - Non-Brand	LexingtonLaw	Other	Other	Google	nan	nan
+34079	FOG Email 1 Discount LP - Retired	Remarketing - FOG Email	Remarketing	LexingtonLaw	Other	Other	Other	nan	nan
+34080	LEX_RMKTG_FOG_2_DiscountLP	Remarketing - FOG Email	Remarketing	LexingtonLaw	Other	Other	Other	nan	nan
+34081	LEX_RMKTG_FOG_3_DiscountLP	Remarketing - FOG Email	Remarketing	LexingtonLaw	Other	Other	Other	nan	nan
+34082	LEX_RMKTG_FOG_4_DiscountLP	Remarketing - FOG Email	Remarketing	LexingtonLaw	Other	Other	Other	nan	nan
+34083	FalloutGroup Email 1 PrePop - Retired	Remarketing - FOG Email	Remarketing	LexingtonLaw	Other	Other	Other	nan	nan
+34084	FalloutGroup Email 2 PrePop - Retired	Remarketing - FOG Email	Remarketing	LexingtonLaw	Other	Other	Other	nan	nan
+34085	FalloutGroup Email 3 PrePop - Retired	Remarketing - FOG Email	Remarketing	LexingtonLaw	Other	Other	Other	nan	nan
+34086	FalloutGroup Email 4 PrePop - Retired	Remarketing - FOG Email	Remarketing	LexingtonLaw	Other	Other	Other	nan	nan
+34088	LEX General | TKW - Dispute - Dispute Collections 1 - Mobile	Online - PPC Google NB (New)	Paid Search - Non-Brand	LexingtonLaw	Other	Other	Google	nan	nan
+34090	LEX General | TKW - Dispute - Credit Report 1 - Mobile	Online - PPC Google NB (New)	Paid Search - Non-Brand	LexingtonLaw	Other	Other	Google	nan	nan
+34092	LEX General | TKW - Credit Score - Score Services 1 - Mobile	Online - PPC Google NB (New)	Paid Search - Non-Brand	LexingtonLaw	Other	Other	Google	nan	nan
+34100	LEX General | TKW - Improve Credit - Improve Credit Score 1 - Mobile	Online - PPC Google NB (New)	Paid Search - Non-Brand	LexingtonLaw	Other	Other	Google	nan	nan
+34102	LQ Digital - display	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+34103	Consumervoice - Review	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+34107	Revclick - Affiliate	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+34123	LEX General | TKW - Credit Services - Near Me 1 - Mobile	Online - PPC Google NB (New)	Paid Search - Non-Brand	LexingtonLaw	Other	Other	Google	nan	nan
+34127	LEX General | TKW - Credit Services - Law/Attorney 1 - Mobile	Online - PPC Google NB (New)	Paid Search - Non-Brand	LexingtonLaw	Other	Other	Google	nan	nan
+34128	LEX General | TKW - Credit Services - Law/Attorney 1 - Desktop	Online - PPC Google NB (New)	Paid Search - Non-Brand	LexingtonLaw	Other	Other	Google	nan	nan
+34129	LEX General | TKW - Credit Services - Credit Repair 1 - Mobile	Online - PPC Google NB (New)	Paid Search - Non-Brand	LexingtonLaw	Other	Other	Google	nan	nan
+34131	LEX General | TKW - Credit Services - Advice and Counseling 1 - Mobile	Online - PPC Google NB (New)	Paid Search - Non-Brand	LexingtonLaw	Other	Other	Google	nan	nan
+34133	LEX General | TKW - Remove - Remove Negative Items 1 - Mobile	Online - PPC Google NB (New)	Paid Search - Non-Brand	LexingtonLaw	Other	Other	Google	nan	nan
+34134	LEX General | TKW - Remove - Remove Negative Items 1 - Desktop	Online - PPC Google NB (New)	Paid Search - Non-Brand	LexingtonLaw	Other	Other	Google	nan	nan
+34139	LEX General | TKW - Remove - Remove Inquiries 1 - Mobile	Online - PPC Google NB (New)	Paid Search - Non-Brand	LexingtonLaw	Other	Other	Google	nan	nan
+34141	LEX General | TKW - Remove - Remove Collections 1 - Mobile	Online - PPC Google NB (New)	Paid Search - Non-Brand	LexingtonLaw	Other	Other	Google	nan	nan
+34143	LEX General | TKW - Remove - Remove Closed Accounts 1 - Mobile	Online - PPC Google NB (New)	Paid Search - Non-Brand	LexingtonLaw	Other	Other	Google	nan	nan
+34149	Native - Pushnami_WF_Day1_native (P)	Online - PPC Display Prospecting	Display	LexingtonLaw	Display - Prospecting	Other	Other	nan	nan
+34150	Digital-34150	Online - PPC Display Prospecting	Display	LexingtonLaw	Display - Prospecting	Other	Other	nan	nan
+34151	Pushnami - Credit Report Push	Online - PPC Display Prospecting	Display	LexingtonLaw	Display - Prospecting	Other	Other	nan	nan
+34152	LEX General | SKW - Credit Repair - Desktop	Online - PPC Google NB (New)	Paid Search - Non-Brand	LexingtonLaw	Other	Other	Google	nan	nan
+34163	LEX General | TKW - Company - CR Company Search 1 - Mobile	Online - PPC Google NB (New)	Paid Search - Non-Brand	LexingtonLaw	Other	Other	Google	nan	nan
+34171	LEX General | TKW - Company - Best CR Company 1 - Mobile	Online - PPC Google NB (New)	Paid Search - Non-Brand	LexingtonLaw	Other	Other	Google	nan	nan
+34173	Pushnami - Mortgage themed push	Online - PPC Display Prospecting	Display	LexingtonLaw	Display - Prospecting	Other	Other	nan	nan
+34190	CRAS_75_Aktify	Remarketing - CA SMS	Remarketing	LexingtonLaw	Other	Other	Other	nan	nan
+34193	LeadGen Email 1 Control	Lead Gen - Remarketing	Lead Gen	LexingtonLaw	Other	Other	Other	nan	nan
+34194	LeadGen Email 1 Collection Test	Lead Gen - Remarketing	Lead Gen	LexingtonLaw	Other	Other	Other	nan	nan
+34195	WebLeads Email 1 Control	Remarketing - Web Lead Email	Remarketing	LexingtonLaw	Other	Other	Other	nan	nan
+34197	LEX_RMKTG_CRAS_2	Remarketing - CA Email	Remarketing	LexingtonLaw	Other	Other	Other	nan	nan
+34199	Synergy LP Test 1	Email Marketing - Networks	Email Marketing	LexingtonLaw	Other	Other	Other	nan	nan
+34200	Synergy LP Test 2	Email Marketing - Networks	Email Marketing	LexingtonLaw	Other	Other	Other	nan	nan
+34202	Noble Connections - Display 03	Online - PPC Display Prospecting	Display	LexingtonLaw	Display - Prospecting	Other	Other	nan	nan
+34203	Noble Connections - Display 04	Online - PPC Display Prospecting	Display	LexingtonLaw	Display - Prospecting	Other	Other	nan	nan
+34205	Noble Connections - Display 14	Online - PPC Display Prospecting	Display	LexingtonLaw	Display - Prospecting	Other	Other	nan	nan
+34206	Noble Connections - Display 15	Online - PPC Display Prospecting	Display	LexingtonLaw	Display - Prospecting	Other	Other	nan	nan
+34210	Noble Connections - Social Influencer 02	Online - PPC Social Prospecting	Paid Social	LexingtonLaw	Other	Other	Other	nan	nan
+34214	FC Pending Snapshot Email - Retired	Remarketing - FC Email	e5	LexingtonLaw	Other	Other	Other	nan	nan
+34216	Finance Matrix - Offerwall	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+34217	NorCal Marketing - Affiliate - TimesUnion.com	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+34220	Credit Sesame - Credit Attribute Test 	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+34221	Credit Sesame - Credit Attribute Incumbent	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+34222	Credit Sesame - Negative Item Breakdown	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+34223	Credit Sesame - Negative Item Breakdown var2	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+34225	Forbes - Review	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+34226	New Elevation - Military	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+34232	LEX_RMKTG_FC_2ZPC_2	Remarketing - FC Email	e5	LexingtonLaw	Other	Other	Other	nan	nan
+34234	LEX_RMKTG_FC_2ZPC_4	Remarketing - FC Email	e5	LexingtonLaw	Other	Other	Other	nan	nan
+34235	Noble Connections - Social Influencer 03	Online - PPC Social Prospecting	Paid Social	LexingtonLaw	Other	Other	Other	nan	nan
+34236	Noble Connections - Social Influencer 04	Online - PPC Social Prospecting	Paid Social	LexingtonLaw	Other	Other	Other	nan	nan
+34237	Noble Connections - Social Influencer 05	Online - PPC Social Prospecting	Paid Social	LexingtonLaw	Other	Other	Other	nan	nan
+34249	CreditAccess Email 2 - 50% Test - Retired	Remarketing - CA Email	Remarketing	LexingtonLaw	Other	Other	Other	nan	nan
+34250	CreditAccess Email 3 SL Test - Retired	Remarketing - CA Email	Remarketing	LexingtonLaw	Other	Other	Other	nan	nan
+34251	LEX_RMKTG_CRAS_3	Remarketing - CA Email	Remarketing	LexingtonLaw	Other	Other	Other	nan	nan
+34252	Onranker- HS	Hotswap - External	Hotswap External	LexingtonLaw	Other	Other	Other	nan	nan
+34255	LEX_RMKTG_FOG_NegItems_1	Remarketing - FOG Email	Remarketing	LexingtonLaw	Other	Other	Other	nan	nan
+34259	Bradley Lead Group - HS to SMS	Financial - Mortgage Broker	Finance Mortgage	LexingtonLaw	Other	Other	Other	nan	nan
+34285	Lex - Invoca Call	Online - PPC Social Facebook	Paid Social	LexingtonLaw	Other	Other	Other	nan	nan
+34290	LEX - Lex & CR - Saved Post Facebook 365 Day	Online - PPC Social Facebook	Paid Social	LexingtonLaw	Other	Other	Other	nan	nan
+34291	Lex - Credit.com 180 Day	Online - PPC Social Facebook	Paid Social	LexingtonLaw	Other	Other	Other	nan	nan
+34293	LAL Super Call + PiSubmit	Online - PPC Social Facebook	Paid Social	LexingtonLaw	Other	Other	Other	nan	nan
+34297	Lex - Lookalike (US, 1%) - Lex & CR - Saved Post 365 Day	Online - PPC Social Facebook	Paid Social	LexingtonLaw	Other	Other	Other	nan	nan
+34298	Lex - LAL - Invoca CAPI 1%	Online - PPC Social Facebook	Paid Social	LexingtonLaw	Other	Other	Other	nan	nan
+34299	Lex - Former Clients - 2013-2020	Online - PPC Social Facebook	Paid Social	LexingtonLaw	Other	Other	Other	nan	nan
+34300	Video View 10 Sec 365 Day	Online - PPC Social Facebook	Paid Social	LexingtonLaw	Other	Other	Other	nan	nan
+34305	Lex - Interest - First-time buyer	Online - PPC Social Facebook	Paid Social	LexingtonLaw	Other	Other	Other	nan	nan
+34307	Lex - Lookalike (US, 1%) - Paid Social Signups 5/20/2022	Online - PPC Social Facebook	Paid Social	LexingtonLaw	Other	Other	Other	nan	nan
+34308	LAL CRC or Call_Conversion 30 Day - Call	Online - PPC Social Facebook	Paid Social	LexingtonLaw	Other	Other	Other	nan	nan
+34309	LAL CRC or Call_Conversion 30 Day - PiSubmit	Online - PPC Social Facebook	Paid Social	LexingtonLaw	Other	Other	Other	nan	nan
+34327	 NPD_ HTSP/SMS	Hotswap - External	Hotswap External	LexingtonLaw	Other	Other	Other	nan	nan
+34330	LEX_RMKTG_FFHD_CharitableBanner_1A	Remarketing - FFHD Email	Remarketing	LexingtonLaw	Other	Other	Other	nan	nan
+34331	LEX_RMKTG_FFHD_CharitableBanner_1B	Remarketing - FFHD Email	Remarketing	LexingtonLaw	Other	Other	Other	nan	nan
+34332	Noble Connections -Display 07	Online - PPC Display Prospecting	Display	LexingtonLaw	Display - Prospecting	Other	Other	nan	nan
+34334	Noble Connections - Display 10	Online - PPC Display Prospecting	Display	LexingtonLaw	Display - Prospecting	Other	Other	nan	nan
+34335	Noble Connections - Display 09	Online - PPC Display Prospecting	Display	LexingtonLaw	Display - Prospecting	Other	Other	nan	nan
+34337	Cordless Media - affiliate	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+34338	Credit Sesame - Mobile test Negative Item Breakdown v1	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+34344	Even Financial - Offerwall linkout	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+34348	Noble Connections - Affiliate - Review Site	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+34350	Online Affiliate - Red Ventures - Bankrate - PL Declines	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+34351	Consumers Advocate - ExpandPub	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+34354	LEX_RMKTG_Pending_2_SLA	Remarketing - FC Email	e5	LexingtonLaw	Other	Other	Other	nan	nan
+34358	LEX_RMKTG_FC_Pending_4_SLA	Remarketing - FC Email	e5	LexingtonLaw	Other	Other	Other	nan	nan
+34360	LEX_RMKTG_EXP_1_SLA	Remarketing - FC Email	e5	LexingtonLaw	Other	Other	Other	nan	nan
+34361	LEX_RMKTG_FC_EXP_1_SLB - Retired	Remarketing - FC Email	e5	LexingtonLaw	Other	Other	Other	nan	nan
+34363	LEX_RMKTG_FC_EXP_2_SLB	Remarketing - FC Email	e5	LexingtonLaw	Other	Other	Other	nan	nan
+34365	LEX_RMKTG_Aktify_ChargeOff	Remarketing - FC SMS	e5	LexingtonLaw	Other	Other	Other	nan	nan
+34366	LEX_RMKTG_Aktify_FOG	Remarketing - FOG SMS	Remarketing	LexingtonLaw	Other	Other	Other	nan	nan
+34367	LEX_RMKTG_CRAS_Aktify	Remarketing - CA SMS	Remarketing	LexingtonLaw	Other	Other	Other	nan	nan
+34368	LEX_MKTG_eBook	Remarketing - SMS	Remarketing	LexingtonLaw	Other	Other	Other	nan	nan
+34373	LEX_RMKTG_Pending_LOT_2B	Remarketing - FC Email	e5	LexingtonLaw	Other	Other	Other	nan	nan
+34374	DeepSync: LR_Data_Store_Acxiom Financial > Likely In Market Timing > Home Purchase > Buy First Home 	Online - PPC Social Facebook	Paid Social	LexingtonLaw	Other	Other	Other	nan	nan
+34377	Interest Super CRC + Call_Conversion	Online - PPC Social Facebook	Paid Social	LexingtonLaw	Other	Other	Other	nan	nan
+34379	LEX | Social - Facebook: Website 7 Day Homepage (past customer exclusion test)	Online - PPC Social Facebook	Paid Social	LexingtonLaw	Other	Other	Other	nan	nan
+34386	LAL - 10% CRC or Call_Conversion 30 Day RF TEST	Online - PPC Social Facebook	Paid Social	LexingtonLaw	Other	Other	Other	nan	nan
+34387	LAL - Phone + Time spent 90 Day	Online - PPC Social Facebook	Paid Social	LexingtonLaw	Other	Other	Other	nan	nan
+34388	Interest - Car finance Homepage	Online - PPC Social Facebook	Paid Social	LexingtonLaw	Other	Other	Other	nan	nan
+34389	Interest - Super RF TEST	Online - PPC Social Facebook	Paid Social	LexingtonLaw	Other	Other	Other	nan	nan
+34390	Interest Superset - Call 	Online - PPC Social Facebook	Paid Social	LexingtonLaw	Other	Other	Other	nan	nan
+34393	DeepSync: DSL_CIS_Interest > Credit Repair > High - Call	Online - PPC Social Facebook	Paid Social	LexingtonLaw	Other	Other	Other	nan	nan
+34394	DeepSync: DSL_CIS_Interest > Credit Repair > High - PiSubmit	Online - PPC Social Facebook	Paid Social	LexingtonLaw	Other	Other	Other	nan	nan
+34400	LAL Super CRC + Call_Conversion	Online - PPC Social Facebook	Paid Social	LexingtonLaw	Other	Other	Other	nan	nan
+34401	LAL - Contact + Time Spent	Online - PPC Social Facebook	Paid Social	LexingtonLaw	Other	Other	Other	nan	nan
+34402	LAL Superset - Call	Online - PPC Social Facebook	Paid Social	LexingtonLaw	Other	Other	Other	nan	nan
+34404	LEX | Social - Facebook: Website 7 Day Homepage	Online - PPC Social Facebook	Paid Social	LexingtonLaw	Other	Other	Other	nan	nan
+34405	LEX | Social - Facebook: Website 14-7 Day Homepage	Online - PPC Social Facebook	Paid Social	LexingtonLaw	Other	Other	Other	nan	nan
+34406	LEX | Social - Facebook: Website 30-14 Day Homepage	Online - PPC Social Facebook	Paid Social	LexingtonLaw	Other	Other	Other	nan	nan
+34407	Website 180-30 Day Homepage	Online - PPC Social Facebook	Paid Social	LexingtonLaw	Other	Other	Other	nan	nan
+34408	People who engaged with any post or ad Lex - 365 Days Homepage	Online - PPC Social Facebook	Paid Social	LexingtonLaw	Other	Other	Other	nan	nan
+34409	Interest Super PiSubmit	Online - PPC Social Facebook	Paid Social	LexingtonLaw	Other	Other	Other	nan	nan
+34412	Interest - Bad credit Homepage	Online - PPC Social Facebook	Paid Social	LexingtonLaw	Other	Other	Other	nan	nan
+34413	Interest - Letter of credit	Online - PPC Social Facebook	Paid Social	LexingtonLaw	Other	Other	Other	nan	nan
+34414	DeepSync: In Market > Financial > Any Vehicle > Credit Score: Sub Prime_20201124	Online - PPC Social Facebook	Paid Social	LexingtonLaw	Other	Other	Other	nan	nan
+34418	PiSubmits 30 Day	Online - PPC Social Facebook	Paid Social	LexingtonLaw	Other	Other	Other	nan	nan
+34419	Interest - Mortgage calculator Homepage	Online - PPC Social Facebook	Paid Social	LexingtonLaw	Other	Other	Other	nan	nan
+34423	CR - Retargeting Super	Online - PPC Social Facebook	Paid Social	LexingtonLaw	Other	Other	Other	nan	nan
+34424	LEX_RMKTG_Pending_Home_1A	Remarketing - FC Email	e5	LexingtonLaw	Other	Other	Other	nan	nan
+34425	LEX_RMKTG_Pending_Home_2A	Remarketing - FC Email	e5	LexingtonLaw	Other	Other	Other	nan	nan
+34426	LEX_RMKTG_Pending_Home_3A	Remarketing - FC Email	e5	LexingtonLaw	Other	Other	Other	nan	nan
+34427	LEX_RMKTG_Pending_Home_4A	Remarketing - FC Email	e5	LexingtonLaw	Other	Other	Other	nan	nan
+34428	LEX_RMKTG_Pending_Home_1B	Remarketing - FC Email	e5	LexingtonLaw	Other	Other	Other	nan	nan
+34429	LEX_RMKTG_Pending_Home_2B	Remarketing - FC Email	e5	LexingtonLaw	Other	Other	Other	nan	nan
+34430	LEX_RMKTG_Pending_Home_3B	Remarketing - FC Email	e5	LexingtonLaw	Other	Other	Other	nan	nan
+34431	LEX_RMKTG_Pending_Home_4B	Remarketing - FC Email	e5	LexingtonLaw	Other	Other	Other	nan	nan
+34432	LEX_RMKTG_Pending_1_LevelCreditA	Remarketing - FC Email	e5	LexingtonLaw	Other	Other	Other	nan	nan
+34433	LEX_RMKTG_Pending_1_LevelCreditB	Remarketing - FC Email	e5	LexingtonLaw	Other	Other	Other	nan	nan
+34434	LEX_RMKTG_FOG_1_SLA - Retired	Remarketing - FOG Email	Remarketing	LexingtonLaw	Other	Other	Other	nan	nan
+34435	LEX_RMKTG_FOG_1_SLB	Remarketing - FOG Email	Remarketing	LexingtonLaw	Other	Other	Other	nan	nan
+34436	LEX_RMKTG_ChargeOff_1_HomeGifA	Remarketing - FC Email	e5	LexingtonLaw	Other	Other	Other	nan	nan
+34445	Synergy-Credit Restoration LP	Email Marketing - Networks	Email Marketing	LexingtonLaw	Other	Other	Other	nan	nan
+34457	Cicola - Affiliate SMS	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+34462	LEX_RMKTG_Drips_FOG_AktifyComparison	Remarketing - FOG SMS	Remarketing	LexingtonLaw	Other	Other	Other	nan	nan
+34464	Noble Connections - Display 17	Online - PPC Display Prospecting	Display	LexingtonLaw	Display - Prospecting	Other	Other	nan	nan
+34465	Noble Connections - Display 18	Online - PPC Display Other	Display	LexingtonLaw	Other	Native	Native	nan	nan
+34467	Noble Connections - Display 20	Online - PPC Display Other	Display	LexingtonLaw	Other	Native	Native	nan	nan
+34468	Noble Connections - Display 21	Online - PPC Display Other	Display	LexingtonLaw	Other	Native	Native	nan	nan
+34474	BING: MSAN_Mortgage_IM:creditreports-monitoring	Online - PPC Display Other	Display	LexingtonLaw	Other	Native	Native	nan	nan
+34475	BING: MSAN_Mortgage_IM:mortgage	Online - PPC Display Other	Display	LexingtonLaw	Other	Native	Native	nan	nan
+34480	 BING: MSAN_NegativeItem_IM:creditreports-monitoring	Online - PPC Display Other	Display	LexingtonLaw	Other	Native	Native	nan	nan
+34483	Non-Profit, Law Collective	Offline - Affiliate	Offline Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+34485	Non-Profit, Habitat For Humanity	Offline - Affiliate	Offline Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+34506	Reliant Holdings - HS to SMS	Hotswap - External	Hotswap External	LexingtonLaw	Other	Other	Other	nan	nan
+34509	LEX_RMKTG_CRAS_0_v2	Remarketing - CA Email	Remarketing	LexingtonLaw	Other	Other	Other	nan	nan
+34510	LEX_RMKTG_CRAS_0C_v2	Remarketing - CA Email	Remarketing	LexingtonLaw	Other	Other	Other	nan	nan
+34511	LEX_RMKTG_CRAS_0D_v2	Remarketing - CA Email	Remarketing	LexingtonLaw	Other	Other	Other	nan	nan
+34512	LEX_RMKTG_CRAS_1_v2	Remarketing - CA Email	Remarketing	LexingtonLaw	Other	Other	Other	nan	nan
+34513	LEX_RMKTG_CRAS_2_v2	Remarketing - CA Email	Remarketing	LexingtonLaw	Other	Other	Other	nan	nan
+34514	LEX_RMKTG_CRAS_3_v2	Remarketing - CA Email	Remarketing	LexingtonLaw	Other	Other	Other	nan	nan
+34515	LEX_RMKTG_CRAS_4_v2	Remarketing - CA Email	Remarketing	LexingtonLaw	Other	Other	Other	nan	nan
+34516	LEX_RMKTG_CRAS_5_v2	Remarketing - CA Email	Remarketing	LexingtonLaw	Other	Other	Other	nan	nan
+34517	LEX_RMKTG_CRAS_0_New	Remarketing - CA Email	Remarketing	LexingtonLaw	Other	Other	Other	nan	nan
+34522	LEX_RMKTG_CRAS_6_v2	Remarketing - CA Email	Remarketing	LexingtonLaw	Other	Other	Other	nan	nan
+34523	OLP - HS to SMS	Hotswap - External	Hotswap External	LexingtonLaw	Other	Other	Other	nan	nan
+34529	Digital PPC 003	Online - PPC Search Other	Paid Search - Non-Brand	LexingtonLaw	Other	Search	Other	nan	nan
+34543	Credit Sesame - Hyper Value Test 	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+34545	Credit Sesame - Pay for Delete Letter	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+34551	Addshoppers	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+34561	Oxford Capital -Affiliate Mortgage	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+34562	Synergy - Lex Homepage Test	Email Marketing - Networks	Email Marketing	LexingtonLaw	Other	Other	Other	nan	nan
+34567	Online Affiliate- Lendio	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+34570	LEX_RMKTG_FOG_3_DenialA	Remarketing - FOG Email	Remarketing	LexingtonLaw	Other	Other	Other	nan	nan
+34574	LEX_RMKTG_FOG_3_DenialB	Remarketing - FOG Email	Remarketing	LexingtonLaw	Other	Other	Other	nan	nan
+34575	LEX_RMKTG_FOG_4_DenialB	Remarketing - FOG Email	Remarketing	LexingtonLaw	Other	Other	Other	nan	nan
+34576	Native - Pushnami_WF_Day1_blog	Online - PPC Display Prospecting	Display	LexingtonLaw	Display - Prospecting	Other	Other	nan	nan
+34577	Native - Pushnami_WF_Day1_Snapshot	Online - PPC Display Prospecting	Display	LexingtonLaw	Display - Prospecting	Other	Other	nan	nan
+34578	Native - Pushnami_WF_Day2_Convert	Online - PPC Display Prospecting	Display	LexingtonLaw	Display - Prospecting	Other	Other	nan	nan
+34579	Native - Pushnami_WF_Day2_blog	Online - PPC Display Prospecting	Display	LexingtonLaw	Display - Prospecting	Other	Other	nan	nan
+34580	Native - Pushnami_WF_Day2_Snapshot	Online - PPC Display Prospecting	Display	LexingtonLaw	Display - Prospecting	Other	Other	nan	nan
+34581	Native - Pushnami_WF_Day3_Convert	Online - PPC Display Prospecting	Display	LexingtonLaw	Display - Prospecting	Other	Other	nan	nan
+34582	Native - Pushnami_WF_Day3_blog	Online - PPC Display Prospecting	Display	LexingtonLaw	Display - Prospecting	Other	Other	nan	nan
+34583	Native - Pushnami_WF_Day3_Snapshot	Online - PPC Display Prospecting	Display	LexingtonLaw	Display - Prospecting	Other	Other	nan	nan
+34584	Rokt_RetargetingEmail	Online - PPC Display Prospecting	Display	LexingtonLaw	Display - Prospecting	Other	Other	nan	nan
+34590	Jeeng_Native_Fixcredit	Online - PPC Display Prospecting	Display	LexingtonLaw	Display - Prospecting	Other	Other	nan	nan
+34591	Jeeng_Native_mortgage	Online - PPC Display Prospecting	Display	LexingtonLaw	Display - Prospecting	Other	Other	nan	nan
+34592	Jeeng_display_fixcredit	Online - PPC Display Prospecting	Display	LexingtonLaw	Display - Prospecting	Other	Other	nan	nan
+34593	Jeeng_display_mortgage	Online - PPC Display Prospecting	Display	LexingtonLaw	Display - Prospecting	Other	Other	nan	nan
+34595	Dianomi - why lex 1 	Online - PPC Display Prospecting	Display	LexingtonLaw	Display - Prospecting	Other	Other	nan	nan
+34596	Dianomi - why lex 2	Online - PPC Display Prospecting	Display	LexingtonLaw	Display - Prospecting	Other	Other	nan	nan
+34597	Dianomi - mortgage 1	Online - PPC Display Prospecting	Display	LexingtonLaw	Display - Prospecting	Other	Other	nan	nan
+34598	Dianomi - mortgage 2	Online - PPC Display Prospecting	Display	LexingtonLaw	Display - Prospecting	Other	Other	nan	nan
+34612	Online Affiliate- Approved Apartment Locators	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+34615	Consumers Advocate - McClatchy Article 1	Brand - Direct Earned Content	Earned Media	LexingtonLaw	Other	Other	Other	nan	nan
+34616	Consumers Advocate - McClatchy Article 2	Brand - Direct Earned Content	Earned Media	LexingtonLaw	Other	Other	Other	nan	nan
+34617	Consumers Advocate - Money.com SEO Content Series 1	Brand - Direct Earned Content	Earned Media	LexingtonLaw	Other	Other	Other	nan	nan
+34618	Consumers Advocate - Money.com SEO Content Series 2	Brand - Direct Earned Content	Earned Media	LexingtonLaw	Other	Other	Other	nan	nan
+34619	Consumers Advocate - Sponsor the News	Brand - Direct Earned Content	Earned Media	LexingtonLaw	Other	Other	Other	nan	nan
+34620	Affiliate - Patch - CreditRepairPros	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+34624	LQ Digital - Housing list SMS 	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+34626	NPD_Cicola 5	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+34628	PGX Agent Onboarding	Employee and Test	Employee Test	LexingtonLaw	Other	Other	Other	nan	nan
+34629	Synergy - Lex/bad-credit	Email Marketing - Networks	Email Marketing	LexingtonLaw	Other	Other	Other	nan	nan
+34631	LQ Digital - rto.org SMS	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+34633	Online Affiliate- New 977	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+34635	Online Affiliate- New 979	Online - Affiliate NB	Affiliate	LexingtonLaw	Other	Other	Other	nan	nan
+34638	Remarketing- New 1	Remarketing - Email	Remarketing	LexingtonLaw	Other	Other	Other	nan	nan
+34639	Remarketing- New 2	Remarketing - Email	Remarketing	LexingtonLaw	Other	Other	Other	nan	nan
+34640	Remarketing- New 3	Remarketing - Email	Remarketing	LexingtonLaw	Other	Other	Other	nan	nan
+34641	Remarketing- New 4	Remarketing - Email	Remarketing	LexingtonLaw	Other	Other	Other	nan	nan
+34642	Remarketing- New 5	Remarketing - Email	Remarketing	LexingtonLaw	Other	Other	Other	nan	nan
+34643	Remarketing- New 6	Remarketing - Email	Remarketing	LexingtonLaw	Other	Other	Other	nan	nan
+34644	Remarketing- New 7	Remarketing - Email	Remarketing	LexingtonLaw	Other	Other	Other	nan	nan
+34645	Remarketing- New 8	Remarketing - Email	Remarketing	LexingtonLaw	Other	Other	Other	nan	nan

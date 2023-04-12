@@ -1,0 +1,309 @@
+## SC	SiteCatalyst SAINT Import File	v:2.1
+## SC	'## SC' indicates a SiteCatalyst pre-process header. Please do not remove these lines.
+## SC	D:2022-08-29 16:07:04	A:249457:101
+Key	Name	Manager	Department	Brand	Type	Channel	Network	Delivery	Device
+10000	Anonymous	Brand - Unassigned	Brand - Unassigned	CreditRepair	Other	Other	Other	s	nan
+10001	CJ Online (Affiliate)	Online - Affiliate NB	Affiliate	CreditRepair	Other	Other	Other	nan	nan
+10002	Commission Junction (CJ) Pay Per Call	Online - Affiliate Invoca	Affiliate	CreditRepair	Other	Other	Other	nan	nan
+10004	CreditRepair.com direct Traffic	Brand - Direct Entry	Direct	CreditRepair	Other	Other	Other	nan	nan
+10005	Ask|Comcast|Babylon|AVG|etc	Online - Natural Search	Natural Search	CreditRepair	Other	Other	Other	nan	nan
+10006	Chane Steiner (Affiliate)	Online - Affiliate NB	Affiliate	CreditRepair	Other	Other	Other	nan	nan
+10010	CR_RMKTG_SFMC_CRAS_1	Remarketing - CV Email	Remarketing	CreditRepair	Other	Other	Other	nan	nan
+10013	Google NS	Online - Natural Search	Natural Search	CreditRepair	Other	Other	Other	nan	nan
+10016	Bing NS	Online - Natural Search	Natural Search	CreditRepair	Other	Other	Other	nan	nan
+10028	CR.com Social Media	Brand - Direct Earned Social	Earned Media	CreditRepair	Other	Other	Other	nan	nan
+10033	TheTopTens - Dylan Mills (Affiliate)	Online - Affiliate NB	Affiliate	CreditRepair	Other	Other	Other	nan	nan
+10035	Spiders & Bots	Brand - Direct Entry	Direct	CreditRepair	Other	Other	Other	nan	nan
+10036	Credit View Email 3.1 - Retired	Remarketing - CV Email	Remarketing	CreditRepair	Other	Other	Other	nan	nan
+10075	CR_RMKTG_DIRECTMAIL_1_10075	Remarketing - Direct Mail	Direct Mail	CreditRepair	Other	Other	Other	nan	nan
+10076	CR_FFHD_Email_1	Remarketing - FFHD Email	Remarketing	CreditRepair	Other	Other	Other	nan	nan
+10081	SkyRocket Bing - CATCH ALL	Online - Affiliate NB	Affiliate	CreditRepair	Other	Other	Other	nan	nan
+10082	SkyRocket SEO	Online - Affiliate NB	Affiliate	CreditRepair	Other	Other	Other	nan	nan
+10083	SkyRocket Google - CATCH ALL	Online - Affiliate NB	Affiliate	CreditRepair	Other	Other	Other	nan	nan
+10089	Mobile App Text	Online - PPC Other Legacy	Paid Search - Non-Brand	CreditRepair	Other	Other	Other	nan	nan
+10100	Bing: Brand Mobile - Brand 1	Online - PPC Search Brand Bing	Paid Search - Brand	CreditRepair	Other	Search	Bing	nan	nan
+10101	Bing: Brand Mobile - Brand 2	Online - PPC Search Brand Bing	Paid Search - Brand	CreditRepair	Other	Search	Bing	nan	nan
+10104	Google: Brand Mobile - Brand 1	Online - PPC Search Brand Google	Paid Search - Brand	CreditRepair	Other	Search	Google	nan	nan
+10115	Google: Brand Desktop - Brand 1	Online - PPC Search Brand Google	Paid Search - Brand	CreditRepair	Other	Search	Google	nan	nan
+10118	Bing: Brand Desktop - Brand 2	Online - PPC Search Brand Bing	Paid Search - Brand	CreditRepair	Other	Search	Bing	nan	nan
+10220	Google: NBrand Mobile - Credit Disputes 1	Online - PPC Search NB Capture	Paid Search - Non-Brand	CreditRepair	Other	Other	Other	nan	nan
+10223	Google: NBrand Mobile - Credit Repair 1	Online - PPC Search NB Capture	Paid Search - Non-Brand	CreditRepair	Other	Other	Other	nan	nan
+10242	Referral Marketing - Agents	Remarketing - FFHD SMS	Remarketing	CreditRepair	Other	Other	Other	nan	nan
+10245	CR_RMKTG_Kaleyra_CRAS_11-20	Remarketing - CV SMS	Remarketing	CreditRepair	Other	Other	Other	nan	nan
+10258	Adcology Podcast Test	Offline - Radio National Adclgy	Radio - National	CreditRepair	Other	Other	Other	nan	nan
+10262	Credit Assessment Letter	Remarketing - Direct Mail	Direct Mail	CreditRepair	Other	Other	Other	nan	nan
+10287	Google: NBrand Desktop - Credit Bureaus 1	Online - PPC Search NB Capture	Paid Search - Non-Brand	CreditRepair	Other	Other	Other	nan	nan
+10350	CR Across America  - NewsFeed High 	Online - PPC Display Geist	Display	CreditRepair	Other	Other	Other	nan	nan
+10441	YellowPages.com	Online - Natural Search	Natural Search	CreditRepair	Other	Other	Other	nan	nan
+10443	FBX - Newsfeed High - Denied	Online - PPC Display Other	Display	CreditRepair	Other	Native	Native	nan	nan
+10520	Digital Brands Inc.	Online - Affiliate NB	Affiliate	CreditRepair	Other	Other	Other	nan	nan
+10583	SkyRocket Google - 5	Online - Affiliate NB	Affiliate	CreditRepair	Other	Other	Other	nan	nan
+10945	CR Blast All Email - Retired	Remarketing - CV Email	Remarketing	CreditRepair	Other	Other	Other	nan	nan
+10981	Google: NBrand Mobile - Fix Credit 2	Online - PPC Search NB Capture	Paid Search - Non-Brand	CreditRepair	Other	Other	Other	nan	nan
+11201	Bing: Brand - RAIS	Online - PPC Search Brand Bing	Paid Search - Brand	CreditRepair	Other	Search	Bing	nan	nan
+11235	Bing: NBrand Desktop - Credit Repair 1	Online - PPC Search NB Bing	Paid Search - Non-Brand	CreditRepair	Other	Search	Bing	nan	nan
+11276	Bing: NBrand Mobile - Credit Repair 1	Online - PPC Search NB Bing	Paid Search - Non-Brand	CreditRepair	Other	Search	Bing	nan	nan
+11281	Google: NBrand Desktop - Credit Score 2	Online - PPC Search NB Google	Paid Search - Non-Brand	CreditRepair	Other	Search	Google	nan	nan
+11369	TopTenReviews (Don Calamaro)	Online - Affiliate NB	Affiliate	CreditRepair	Other	Other	Other	nan	nan
+11484	CR_RMKTG_SFMC_CRAS_6	Remarketing - CV Email	Remarketing	CreditRepair	Other	Other	Other	nan	nan
+11584	CR_RMKTG_SFMC_CRAS_4	Remarketing - CV Email	Remarketing	CreditRepair	Other	Other	Other	nan	nan
+11589	CR_RMKTG_SFMC_CRAS_5	Remarketing - CV Email	Remarketing	CreditRepair	Other	Other	Other	nan	nan
+11787	Quizzle.com (Todd Albery)	Online - Affiliate NB	Affiliate	CreditRepair	Other	Other	Other	nan	nan
+12077	Google: NBrand Desktop - Credit Repair Keyword	Online - PPC Search NB Capture	Paid Search - Non-Brand	CreditRepair	Other	Other	Other	nan	nan
+12078	Google: NBrand Mobile - Credit Repair Keyword	Online - PPC Search NB Capture	Paid Search - Non-Brand	CreditRepair	Other	Other	Other	nan	nan
+12085	Bing: Brand Mobile - Brand Reviews 1	Online - PPC Search NB Bing	Paid Search - Non-Brand	CreditRepair	Other	Search	Bing	nan	nan
+12088	Bing: NBrand Desktop - Credit Repair Keyword	Online - PPC Search NB Bing	Paid Search - Non-Brand	CreditRepair	Other	Search	Bing	nan	nan
+12089	Bing: NBrand Mobile - Credit Repair Keyword	Online - PPC Search NB Bing	Paid Search - Non-Brand	CreditRepair	Other	Search	Bing	nan	nan
+12099	Google: Brand Mobile - CreditRepair.com	Online - PPC Search Brand Google	Paid Search - Brand	CreditRepair	Other	Search	Google	nan	nan
+12302	Bing: NBrand Desktop - Credit Repair 2	Online - PPC Search NB Bing	Paid Search - Non-Brand	CreditRepair	Other	Search	Bing	nan	nan
+12404	Simple Thrifty Living - Jeff Hunter	Online - Affiliate NB	Affiliate	CreditRepair	Other	Other	Other	nan	nan
+12489	Gemini: Brand Desktop - CreditRepair.com	Online - PPC Search Brand Gemini	Paid Search - Brand	CreditRepair	Other	Search	Other	nan	nan
+12637	Consumers Advocate Group - Ad Practitioners, LLC	Online - Affiliate NB	Affiliate	CreditRepair	Other	Other	Other	nan	nan
+13970	CR_RMKTG_SFMC_FOG_2 - Retired	Remarketing - FOG Email	Remarketing	CreditRepair	Other	Other	Other	nan	nan
+14245	Lending Tree - Online - MyLendingTree	Online - Affiliate NB	Affiliate	CreditRepair	Other	Other	Other	nan	nan
+14284	CR_RMKTG_SFMC_FOG_3 - Retired	Remarketing - FOG Email	Remarketing	CreditRepair	Other	Other	Other	nan	nan
+14605	Geist: NBrand - ExpOutbrain DRT	Online - PPC Display Geist	Display	CreditRepair	Other	Other	Other	nan	nan
+14606	Geist: NBrand - ExpOutbrain MRT	Online - PPC Display Geist	Display	CreditRepair	Other	Other	Other	nan	nan
+14614	Google: NBrand Mobile - Alpha Campaigns - 3Q	Online - PPC Search NB Capture	Paid Search - Non-Brand	CreditRepair	Other	Other	Other	nan	nan
+15307	Geist: NBrand - Plight Facebook	Online - PPC Display Geist	Display	CreditRepair	Other	Other	Other	nan	nan
+15309	Geist: NBrand - Plight Facebook	Online - PPC Display Geist	Display	CreditRepair	Other	Other	Other	nan	nan
+15440	Adcloud - CR RM - 49 Test	Online - PPC Display AdCloud	Display	CreditRepair	Other	Other	Other	nan	nan
+15459	Bing: Brand Desktop - CR_Bing_Search_Alpha	Online - PPC Search Brand Bing	Paid Search - Brand	CreditRepair	Other	Search	Bing	nan	nan
+15466	Bing: NBrand Mobile - CR_Bing_Search_Alpha	Online - PPC Search NB Bing	Paid Search - Non-Brand	CreditRepair	Other	Search	Bing	nan	nan
+15481	Geist: NBrand - Divorce Outbrain Mobile	Online - PPC Display Geist	Display	CreditRepair	Other	Other	Other	nan	nan
+15536	Bing: NBrand Desktop - Credit Repair 3 	Online - PPC Search NB Bing	Paid Search - Non-Brand	CreditRepair	Other	Search	Bing	nan	nan
+15542	Bing: Brand Mobile - Creditrepair.com	Online - PPC Search Brand Bing	Paid Search - Brand	CreditRepair	Other	Search	Bing	nan	nan
+15599	Bing: Brand Desktop - Creditrepair.com	Online - PPC Search Brand Bing	Paid Search - Brand	CreditRepair	Other	Search	Bing	nan	nan
+15621	GMB: CreditRepair.com - Chicago, IL	Online - Natural Search	Natural Search	CreditRepair	Other	Other	Other	nan	nan
+15630	TV|Denied^Local Cable@COMSCH 60_8443463076?Local Cable#Sports	Brand - Direct Entry	Direct	CreditRepair	Other	Other	Other	nan	nan
+15633	Shared Mail 	Offline - Print	Offline	CreditRepair	Other	Other	Other	nan	nan
+15657	Radio|REMOTEV2/SCL^Pittsburgh@WAMO-AM_8007095822?Local #Urban Contemp	Offline - Radio Local Hybrid	Radio - Local	CreditRepair	Other	Other	Other	nan	nan
+15835	ConsumersAdvocate - Brand Bids	Online - Affiliate Invoca	Affiliate	CreditRepair	Other	Other	Other	nan	nan
+15902	Patch Corp - Phone	Online - Affiliate NB	Affiliate	CreditRepair	Other	Other	Other	nan	nan
+15904	MoneyLion - Online Affiliate	Online - Affiliate NB	Affiliate	CreditRepair	Other	Other	Other	nan	nan
+15954	Facebook: Prospecting - Broad (Snapshot)	Online - PPC Social Prospecting	Paid Social	CreditRepair	Other	Other	Other	nan	nan
+16250	Natural Intelligence - Online	Online - Affiliate NB	Affiliate	CreditRepair	Other	Other	Other	nan	nan
+16253	TransUnion.com - Site Placement - CR	Online - Affiliate NB	Affiliate	CreditRepair	Other	Other	Other	nan	nan
+17000	TUCM - Site Placement - CR	Online - Affiliate NB	Affiliate	CreditRepair	Other	Other	Other	nan	nan
+17003	CreditReviews.com - OB	Online - Affiliate NB	Affiliate	CreditRepair	Other	Other	Other	nan	nan
+17017	Bliss Media - CR 	Email Marketing - Networks	Email Marketing	CreditRepair	Other	Other	Other	nan	nan
+17037	Trustpilot	Online - Affiliate NB	Affiliate	CreditRepair	Other	Other	Other	nan	nan
+17044	Affiliate - Applied Minds	Online - Affiliate NB	Affiliate	CreditRepair	Other	Other	Other	nan	nan
+17099	Affiliate - Wickfire - Closed	Online - Affiliate NB	Affiliate	CreditRepair	Other	Other	Other	nan	nan
+17191	Social Media Facebook - Comments	Brand - Direct Earned PR	Earned Media	CreditRepair	Other	Other	Other	nan	nan
+17192	Social Media-5	Brand - Direct Earned Social	Earned Media	CreditRepair	Other	Other	Other	nan	nan
+17193	Social Media-6	Online - Natural Search	Natural Search	CreditRepair	Other	Other	Other	nan	nan
+17268	Geist Display 509	Online - PPC Display Other	Display	CreditRepair	Other	Native	Native	nan	nan
+17324	Geist Display 518	Online - PPC Display Geist	Display	CreditRepair	Other	Other	Other	nan	nan
+17328	Geist Display 522	Online - PPC Display Geist	Display	CreditRepair	Other	Other	Other	nan	nan
+17474	SkyRocket - CR	Online - Affiliate NB	Affiliate	CreditRepair	Other	Other	Other	nan	nan
+17475	Affiliate - Bryan Enterprises 	Online - Affiliate NB	Affiliate	CreditRepair	Other	Other	Other	nan	nan
+17476	CreditReviews.com - STL	Online - Affiliate NB	Affiliate	CreditRepair	Other	Other	Other	nan	nan
+17719	Facebook: Terrance - Prospecting	Brand - Direct Entry	Direct	CreditRepair	Other	Other	Other	nan	nan
+17723	YouTube - Chambers Baseball 	Online - PPC Display GDN YT	Display	CreditRepair	Other	Other	Other	nan	nan
+18309	Natural Search - CreditRepair.com App - Android	Online - Natural Search	Natural Search	CreditRepair	Other	Other	Other	nan	nan
+18310	Natural Search - Creditepair.com App - iTunes	Online - Natural Search	Natural Search	CreditRepair	Other	Other	Other	nan	nan
+18373	Consumers Advocate - BCB 	Online - Affiliate NB	Affiliate	CreditRepair	Other	Other	Other	nan	nan
+18382	Plateau Data - Affiliate - Ad Mortgage	Online - Affiliate NB	Affiliate	CreditRepair	Other	Other	Other	nan	nan
+18480	18-34 IG/IG Stories - Contact	Online - PPC Social Facebook	Paid Social	CreditRepair	Other	Other	Other	nan	nan
+18482	18-34 NF/MSG/MKP - Leads	Online - PPC Social Facebook	Paid Social	CreditRepair	Other	Other	Other	nan	nan
+18484	18-34 IG/IG Stories - Leads - Copy	Online - PPC Social Prospecting	Paid Social	CreditRepair	Other	Other	Other	nan	nan
+18519	Yahoo: Credit Repair - Native - Prospecting	Online - PPC Native Prospecting	Display	CreditRepair	Native - Prospecting	Other	Other	nan	nan
+18520	Yahoo: Credit Repair - Native - Prospecting	Online - PPC Native Prospecting	Display	CreditRepair	Native - Prospecting	Other	Other	nan	nan
+18521	Yahoo: Credit Repair - Native - Prospecting	Online - PPC Native Prospecting	Display	CreditRepair	Native - Prospecting	Other	Other	nan	nan
+18527	Reddit: Credit Repair - Display - Prospecting	Online - PPC Display Prospecting	Display	CreditRepair	Display - Prospecting	Other	Other	nan	nan
+18614	Stringo Native 4023	Online - PPC Display Other	Display	CreditRepair	Other	Native	Native	nan	nan
+18697	NorCal Markteing - Affiliate - Reviews	Online - Affiliate NB	Affiliate	CreditRepair	Other	Other	Other	nan	nan
+18700	Plateau Data - Affiliate - Ad Refi	Online - Affiliate NB	Affiliate	CreditRepair	Other	Other	Other	nan	nan
+19564	CCOM PM E	Credit.com	Freemium & Email	CreditRepair	Other	Other	Other	nan	nan
+19649	Powerinbox: P - Broad	Online - PPC Native Prospecting	Display	CreditRepair	Native - Prospecting	Other	Other	nan	nan
+19753	Facebook: Prospecting [P]	Online - PPC Social Prospecting	Paid Social	CreditRepair	Other	Other	Other	nan	nan
+19906	CR_Pending_Email_3 - Retired	Remarketing - FC Email	e5	CreditRepair	Other	Other	Other	nan	nan
+19907	CR_Pending_Email_4 - Retired	Remarketing - FC Email	e5	CreditRepair	Other	Other	Other	nan	nan
+20053	ExtraCredit - Restore It - Premium	Credit.com - Extra Credit	Extra Credit	CreditRepair	Other	Other	Other	nan	nan
+20139	Social Media-16	Brand - Direct Earned Social	Earned Media	CreditRepair	Other	Other	Other	nan	nan
+20140	Influencer Marketing	Brand - Direct Earned Social	Earned Media	CreditRepair	Other	Other	Other	nan	nan
+20141	Social Media-18	Brand - Direct Earned Social	Earned Media	CreditRepair	Other	Other	Other	nan	nan
+20145	Social Media-22	Brand - Direct Earned Social	Earned Media	CreditRepair	Other	Other	Other	nan	nan
+20149	Social Media-26	Brand - Direct Earned Social	Earned Media	CreditRepair	Other	Other	Other	nan	nan
+20152	Social Media-29	Brand - Direct Earned Social	Earned Media	CreditRepair	Other	Other	Other	nan	nan
+20189	Simple Thrifty Living â€“ CR Social	Online - Affiliate NB	Affiliate	CreditRepair	Other	Other	Other	nan	nan
+20191	Affiliate - RX Marketing - Plain Text Email 1	Online - Affiliate NB	Affiliate	CreditRepair	Other	Other	Other	nan	nan
+20192	CR_RMKTG_Kaleyra_FOG_1	Remarketing - FOG SMS	Remarketing	CreditRepair	Other	Other	Other	nan	nan
+20195	CR_RMKTG_Kaleyra_FOG_4	Remarketing - FOG SMS	Remarketing	CreditRepair	Other	Other	Other	nan	nan
+20196	CR_RMKTG_Kaleyra_FOG_5	Remarketing - FOG SMS	Remarketing	CreditRepair	Other	Other	Other	nan	nan
+20198	CR_RMKTG_Kaleyra_FOG_7	Remarketing - FOG SMS	Remarketing	CreditRepair	Other	Other	Other	nan	nan
+20265	Verizon Native	Online - PPC Native Prospecting	Display	CreditRepair	Native - Prospecting	Other	Other	nan	nan
+20274	Bing NB: snapshot	Online - PPC Search NB Bing	Paid Search - Non-Brand	CreditRepair	Other	Search	Bing	nan	nan
+20290	Google: NB - Credit Score	Online - PPC Search NB Google	Paid Search - Non-Brand	CreditRepair	Other	Search	Google	nan	nan
+20291	Google: NB - Credit Repair	Online - PPC Search NB Google	Paid Search - Non-Brand	CreditRepair	Other	Search	Google	nan	nan
+20296	Revcontent: P - CS Android Non-Push	Online - PPC Native Prospecting	Display	CreditRepair	Native - Prospecting	Other	Other	nan	nan
+20299	Outbrain: P - b/fix credit Android Non-Push	Online - PPC Native Prospecting	Display	CreditRepair	Native - Prospecting	Other	Other	nan	nan
+20304	Google: NB - Credit Repair Exact v2	Online - PPC Search NB Google	Paid Search - Non-Brand	CreditRepair	Other	Search	Google	nan	nan
+20306	Outbrain: P - b/fix credit Android tROAS	Online - PPC Native Prospecting	Display	CreditRepair	Native - Prospecting	Other	Other	nan	nan
+20307	Verizon: P - Five Category KW	Online - PPC Native Prospecting	Display	CreditRepair	Native - Prospecting	Other	Other	nan	nan
+20343	Basis:R-DN-CRSignupPages-Vcreative	Online - PPC Display Retargeting	Display	CreditRepair	Display - Retargeting	Other	Other	nan	nan
+20344	Verizon: P - Five Category KW - Education LP	Online - PPC Native Prospecting	Display	CreditRepair	Native - Prospecting	Other	Other	nan	nan
+20345	Verizon: P-FiveCategoryKW-Creative-HP	Online - PPC Native Prospecting	Display	CreditRepair	Native - Prospecting	Other	Other	nan	nan
+20356	Basis:R-DN-CRSignupPages-$50off	Online - PPC Display Retargeting	Display	CreditRepair	Display - Retargeting	Other	Other	nan	nan
+20360	Verizon: P-LAL.CRCS-Creative-HP	Online - PPC Native Prospecting	Display	CreditRepair	Native - Prospecting	Other	Other	nan	nan
+20365	TCS: P - Dynamic HL	Online - PPC Display Prospecting	Display	CreditRepair	Display - Prospecting	Other	Other	nan	nan
+20428	Verizon: P - CS LP Test	Online - PPC Display Prospecting	Display	CreditRepair	Display - Prospecting	Other	Other	nan	nan
+20433	Verizon: P - Five Category KW - Fix Credit LP	Online - PPC Native Prospecting	Display	CreditRepair	Native - Prospecting	Other	Other	nan	nan
+20441	Social Media-31	Online - Social Media	Paid Social	CreditRepair	Other	Other	Other	nan	nan
+20443	Social Media-33	Online - Social Media	Paid Social	CreditRepair	Other	Other	Other	nan	nan
+20444	Social Media-34	Online - Social Media	Paid Social	CreditRepair	Other	Other	Other	nan	nan
+20445	Social Media-35	Online - Social Media	Paid Social	CreditRepair	Other	Other	Other	nan	nan
+20448	Social Media-38	Online - Social Media	Paid Social	CreditRepair	Other	Other	Other	nan	nan
+20467	Google: NB: CR Fix Credit	Online - PPC Search NB Google	Paid Search - Non-Brand	CreditRepair	Other	Search	Google	nan	nan
+20468	Google: NB: CR Credit Building	Online - PPC Search NB Google	Paid Search - Non-Brand	CreditRepair	Other	Search	Google	nan	nan
+20471	Google: CR NB - Credit Repair Exact - Desktop	Online - PPC Search NB Google	Paid Search - Non-Brand	CreditRepair	Other	Search	Google	nan	nan
+20489	Bliss - Publisher 1155	Online - PPC Bliss Media	Email Marketing	CreditRepair	Bliss Media	Other	Other	nan	nan
+20510	Dianomi:P-N-GeneralCS-Creative	Online - PPC Native Prospecting	Display	CreditRepair	Native - Prospecting	Other	Other	nan	nan
+20512	LiveIntent: P-D-GeneralCS-Creative	Online - PPC Display Prospecting	Display	CreditRepair	Display - Prospecting	Other	Other	nan	nan
+20699	DotDash - Online Affiliate -Investopedia 	Online - Affiliate Invoca	Affiliate	CreditRepair	Other	Other	Other	nan	nan
+20725	NorCal Marketing - Affiliate- Review Site Mysanantonio.com	Online - Affiliate NB	Affiliate	CreditRepair	Other	Other	Other	nan	nan
+20726	NorCal Marketing - Affiliate- Review Site Sfgate.com	Online - Affiliate NB	Affiliate	CreditRepair	Other	Other	Other	nan	nan
+20742	Google: NB High CPA - Fix Credit	Online - PPC Search NB Google	Paid Search - Non-Brand	CreditRepair	Other	Search	Google	nan	nan
+20747	Google: P - TCS Gmail Retargeting	Online - PPC Display Prospecting	Display	CreditRepair	Display - Prospecting	Other	Other	nan	nan
+20755	Facebook: Credit Scale	Online - PPC Social Prospecting	Paid Social	CreditRepair	Other	Other	Other	nan	nan
+20758	Basis:P-DN-BT(InMarketRepairMonitoring)-Vcreative	Online - PPC Display Prospecting	Display	CreditRepair	Display - Prospecting	Other	Other	nan	nan
+20762	Verizon: 40PT - Android only RON	Online - PPC Display Prospecting	Display	CreditRepair	Display - Prospecting	Other	Other	nan	nan
+20789	CR_RMKTG_SFMC_FOG_4 - Retired	Remarketing - FOG Email	Remarketing	CreditRepair	Other	Other	Other	nan	nan
+20803	Verizon: P-N-FiveCategoryKW-Creative-CS	Online - PPC Native Prospecting	Display	CreditRepair	Native - Prospecting	Other	Other	nan	nan
+20804	Verizon: P-N-LAL.CRCS-Creative-CS	Online - PPC Native Prospecting	Display	CreditRepair	Native - Prospecting	Other	Other	nan	nan
+20806	Verizon: P - RON - CS LP	Online - PPC Native Prospecting	Display	CreditRepair	Native - Prospecting	Other	Other	nan	nan
+20874	Interactive Offers: P -- Native Test	Online - PPC Native Prospecting	Display	CreditRepair	Native - Prospecting	Other	Other	nan	nan
+20877	Pushnami: P- Push:Score&Summary;	Online - PPC Display Prospecting	Display	CreditRepair	Display - Prospecting	Other	Other	nan	nan
+20891	Google: NB - Dispute Credit - Dispute Errors	Online - PPC Search NB Google	Paid Search - Non-Brand	CreditRepair	Other	Search	Google	nan	nan
+20892	Google: NB - Remove Collections - KW and Free Report	Online - PPC Search NB Google	Paid Search - Non-Brand	CreditRepair	Other	Search	Google	nan	nan
+20893	Google: NB - Clean Credit Score - KW and Free Report	Online - PPC Search NB Google	Paid Search - Non-Brand	CreditRepair	Other	Search	Google	nan	nan
+20926	FalloutGroup Direct Mail	Remarketing - FOG Direct Mail	Remarketing	CreditRepair	Other	Other	Other	nan	nan
+20927	CreditView Direct Mail	Remarketing - CV Direct Mail	Remarketing	CreditRepair	Other	Other	Other	nan	nan
+20929	FormerClient Direct Mail	Remarketing - FC Direct Mail	e5	CreditRepair	Other	Other	Other	nan	nan
+20936	CR_RMKTG_Kaleyra_CRAS_0-10	Remarketing - CV SMS	Remarketing	CreditRepair	Other	Other	Other	nan	nan
+21018	CR General | TKW | Fix Credit - How To Fix Credit 1 - Mobile 	Online - PPC Search NB Google	Paid Search - Non-Brand	CreditRepair	Other	Search	Google	nan	nan
+21019	CR General | TKW | Fix Credit - How To Fix Credit 1 - Desktop	Online - PPC Other	Paid Search - Non-Brand	CreditRepair	Other	Other	Other	nan	nan
+21020	CR General | TKW | Fix Credit - Fix Credit 1 - Mobile	Online - PPC Other	Paid Search - Non-Brand	CreditRepair	Other	Other	Other	nan	nan
+21021	CR General | TKW | Fix Credit - Fix Credit 1 - Desktop	Online - PPC Other	Paid Search - Non-Brand	CreditRepair	Other	Other	Other	nan	nan
+21024	CR General | TKW | Fix Credit - Company Search 1 - Mobile	Online - PPC Search NB Google	Paid Search - Non-Brand	CreditRepair	Other	Search	Google	nan	nan
+21025	CR General | TKW | Fix Credit - Company Search 1 - Desktop	Online - PPC Search NB Google	Paid Search - Non-Brand	CreditRepair	Other	Search	Google	nan	nan
+21026	CR General | TKW | Clean/Clear Credit 1 - Mobile	Online - PPC Search NB Google	Paid Search - Non-Brand	CreditRepair	Other	Search	Google	nan	nan
+21028	CR General | TKW | Credit Repair -Law/Attorney 1 - Desktop	Online - PPC Search NB Google	Paid Search - Non-Brand	CreditRepair	Other	Search	Google	nan	nan
+21029	CR General | TKW | Credit Repair -Law/Attorney 1 - Mobile	Online - PPC Search NB Google	Paid Search - Non-Brand	CreditRepair	Other	Search	Google	nan	nan
+21030	CR General | TKW | Credit Repair - Length Of Time 1 - Mobile	Online - PPC Search NB Google	Paid Search - Non-Brand	CreditRepair	Other	Search	Google	nan	nan
+21045	Dot dash - Affiliate - Investopedia	Online - Affiliate NB	Affiliate	CreditRepair	Other	Other	Other	nan	nan
+21114	CR General | TKW | Credit Repair - Credit Repair 1 - Desktop	Online - PPC Search NB Google	Paid Search - Non-Brand	CreditRepair	Other	Search	Google	nan	nan
+21116	CR General | TKW | Credit Repair - CR Cost 1 - Desktop	Online - PPC Search NB Google	Paid Search - Non-Brand	CreditRepair	Other	Search	Google	nan	nan
+21124	CR General | TKW | Collections - Collection Removal 1 - Mobile	Online - PPC Search NB Google	Paid Search - Non-Brand	CreditRepair	Other	Search	Google	nan	nan
+21125	CR General | TKW | Collections - Collection Removal 1 - Desktop	Online - PPC Search NB Google	Paid Search - Non-Brand	CreditRepair	Other	Search	Google	nan	nan
+21142	ExtraCredit Email	Remarketing - Email	Remarketing	CreditRepair	Other	Other	Other	nan	nan
+21168	NorCal Marketing - Affiliate Review Site Tampabay.com	Online - Affiliate NB	Affiliate	CreditRepair	Other	Other	Other	nan	nan
+21170	Consumervoice - Review	Online - Affiliate NB	Affiliate	CreditRepair	Other	Other	Other	nan	nan
+21173	NorCal Marketing - Affiliate - TimesUnion.com	Online - Affiliate NB	Affiliate	CreditRepair	Other	Other	Other	nan	nan
+21211	HS Spanish-ACE	Hotswap External - Spanish	Hotswap External	CreditRepair	Other	Other	Other	nan	nan
+21223	ACE Affiliate - Spanish 	Affiliate - Spanish	Affiliate	CreditRepair	Other	Other	Other	nan	nan
+21224	Online Affiliate - Applied Minds - Spanish	Affiliate - Spanish	Affiliate	CreditRepair	Other	Other	Other	nan	nan
+21229	DGMAX - Spanish - Email	Affiliate - Spanish	Affiliate	CreditRepair	Other	Other	Other	nan	nan
+21232	Atwave Email - Spanish	Email Marketing - Spanish	Email Marketing	CreditRepair	Other	Other	Other	nan	nan
+21249	Bing: NBrand Mobile - Credit Repair Spanish 1 - Call Only	Online - PPC Search NB Bing	Paid Search - Non-Brand	CreditRepair	Other	Search	Bing	nan	nan
+21255	CR_RMKTG_SFMC_CRAS_3	Remarketing - CV Email	Remarketing	CreditRepair	Other	Other	Other	nan	nan
+21256	CR_RMKTG_SFMC_CRAS_0	Remarketing - CV Email	Remarketing	CreditRepair	Other	Other	Other	nan	nan
+21266	CR General | SKW - [credit repair services] - Mobile	Online - PPC Search NB Google	Paid Search - Non-Brand	CreditRepair	Other	Search	Google	nan	nan
+21267	CR General | SKW - [credit repair services] - desktop	Online - PPC Search NB Google	Paid Search - Non-Brand	CreditRepair	Other	Search	Google	nan	nan
+21270	CR General | SKW - [credit repair companies] - Mobile	Online - PPC Search NB Google	Paid Search - Non-Brand	CreditRepair	Other	Search	Google	nan	nan
+21274	CR Direct Traffic Spanish	Affiliate - Spanish	Affiliate	CreditRepair	Other	Other	Other	nan	nan
+21284	CR_RMKTG_SFMC_CRAS_2	Remarketing - CV Email	Remarketing	CreditRepair	Other	Other	Other	nan	nan
+21285	Facebook: PR - Snapshot - RP - Interest	Online - PPC Social Prospecting	Paid Social	CreditRepair	Other	Other	Other	nan	nan
+21289	Facebook: PR - Streetcred - snap	Online - PPC Social Prospecting	Paid Social	CreditRepair	Other	Other	Other	nan	nan
+21353	Forbes - Review	Online - Affiliate NB	Affiliate	CreditRepair	Other	Other	Other	nan	nan
+21356	Even Financial - Offerwall linkout	Online - Affiliate NB	Affiliate	CreditRepair	Other	Other	Other	nan	nan
+21359	LEX_RMKTG_AgedLeads_CR_21359	Remarketing - FC Email	e5	CreditRepair	Other	Other	Other	nan	nan
+21360	LEX_RMKTG_AgedLeads_CR_21360	Remarketing - FC Email	e5	CreditRepair	Other	Other	Other	nan	nan
+21382	CR_RMKTG_SFMC_Pending_2A - Retired	Remarketing - FC Email	e5	CreditRepair	Other	Other	Other	nan	nan
+21384	CR_RMKTG_SFMC_Pending_4A - Retired	Remarketing - FC Email	e5	CreditRepair	Other	Other	Other	nan	nan
+21392	People who engaged with any post or ad CR & LEX - 365 Days	Online - PPC Social Other	Paid Social	CreditRepair	Other	Other	Other	nan	nan
+21407	Former Clients - 2013-2020 - Value	Online - PPC Social Retargeting	Paid Social	CreditRepair	Other	Other	Paid Social Retargeting	nan	nan
+21408	Interest - First Time Buyer - Snapshot	Online - PPC Social Prospecting	Paid Social	CreditRepair	Other	Other	Other	nan	nan
+21410	Website 7 day - Mortgage - Snapshot 	Online - PPC Social Retargeting	Paid Social	CreditRepair	Other	Other	Paid Social Retargeting	nan	nan
+21413	LAL - Super - BM	Online - PPC Social Prospecting	Paid Social	CreditRepair	Other	Other	Other	nan	nan
+21430	CR_RMKTG_Aktify_Pending	Remarketing - FC SMS	e5	CreditRepair	Other	Other	Other	nan	nan
+21431	CR_RMKTG_Aktify_FOG	Remarketing - FOG SMS	Remarketing	CreditRepair	Other	Other	Other	nan	nan
+21432	CR_RMKTG_Aktify_CRAS	Remarketing - CV SMS	Remarketing	CreditRepair	Other	Other	Other	nan	nan
+21435	Pushnami: P- Push:FreeReportSummary	Online - PPC Display Prospecting	Display	CreditRepair	Display - Prospecting	Other	Other	nan	nan
+21436	Pushnami: P-Waterfall:RSS Blog Feed	Online - PPC Display Prospecting	Display	CreditRepair	Display - Prospecting	Other	Other	nan	nan
+21441	Display-Geist : FB_A_AskedAnswered_PayPath_PS_RON	Online - PPC Display Prospecting	Display	CreditRepair	Display - Prospecting	Other	Other	nan	nan
+21446	CR_RMKTG_SFMC_ChargeOff_1	Remarketing - FC Email	e5	CreditRepair	Other	Other	Other	nan	nan
+21447	CR_RMKTG_SFMC_ChargeOff_2	Remarketing - FC Email	e5	CreditRepair	Other	Other	Other	nan	nan
+21448	CR_RMKTG_SFMC_ChargeOff_3	Remarketing - FC Email	e5	CreditRepair	Other	Other	Other	nan	nan
+21449	CR_RMKTG_SFMC_ChargeOff_4	Remarketing - FC Email	e5	CreditRepair	Other	Other	Other	nan	nan
+21453	CR_RMKTG_SFMC_ROR_2	Remarketing - FC Email	e5	CreditRepair	Other	Other	Other	nan	nan
+21454	CR_RMKTG_SFMC_ROR_3	Remarketing - FC Email	e5	CreditRepair	Other	Other	Other	nan	nan
+21455	CR Native-Pushnami-remove collections	Online - PPC Display Prospecting	Display	CreditRepair	Display - Prospecting	Other	Other	nan	nan
+21456	CR Native-Pushnami-remove late payments	Online - PPC Display Prospecting	Display	CreditRepair	Display - Prospecting	Other	Other	nan	nan
+21457	Pushnami: CR - Push:FixCredit	Online - PPC Display Prospecting	Display	CreditRepair	Display - Prospecting	Other	Other	nan	nan
+21458	Pushnami - Native - remove_late_payments_recurring	Online - PPC Display Prospecting	Display	CreditRepair	Display - Prospecting	Other	Other	nan	nan
+21461	Online Affiliate - Adsmovil Spanish	Affiliate - Spanish	Affiliate	CreditRepair	Other	Other	Other	nan	nan
+21464	CR_RMKTG_SFMC_Pending_Value_1A	Remarketing - FC Email	e5	CreditRepair	Other	Other	Other	nan	nan
+21465	CR_RMKTG_SFMC_Pending_Value_2A	Remarketing - FC Email	e5	CreditRepair	Other	Other	Other	nan	nan
+21466	CR_RMKTG_SFMC_Pending_Value_3A	Remarketing - FC Email	e5	CreditRepair	Other	Other	Other	nan	nan
+21467	CR_RMKTG_SFMC_Pending_Value_4A	Remarketing - FC Email	e5	CreditRepair	Other	Other	Other	nan	nan
+21468	CR_RMKTG_SFMC_Pending_Value_1B	Remarketing - FC Email	e5	CreditRepair	Other	Other	Other	nan	nan
+21469	CR_RMKTG_SFMC_Pending_Value_2B	Remarketing - FC Email	e5	CreditRepair	Other	Other	Other	nan	nan
+21470	CR_RMKTG_SFMC_Pending_Value_3B	Remarketing - FC Email	e5	CreditRepair	Other	Other	Other	nan	nan
+21471	CR_RMKTG_SFMC_Pending_Value_4B	Remarketing - FC Email	e5	CreditRepair	Other	Other	Other	nan	nan
+21472	Gesit - 003	Online - PPC Display Prospecting	Display	CreditRepair	Display - Prospecting	Other	Other	nan	nan
+21483	Native - Pushnami:Value-Product	Online - PPC Display Prospecting	Display	CreditRepair	Display - Prospecting	Other	Other	nan	nan
+21484	ConsumerTrack 004	Online - PPC Display Prospecting	Display	CreditRepair	Display - Prospecting	Other	Other	nan	nan
+21486	CR_RMKTG_SFMC_FOG_1_SLB - Retired	Remarketing - FOG Email	Remarketing	CreditRepair	Other	Other	Other	nan	nan
+21488	DSL_Interest > Credit Repair - Spanish - Snapshot	Online PPC - Spanish	nan	CreditRepair	Other	Other	Other	nan	nan
+21489	LAL - Current Clients - Spanish - Snapshot	Online PPC - Spanish	nan	CreditRepair	Other	Other	Other	nan	nan
+21493	ConsumerTrack 003	Online - PPC Display Prospecting	Display	CreditRepair	Display - Prospecting	Other	Other	nan	nan
+21496	Wishbone - Spanish Tiktok	Affiliate - Spanish	Affiliate	CreditRepair	Other	Other	Other	nan	nan
+21497	Madrivo - Online Signups 	Affiliate - Spanish	Affiliate	CreditRepair	Other	Other	Other	nan	nan
+21505	Credit Sesame - CR Value 	Online - Affiliate NB	Affiliate	CreditRepair	Other	Other	Other	nan	nan
+21507	Consumers Advocate - Money.com Credit Value 	Online - Affiliate NB	Affiliate	CreditRepair	Other	Other	Other	nan	nan
+21509	Online Affiliate- Offer Blueprint - CR Value	Online - Affiliate NB	Affiliate	CreditRepair	Other	Other	Other	nan	nan
+21511	Addshoppers	Online - Affiliate NB	Affiliate	CreditRepair	Other	Other	Other	nan	nan
+21513	Credit.com CR Value Offer ($39.95)	Credit.com - CRC	Freemium & Email	CreditRepair	Other	Other	Other	nan	nan
+21514	CR_RMKTG_FOG_1_DesignA	Remarketing - FOG Email	Remarketing	CreditRepair	Other	Other	Other	nan	nan
+21515	CR_RMKTG_FOG_2_DesignA	Remarketing - FOG Email	Remarketing	CreditRepair	Other	Other	Other	nan	nan
+21516	CR_RMKTG_FOG_3_DesignA	Remarketing - FOG Email	Remarketing	CreditRepair	Other	Other	Other	nan	nan
+21517	CR_RMKTG_FOG_4_DesignA	Remarketing - FOG Email	Remarketing	CreditRepair	Other	Other	Other	nan	nan
+21518	CR_RMKTG_FOG_1_DesignB	Remarketing - FOG Email	Remarketing	CreditRepair	Other	Other	Other	nan	nan
+21519	CR_RMKTG_FOG_2_DesignB	Remarketing - FOG Email	Remarketing	CreditRepair	Other	Other	Other	nan	nan
+21520	CR_RMKTG_FOG_3_DesignB	Remarketing - FOG Email	Remarketing	CreditRepair	Other	Other	Other	nan	nan
+21521	CR_RMKTG_FOG_4_DesignB	Remarketing - FOG Email	Remarketing	CreditRepair	Other	Other	Other	nan	nan
+21522	Interest - Spanish - Snapshot	Online PPC - Spanish	nan	CreditRepair	Other	Other	Other	nan	nan
+21523	Website Retargeting - Spanish - Snapshot	Online PPC - Spanish	nan	CreditRepair	Other	Other	Other	nan	nan
+21531	ConsumerTrack 005	Online - PPC Display Prospecting	Display	CreditRepair	Display - Prospecting	Other	Other	nan	nan
+21532	ConsumerTrack 006	Online - PPC Display Prospecting	Display	CreditRepair	Display - Prospecting	Other	Other	nan	nan
+21534	ConsumerTrack 008	Online - PPC Display Prospecting	Display	CreditRepair	Display - Prospecting	Other	Other	nan	nan
+21535	Native - Pushnami_WF_Day1_MTpage	Online - PPC Display Prospecting	Display	CreditRepair	Display - Prospecting	Other	Other	nan	nan
+21536	Native - Pushnami_WF_Day1_snapshot	Online - PPC Display Prospecting	Display	CreditRepair	Display - Prospecting	Other	Other	nan	nan
+21538	Native - Pushnami_WF_Day1_blog	Online - PPC Display Prospecting	Display	CreditRepair	Display - Prospecting	Other	Other	nan	nan
+21539	Native - Pushnami_WF_Day2_MTpage	Online - PPC Display Prospecting	Display	CreditRepair	Display - Prospecting	Other	Other	nan	nan
+21540	Native - Pushnami_WF_Day2_snapshot	Online - PPC Display Prospecting	Display	CreditRepair	Display - Prospecting	Other	Other	nan	nan
+21541	Native - Pushnami_WF_Day2_blog	Online - PPC Display Prospecting	Display	CreditRepair	Display - Prospecting	Other	Other	nan	nan
+21542	Native - Pushnami_WF_Day3_MTpage	Online - PPC Display Prospecting	Display	CreditRepair	Display - Prospecting	Other	Other	nan	nan
+21543	Native - Pushnami_WF_Day3_snapshot	Online - PPC Display Prospecting	Display	CreditRepair	Display - Prospecting	Other	Other	nan	nan
+21544	Native - Pushnami_WF_Day3_blog	Online - PPC Display Prospecting	Display	CreditRepair	Display - Prospecting	Other	Other	nan	nan
+21545	BING: MSAN_BigMoments_IM	Online - PPC Display Prospecting	Display	CreditRepair	Display - Prospecting	Other	Other	nan	nan
+21546	BING: MSAN_BigMoments_IM 	Online - PPC Display Prospecting	Display	CreditRepair	Display - Prospecting	Other	Other	nan	nan
+21547	Interest - Value - BM - Price Test	Online - PPC Social Prospecting	Paid Social	CreditRepair	Other	Other	Other	nan	nan
+21548	Interest - Value - BM - No Price Test	Online - PPC Social Prospecting	Paid Social	CreditRepair	Other	Other	Other	nan	nan
+21549	Former Clients - 2013-2020 - Value	Online - PPC Social Retargeting	Paid Social	CreditRepair	Other	Other	Paid Social Retargeting	nan	nan
+21550	Website 7 day - Mortgage - Snapshot	Online - PPC Social Retargeting	Paid Social	CreditRepair	Other	Other	Paid Social Retargeting	nan	nan
+21552	Interest - First Time Buyer - Snapshot	Online - PPC Social Prospecting	Paid Social	CreditRepair	Other	Other	Other	nan	nan
+21553	Website 180 day - Mortgage - Snapshot	Online - PPC Social Retargeting	Paid Social	CreditRepair	Other	Other	Paid Social Retargeting	nan	nan
+21554	Native - Pushnami_PN_Blog	Online - PPC Display Prospecting	Display	CreditRepair	Display - Prospecting	Other	Other	nan	nan
+21555	Native - Pushnami_PN_Snapshot	Online - PPC Display Prospecting	Display	CreditRepair	Display - Prospecting	Other	Other	nan	nan
+21556	Native - Pushnami_PN_ValueNoPrice	Online - PPC Display Prospecting	Display	CreditRepair	Display - Prospecting	Other	Other	nan	nan
+21557	Native - Pushnami_PN_ValuePrice	Online - PPC Display Prospecting	Display	CreditRepair	Display - Prospecting	Other	Other	nan	nan
+21558	LAL - Super - Value 	Online - PPC Social Prospecting	Paid Social	CreditRepair	Other	Other	Other	nan	nan
+21559	Pandora	Brand - Direct Entry	Direct	CreditRepair	Other	Other	Other	nan	nan
+21576	Website 180 day *non advantage audience* - Mortgage - Snapshot	Online - PPC Social Retargeting	Paid Social	CreditRepair	Other	Other	Paid Social Retargeting	nan	nan
+21577	Credit.com CR Value Offer (Control)	Credit.com - CRC	Freemium & Email	CreditRepair	Other	Other	Other	nan	nan
+21578	LEX_RMKTG_FOG_NegativeItems_5	Remarketing - FOG Email	Remarketing	CreditRepair	Other	Other	Other	nan	nan
+21580	Aged Leads Email 2	Remarketing - Email	Remarketing	CreditRepair	Other	Other	Other	nan	nan
+21581	Aged Leads Email Test 1	Remarketing - Email	Remarketing	CreditRepair	Other	Other	Other	nan	nan
