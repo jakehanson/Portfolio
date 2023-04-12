@@ -12,7 +12,7 @@ The Figure below shows an example of what these reports look like; notice, we ar
 
 
 
-<img src = './Portfolio/Adobe-Classification/img/name_and_manager.png' width = 700>
+<img src = 'Portfolio/Adobe-Classification/img/name_and_manager.png' width = 700>
 
 *Example of a breakdown in Adobe Analytics that utilizes the user-defined properties Name and Manager from the marketing databases.*
 
