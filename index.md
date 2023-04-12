@@ -4,6 +4,40 @@ Work in progress. Check back soon.
 
 ---
 
+## Adobe Classification
+
+The goal of this project was to assign metadata to marketing campaigns using Adobe Analytics. Prior to this project, marketing campaign data was stored in locally in our data warehouses but was unavailable in Adobe Analytics. What this project accomplished was syncing these two data sources so that we could build reports on the fly in Adobe Analytics based on our marketing data.
+
+The Figure below shows an example of what these reports look like; notice, we are able to break down each step in our signup flow at various resolutions. At the finest scale, we have the name of the marketing campaign whereas coarser scales can group by manager and department. This ability to roll up marketing campaigns into aggregate groups based on user-defined properties is crucial for alignment with Finance and Market Mix Models.
+
+
+
+<img src = './Portfolio/Adobe-Classification/img/name_and_manager.png' width = 700>
+
+*Example of a breakdown in Adobe Analytics that utilizes the user-defined properties Name and Manager from the marketing databases.*
+
+
+
+<img src="Porfolio/Adobe-Classification/img/name_and_manager.png">*image_caption*
+
+
+
+For example, the Figure below shows a report that takes
+
+breakdown conversion metrics by marketing campign on the fly within Adobe Analytics. For example, in Figure 1
+
+
+
+ break down our signup flow by Marketing campaign and channel ma 
+
+ by 
+
+building this metadata into Adobe Analytics so that we could create web reports on the fly within Adobe Analytics that contained co data such as  campaign nam manager, spend ,conversion, etc. within the Adobe Analytics
+
+the unassigned TIDs from Adobe Analytics to their corresponding Managers for both Lex and CR. To do this, we need to use the map from `TID` to `Manager` found in the `tbl_campaigns` databases of Austria (Lex) and Peru (CR). The SQL programs used to query the databases are `Adobe Classification Query (CR).sql` and `Adobe Classification Query (Lex).sql`. The output from these queries is stored in the CSV files `CR TID Map.csv` and `Lex TID Map.csv`. In what follows, we read these results in and use them to assign the unknown TIDs to a Manager. We then store the classified TIDs as a template ready for upload in Adobe.
+
+
+
 ### Bill Date Optimization
 
 Using high-resolution customer data linked to bank accounts we train a machine learning model to predict the best time to bill. Test
