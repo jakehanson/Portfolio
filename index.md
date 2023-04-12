@@ -1,10 +1,12 @@
 ## Selected projects in data science, marketing, and web optimization
 
+Work in progress. Check back soon.
+
 ---
 
 ### Bill Date Optimization
 
-Using high-resolution customer data linked to bank accounts we train a machine learning model to predict the best time to bill.
+Using high-resolution customer data linked to bank accounts we train a machine learning model to predict the best time to bill. Test
 
 **Published**: Corporate Internal
 
