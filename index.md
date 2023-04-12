@@ -1,14 +1,10 @@
 ## Selected Data Science Projects
 
-[TOC]
-
 ### Adobe Classification
 
 The goal of this project was to assign metadata to marketing campaigns using Adobe Analytics. Prior to this project, marketing campaign data was stored in locally in our data warehouses but was unavailable in Adobe Analytics. What this project accomplished was syncing these two data sources so that we could build reports on the fly in Adobe Analytics based on our marketing data.
 
 The Figure below shows an example of what these reports look like; notice, we are able to break down each step in our signup flow at various resolutions ranging from the campaign name to the marketing manager/department. This ability to roll up marketing campaigns into aggregate groups based on user-defined properties is crucial for alignment with Finance and Market Mix Models.
-
-
 
 <img src = "Portfolio/Adobe-Classification/img/name_and_manager.png?raw=true">
 
