@@ -23,13 +23,13 @@ Haumea is a dwarf planet located beyond Neptune’s orbit. Due to its small size
 
 *Figure 2 - Self-consistent 3D gravitational simulation of the dwarf planet Haumea.*
 
-[![](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B)s](#) [![](https://img.shields.io/badge/Numerical_Hydrodynamics-FF0000?color=important)](#) [![](https://img.shields.io/badge/Theoretical_Physics-gray?)](#) 
+[![](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B)](#)[![](https://img.shields.io/badge/Numerical_Hydrodynamics-FF0000?color=important)](#) [![](https://img.shields.io/badge/Theoretical_Physics-gray?)](#) 
 
 [View Code on Github](https://github.com/jakehanson/Haumea)
 
 ### Karhunen-Loève Image Processing
 
-In this project, I use the Karhunen-Loève Transform (KLT) to directly image exoplanets. This algorithm is a generalization of principal component analysis that diagonalizes the covariance matrix of a set of reference images. The result is a set of uncorrelated variables called Karhunen-Loève basis functions that can be ordered based on their importance.
+In this project, I use the Karhunen-Loève Transform (KLT) to directly image exoplanets. This algorithm is a generalization of principal component analysis that diagonalizes the covasriance matrix of a set of reference images. The result is a set of uncorrelated variables called Karhunen-Loève basis functions that can be ordered based on their importance.
 
 In Astronomy, these basis functions capture systematic defects in the telescope optics that result in a speckle pattern that is the same order of magnitude as astrophysical sources. By subtracting the basis functions, you can remove the systematic defects while retaining the astrophysical signal - enabling the discovery of faint exoplanets in bright environments.
 
