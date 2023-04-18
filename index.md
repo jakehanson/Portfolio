@@ -17,7 +17,7 @@ The goal of this project was to assign metadata to marketing campaigns using Ado
 
 ### Modeling the Interior of the Dwarf Planet Haumea
 
-Haumea is a dwarf planet located beyond Neptune's orbit. Due to its small angular size, its shape cannot be directly measured since it only fits on less than one pixel. Nonetheless, we can infer that Haumea is a rotating body with varying semi-major and semi-minor axes based on periodic changes in brightness that correspond to different ellipsoidal faces being exposed. Here, I model the planet's morphology and internal composition. I assume it is a Jacobi Ellipsoid and simulate a stable, 3D self-gravitating body with Haumea's observed rotational period.
+Haumea is a dwarf planet located beyond Neptune’s orbit. Due to its small size, its shape cannot be accurately determined as the angular size is less than a pixel. Nonetheless, we can infer that Haumea is a rotating body with varying semi-major and semi-minor axes based on periodic changes in brightness that correspond to different ellipsoidal faces being exposed. To model the planet’s morphology and internal composition, we assume it is a Jacobi Ellipsoid and simulate a stable, 3D self-gravitating body with Haumea’s observed rotational period.
 
 <img src="images/density_sim.gif?raw=true" />
 
@@ -26,6 +26,18 @@ Haumea is a dwarf planet located beyond Neptune's orbit. Due to its small angula
 [![](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B)s](#) [![](https://img.shields.io/badge/Numerical_Hydrodynamics-FF0000?color=important)](#) [![](https://img.shields.io/badge/Theoretical_Physics-gray?)](#) 
 
 [View Code on Github](https://github.com/jakehanson/Haumea)
+
+### Karhunen-Loève Image Processing
+
+In this project, I use the Karhunen-Loève Transform (KLT) to directly image exoplanets. This algorithm is a generalization of principal component analysis that diagonalizes the covariance matrix of a set of reference images. The result is a set of uncorrelated variables called Karhunen-Loève basis functions that can be ordered based on their importance.
+
+In Astronomy, these basis functions capture systematic defects in the telescope optics that result in a speckle pattern that is the same order of magnitude as astrophysical sources. By subtracting the basis functions, you can remove the systematic defects while retaining the astrophysical signal - enabling the discovery of faint exoplanets in bright environments.
+
+My IDL implementation of this algorithm has used in combination with data from the Very Large Telescope (VLT) to discover dozens of new exoplanets (https://iopscience.iop.org/article/10.3847/0004-637X/820/1/40/meta).
+
+<img src = 'images/KLIP_example.png'>*Image and algorithm implementation by author.*
+
+<img src = 'images/hr8799.jpeg'>*VLT images of the HR8799 system processed using the KLIP algorithm described above. The signal from multiple exoplanets can clearly be seen in white*. 
 
 ### Bill Date Optimization
 
