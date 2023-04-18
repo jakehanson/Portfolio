@@ -35,7 +35,7 @@ In Astronomy, these basis functions capture systematic defects in the telescope 
 
 My IDL implementation of this algorithm has used in combination with data from the Very Large Telescope (VLT) to discover dozens of new exoplanets (https://iopscience.iop.org/article/10.3847/0004-637X/820/1/40/meta).
 
-<img src = 'images/KLIP_example.png'>*Image and algorithm implementation by author.*
+<img src = 'images/KLIP_example.png'>*Overview of KLIP, including visualization of the basis functions. Image by author.*
 
 <img src = 'images/hr8799.jpeg'>*VLT images of the HR8799 system processed using the KLIP algorithm described above. The signal from multiple exoplanets can clearly be seen in white*. 
 
