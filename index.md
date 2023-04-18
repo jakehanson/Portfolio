@@ -15,11 +15,17 @@ The goal of this project was to assign metadata to marketing campaigns using Ado
 
 [View Sample on Github](https://github.com/jakehanson/jakehanson.github.io/tree/master/Portfolio/Adobe-Classification)
 
-### Modeling the Interior of the Dwarf Planet Haumeau
+### Modeling the Interior of the Dwarf Planet Haumea
 
 Haumea is a dwarf planet located beyond Neptune's orbit. Due to its small size, its shape cannot be accurately determined as the angular size is less than a pixel. Nonetheless, we can infer that Haumea is a rotating body with varying semi-major and semi-minor axes based on periodic changes in brightness that correspond to different ellipsoidal faces being exposed. To model the planet's morphology and internal composition, we assume it is a Jacobi Ellipsoid and simulate a stable, 3D self-gravitating body with Haumea's observed rotational period.
 
 References: [Hachisu 1961, Dunham et al. 2019]
+
+<figure>   <a href="https://github.com/jakehanson/Haumea/blob/master/MODEL_001/density_sim.gif"><img src="https://github.com/jakehanson/Haumea/blob/master/MODEL_001/density_sim.gif"></a>   <figcaption>Self-consistent 3D gravitational simulation of the dwarf planet Haumea.</figcaption> </figure>
+
+<a href="https://github.com/jakehanson/Haumea/blob/master/MODEL_001/density_sim.gif"><img src="https://github.com/jakehanson/Haumea/blob/master/MODEL_001/density_sim.gif"></a>
+
+<img src = './'
 
 ![alt text](https://github.com/jakehanson/Haumea/blob/master/MODEL_001/density_sim.gif)*Self-consistent 3D gravitational simulation of the dwarf planet Haumea.*
 
