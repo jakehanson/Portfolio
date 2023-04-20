@@ -1,7 +1,10 @@
 ## Selected Data Science Projects
 
-- Adobe Classification
-- Haumeau
+- [Adobe Classification](#adobe-classification)
+- [Haumea](#Haumea)
+- [Karhunen-Loève Image Processing](#KLIP)
+
+<a id="adobe-classification"></a>
 
 ### Adobe Classification
 
@@ -15,6 +18,8 @@ The goal of this project was to assign metadata to marketing campaigns using Ado
 
 [View Sample on Github](https://github.com/jakehanson/jakehanson.github.io/tree/master/Portfolio/Adobe-Classification)
 
+<a id="Haumea"></a>
+
 ### Modeling the Interior of the Dwarf Planet Haumea
 
 Haumea is a dwarf planet located beyond Neptune’s orbit. Due to its small size, its shape cannot be accurately determined as the angular size is less than a pixel. Nonetheless, we can infer that Haumea is a rotating body with varying semi-major and semi-minor axes based on periodic changes in brightness that correspond to different ellipsoidal faces being exposed. To model the planet’s morphology and internal composition, we assume it is a Jacobi Ellipsoid and simulate a stable, 3D self-gravitating body with Haumea’s observed rotational period.
@@ -27,17 +32,21 @@ Haumea is a dwarf planet located beyond Neptune’s orbit. Due to its small size
 
 [View Code on Github](https://github.com/jakehanson/Haumea)
 
+<a id="KLIP"></a>
+
 ### Karhunen-Loève Image Processing
 
 In this project, I use the Karhunen-Loève Transform (KLT) to directly image exoplanets. This algorithm is a generalization of principal component analysis that diagonalizes the covariance matrix of a set of reference images. The result is a set of uncorrelated variables called Karhunen-Loève basis functions that can be ordered based on their importance.
 
 In Astronomy, these basis functions capture systematic defects in the telescope optics that result in a speckle pattern that is the same order of magnitude as astrophysical sources. By subtracting the basis functions, you can remove the systematic defects while retaining the astrophysical signal - enabling the discovery of faint exoplanets in bright environments.
 
-My IDL implementation of this algorithm has used on data from the Very Large Telescope (VLT) to directly image dozens of new exoplanets (https://iopscience.iop.org/article/10.3847/0004-637X/820/1/40/meta).
+<img src = 'images/KLIP_Example.png?raw=true'>*Figure 3 - Overview of Karhunen-Loève Image Processing. Notice that the birthmark, being a unique feature of the target image, is not removed by subtraction of the basis functions. Image by author.*
 
-<img src = 'images/KLIP_Example.png?raw=true'>*Overview of Karhunen-Loève Image Processing. Notice that the birthmark, being a unique feature of the target image, is not removed by subtraction of the principle components of the reference library. Reference library courtesy of the Beautiful Human Faces Project; basis functions and algorithm implementation by author.*
+<img src = 'images/hr8799.jpeg?raw=true'>*Figure 4 - VLT images of the HR8799 stellar system. Directly imaged exoplanets can be seen in white*.
 
-<img src = 'images/hr8799.jpeg?raw=true'>*VLT images of the HR8799 system processed using the KLIP algorithm described above. The signal from multiple exoplanets can clearly be seen in white*. 
+[View Publication](https://iopscience.iop.org/article/10.3847/0004-637X/820/1/40/meta)
+
+[View code on GitHub](https://github.com/jakehanson/KLIP)
 
 ### Bill Date Optimization
 
