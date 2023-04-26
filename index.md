@@ -56,7 +56,9 @@ Marketing often faces the challenge of determining the discount threshold beyond
 
 <img src='./images/discount_lift_synthetic.png'>*The lift required (y-axis) for any given discount amount (x-axis). The different colors show that different products require different lifts in order to be profitable due to differences in LTR.*
 
-![](https://img.shields.io/badge/SQL-white?logo=Microsoft%20SQL%20Server&logoColor=red) ![](https://img.shields.io/badge/Python-white?logo=Python)
+![](https://img.shields.io/badge/SQL-white?logo=Microsoft%20SQL%20Server&logoColor=red) ![](https://img.shields.io/badge/Python-white?logo=Python) ![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter) 
+
+[View Code on Github](https://github.com/jakehanson/Haumea)
 
 ### Bill Date Optimization
 
