@@ -48,6 +48,8 @@ In Astronomy, these basis functions capture systematic defects in the telescope 
 
 [View Code on GitHub](https://github.com/jakehanson/KLIP)
 
+![](https://github.com/jakehanson/jakehanson.github.io/blob/master/images/idl_logo.jpeg) ![](https://img.shields.io/badge/Image_Processing-gray?style=flat-square) ![](https://img.shields.io/badge/Applied_Mathematics-green?style=flat-square)
+
 ### Bill Date Optimization
 
 Using high-resolution customer data linked to bank accounts we train a machine learning model to predict the best time to bill. Test
