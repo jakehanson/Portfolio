@@ -50,6 +50,14 @@ In Astronomy, these basis functions capture systematic defects in the telescope 
 
 ![](https://github.com/jakehanson/jakehanson.github.io/blob/master/images/idl_logo.jpeg) ![](https://img.shields.io/badge/Image_Processing-gray?style=flat-square) ![](https://img.shields.io/badge/Applied_Mathematics-green?style=flat-square)
 
+### Discount-Lift Tradeoffs
+
+Marketing often faces the challenge of determining the discount threshold beyond which a discount would no longer be profitable. To evaluate this, it is crucial to have knowledge of the lifetime revenue (LTR) of your customers. Once the LTR is established, you can calculate the necessary lift required to make a specific discount profitable. Here, I use LTR data for five different products to generate segmented discount-lift curves that inform us of the required lift levels to achieve profitable discounts for each product offer.
+
+<img src='./images/discount_lift_synthetic.png'>*The lift required (y-axis) for any given discount amount (x-axis). The different colors show that different products require different lifts in order to be profitable due to differences in LTR.*
+
+![](https://img.shields.io/badge/SQL-white?logo=Microsoft%20SQL%20Server&logoColor=red) ![](https://img.shields.io/badge/Python-white?logo=Python)
+
 ### Bill Date Optimization
 
 Using high-resolution customer data linked to bank accounts we train a machine learning model to predict the best time to bill. Test
