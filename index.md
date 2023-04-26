@@ -1,4 +1,4 @@
-## Selected Data Science Projects
+## Selected Projects
 
 - [Adobe Classification](#adobe-classification)
 - [Haumea](#Haumea)
@@ -12,7 +12,7 @@ The goal of this project was to assign metadata to marketing campaigns using Ado
 
 <img src = "Portfolio/Adobe-Classification/img/name_and_manager.png?raw=true">
 
-*Figure 1 - An example of a breakdown in Adobe Analytics that utilizes the classification implemented in this project. Notice, we are able to view each step in our signup flow using internal metrics such as marketing Manager and Department. This ability to roll up marketing campaigns into aggregate groups based on user-defined properties is crucial for alignment between Market Mix Models and Finance.*
+*An example of a breakdown in Adobe Analytics that utilizes the classification implemented in this project. Notice, we are able to view each step in our signup flow using internal metrics such as marketing Manager and Department. This ability to roll up marketing campaigns into aggregate groups based on user-defined properties is crucial for alignment between Market Mix Models and Finance.*
 
 ![](https://img.shields.io/badge/Adobe%20Analytics-white?logo=Adobe&logoColor=red) ![](https://img.shields.io/badge/Python-white?logo=Python) ![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter) ![](https://img.shields.io/badge/Pandas-white?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMIAAAEDCAMAAABQ/CumAAAAeFBMVEX///8TB1QAAEb/ygDnBIgPAFLNzNYTAFnQ0NgMAFcAAETb2eP39/oUBlfV1N7/xwDmAID/9tfLydcjG17/4Yz//vbCwM3ykcL61OfoBIwyKmgAADYAAE0AAErx8PTIxdT/+un/34T85/Lyir/lAHv50eX+9fkpH2Ma8J+4AAACEklEQVR4nO3dzVIaQRSAUYNCEIGoiYmJivnP+79hFrmLVHELZ6pnmG483xqaPruh5lb32ZkkSZIkSZIkvb52z7dZU2+rT4uH2X6rx6m31afF7M1+87dTb6tPCDWEUEMINYRQQ5MS1tu0nqtMSrhKn26e1v1WmZawyn58g4DQL4QIoSyECKEshAihLIQIoSyECKEshAihLIQIoSyECKEshAihLIQIoSyECOFA6cvM5a4nYb29yjoO4WmVvM58WPQkbF8e+RqPcDlPVp4t+xLS/W0QEBCqI8yTLpsizN8n/WmJ0CEEBAQEBAQEBIT2CF+/fci6a4hw8y7rvC3CeRYCAgICAgICAgICAgICwlCEtJYIdzdp/3+kdkKHToFQ+RjJMCEcCKF7CAdC6B7CgRC6Nylh9zGtJUJ6uNCsnsOFhhkvPAHC9x+fsloi/Pp5nXTREuH++iLpMwICAgICAgICAgICAgKC/87R7/u0lggdQkBAQEBAQEB4dYQON67UTqh9KuwkDlRBQED4R8gOF5o3Rdh8yepLGO0ez6MNPO+WQ9w3NilhvBAihLIQIoSyECKEshAihLIQIoSyECKEshAihLIQIoSyECKEshAihLIQIoSyEKJt+lL0SNeADUR4TG9cGWXHew10AkPP4aRBO9ohEuOFUEMINYRQQwg1dAKEDvd41t5t2u7lL0qSJEmSJEnSyfUXeomSFq0EzbkAAAAASUVORK5CYII=) ![](https://img.shields.io/badge/SQL-white?logo=Microsoft%20SQL%20Server&logoColor=red)
 
@@ -26,9 +26,9 @@ Haumea is a dwarf planet located beyond Neptune’s orbit. Due to its small size
 
 <img src="images/density_sim.gif?raw=true">
 
-*Figure 2 - Self-consistent 3D gravitational simulation of the dwarf planet Haumea.*
+*Self-consistent 3D gravitational simulation of the dwarf planet Haumea.*
 
-![](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B)![](https://img.shields.io/badge/Numerical_Hydrodynamics-FF0000?color=important)![](https://img.shields.io/badge/Theoretical_Physics-gray?)
+![](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B)  ![](https://img.shields.io/badge/Numerical_Hydrodynamics-FF0000?color=important)  ![](https://img.shields.io/badge/Theoretical_Physics-gray?)
 
 [View Code on Github](https://github.com/jakehanson/Haumea)
 
@@ -40,13 +40,13 @@ In this project, I use the Karhunen-Loève Transform (KLT) to directly image exo
 
 In Astronomy, these basis functions capture systematic defects in the telescope optics that result in a speckle pattern that is the same order of magnitude as astrophysical sources. By subtracting the basis functions, you can remove the systematic defects while retaining the astrophysical signal - enabling the discovery of faint exoplanets in bright environments.
 
-<img src = 'images/KLIP_Example.png?raw=true'>*Figure 3 - Overview of Karhunen-Loève Image Processing. Notice that the birthmark, being a unique feature of the target image, is not removed by subtraction of the basis functions. Image by author.*
+<img src = 'images/KLIP_Example.png?raw=true'>*Overview of Karhunen-Loève Image Processing. Notice that the birthmark, being a unique feature of the target image, is not removed by subtraction of the basis functions. Image by author.*
 
 <img src = 'images/hr8799.jpeg?raw=true'>*Figure 4 - VLT images of the HR8799 stellar system. Directly imaged exoplanets can be seen in white*.
 
 [View Publication](https://iopscience.iop.org/article/10.3847/0004-637X/820/1/40/meta)
 
-[View code on GitHub](https://github.com/jakehanson/KLIP)
+[View Code on GitHub](https://github.com/jakehanson/KLIP)
 
 ### Bill Date Optimization
 
@@ -60,7 +60,7 @@ Python, Pandas, Data Viz, Machine Learning - XGBoost
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/Twitter-white?logo=Twitter)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
 
-[View code on Colab](https://colab.research.google.com/drive/1d_q0vUpgwmbN7imUcdsbuDwJ61OuBjvO?usp=sharing)
+[View Code on Colab](https://colab.research.google.com/drive/1d_q0vUpgwmbN7imUcdsbuDwJ61OuBjvO?usp=sharing)
 
 ---
 
