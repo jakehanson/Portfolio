@@ -29,7 +29,7 @@ The goal of this project was to assign metadata to marketing campaigns using Ado
 
 ### Modeling the Interior of the Dwarf Planet Haumea
 
-Haumea is a dwarf planet located beyond Neptune’s orbit. Due to its small size, its shape cannot be accurately determined as the angular size is less than a pixel. Nonetheless, we can infer that Haumea is a rotating body with varying semi-major and semi-minor axes based on periodic changes in brightness that correspond to different ellipsoidal faces being exposed. To model the planet’s morphology and internal composition, we assume it is a Jacobi Ellipsoid and simulate a stable, 3D self-gravitating body with Haumea’s observed rotational period.
+Haumea is a dwarf planet located beyond Neptune’s orbit. Due to its small size, its shape cannot be accurately determined because the angular size is less than a pixel. Nonetheless, we can infer that Haumea is a rotating body with varying semi-major and semi-minor axes based on periodic changes in its brightness as a function of time which correspond to different ellipsoidal faces being exposed. To model the planet’s morphology and internal composition, we assume it is a Jacobi Ellipsoid and simulate a stable, 3D self-gravitating body with Haumea’s observed rotational period.
 
 <img src="images/density_sim.gif?raw=true">
 
