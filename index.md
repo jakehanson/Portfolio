@@ -67,7 +67,7 @@ Nest site selection in ant colonies is a fascinating example of collective decis
 
 [View Web Simulation](https://elife-asu.github.io/wss-modules/modules/4-collective-behavior/)
 
-[View Code on GitHub](https://github.com/jakehanson/wss-modules)
+[View Code on GitHub](https://github.com/jakehanson/wss-modules/tree/master/modules/4-collective-behavior)
 
 [View Publication](https://link.springer.com/article/10.1007/s11721-021-00196-4)
 
