@@ -49,7 +49,7 @@ In Astronomy, these basis functions capture systematic defects in the telescope 
 
 <img src = 'images/KLIP_Example.png?raw=true'>*Overview of Karhunen-Loève Image Processing. Notice that the birthmark, being a unique feature of the target image, is not removed by subtraction of the basis functions. Image by author.*
 
-<img src = 'images/hr8799.jpeg?raw=true'>*Very Large Telescope (VLT) images of the HR8799 stellar system processed using this algorithm. Multiple directly imaged exoplanets can clearly be seen in white.*s
+<img src = 'images/hr8799.jpeg?raw=true'>*Very Large Telescope (VLT) images of the HR8799 stellar system processed using this algorithm. Multiple directly imaged exoplanets can clearly be seen in white.*
 
 [View Publication](https://iopscience.iop.org/article/10.3847/0004-637X/820/1/40/meta)
 
