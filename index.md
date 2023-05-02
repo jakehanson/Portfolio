@@ -1,5 +1,7 @@
 ## Selected Projects
 
+This portfolio showcases a diverse collection of projects that demonstrate advanced proficiency in mathematics, programming, data science, data visualization, and communication. Each project employs a variety of programming languages and mathematical concepts to solve a real-world problem, demonstrating my ability to apply quantitative skills to various domains, from marketing to astrophysics, and from finance to entomology. Moreover, each project highlights the importance of making insights accessible and engaging to a non-technical audience using clear and concise visualizations.
+
 - [Adobe Classification](#adobe-classification)
 - [Astrophysics and Numerical Hydrodynamics](#Haumea)
 - [Exoplanets and Image Processing](#KLIP)
@@ -7,6 +9,7 @@
 - [Network Theory and Information Theory](#nest-site-selection-2)
 - [Discount-Lift Tradeoff in Marketing](#discount-lift-tradeoff)
 - [A/B Testing with Bayesian Posteriors](#ab-testing-bayesian)
+- [Backtesting Options Trading Strategies](#options-trading)
 
 <a id="adobe-classification"></a>
 
@@ -111,3 +114,25 @@ Bayesian confidence intervals are crucial in A/B testing as they allow us to est
 [View Summary](https://github.com/jakehanson/jakehanson.github.io/blob/master/Portfolio/AB%20Testing%20With%20Bayesian%20Posteriors/bayesian_inference_in_AB_testing.pdf)
 
 ![](https://img.shields.io/badge/Bayesian_Inference-purple) ![](https://img.shields.io/badge/A/B_Testing-red) ![](https://img.shields.io/badge/Applied_Mathematics-green)
+
+<a id="options-trading"></a>
+
+### Backtesting Pre-earnings Straddles
+
+Using Python, I backtested pre-earnings straddles over six years, analyzing options trading data to assess profitability. The findings indicate that pre-earnings straddles are generally not profitable, but may yield positive returns for specific indices over certain timeframes. For instance, I demonstrate that a composite index of the DOW 30 + NASDAQ 100 has an average return of +2.12% per straddle from 2012-2018. However, I also show that the underlying distribution lacks stationarity and small changes in the index can lead to losing outcomes, leading to the conclusion that this is not a reliable trading strategy.
+
+<img src = './images/pre_earnings_straddle.png'>*Pre-earnings straddle results for FANG stocks from 2013-2018. These four stocks show large gains using a pre-earnings straddle but they suffer from post-selection bias and are not representative of the strategy as a whole.*
+
+<img src = './images/distribution_of_returns.png'>
+
+*I find average returns of +2.12% over a six-year time frame for the composite DOW 30 + Nasdaq 100. However, these results do not generalize.*
+
+<img src = './images/ks_stat.png'>
+
+*Observed win percentage (blue) compared to a binomial distribution (orange) with the same aggregate statistics. A Kolmogorov-Smirnov (KS) test shows the probability that the two distributions are drawn from the same underlying distribution to be 0.0023.*
+
+[View Code on GitHub](https://github.com/jakehanson/Pre-earnings-Straddle)
+
+[View Summary](https://jakerhanson.weebly.com/blog/do-pre-earnings-straddles-work)
+
+![](https://img.shields.io/badge/Quantitative_Finance-yellow) ![](https://img.shields.io/badge/Python-white?logo=Python) ![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)
