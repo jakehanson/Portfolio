@@ -1,6 +1,6 @@
-## Selected Projects
+## Data Science Portfolio
 
-This portfolio showcases a diverse collection of projects that demonstrate advanced proficiency in mathematics, programming, data science, data visualization, and communication. Each project employs a variety of programming languages and mathematical concepts to solve a real-world problem, demonstrating an ability to apply quantitative skills to various domains, from marketing to astrophysics, and from finance to entomology. Moreover, each project highlights the importance of making insights accessible and engaging to a non-technical audience using clear and concise visualizations.
+<img src = "images/career_radar.png?raw=true">This portfolio showcases a diverse collection of projects that demonstrate advanced proficiency in mathematics, programming, data science, data visualization, and communication. Each project employs a variety of programming languages and mathematical concepts to solve a real-world problem, demonstrating an ability to apply quantitative skills to various domains, from marketing to astrophysics, and from finance to entomology. Moreover, each project highlights the importance of making insights accessible and engaging to a non-technical audience using clear and concise visualizations.
 
 - [Adobe Classification](#adobe-classification)
 - [Astrophysics and Numerical Hydrodynamics](#Haumea)
