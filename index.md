@@ -1,6 +1,6 @@
 ## Data Science Portfolio
 
-This portfolio showcases a diverse collection of projects that demonstrate advanced proficiency in mathematics, programming, data science, data visualization, and communication. Each project employs a variety of programming languages and mathematical concepts to solve a real-world problem, demonstrating an ability to apply quantitative skills to various domains, from marketing to astrophysics, and from finance to entomology. Moreover, each project highlights the importance of making insights accessible and engaging to a non-technical audience using clear and concise visualizations.
+This portfolio showcases a diverse collection of projects that demonstrate advanced proficiency in mathematics, programming, data science, data visualization, and communication. Each project employs a variety of programming languages and mathematical concepts to solve a real-world problem, demonstrating my ability to apply quantitative skills to various domains, from marketing to astrophysics, and from finance to entomology. Moreover, each project highlights the importance of making insights accessible and engaging to a non-technical audience using clear and concise visualizations.
 
 - [Adobe Classification](#adobe-classification)
 - [Astrophysics and Numerical Hydrodynamics](#Haumea)
@@ -47,9 +47,9 @@ In this project, I use the Karhunen-Loève Transform (KLT) to directly image exo
 
 In Astronomy, these basis functions capture systematic defects in the telescope optics that result in a speckle pattern that is the same order of magnitude as astrophysical sources. By subtracting the basis functions, you can remove the systematic defects while retaining the astrophysical signal - enabling the discovery of faint exoplanets in bright environments.
 
-<img src = 'images/KLIP_Example.png?raw=true'>*Overview of Karhunen-Loève Image Processing. Notice that the birthmark, being a unique feature of the target image, is not removed by subtraction of the basis functions. Image by author.*
+<img src = 'images/KLIP_Example.png?raw=true'>*Overview of Karhunen-Loève Image Processing. Notice that the birthmark and eyes, being unique features of the target image, are not removed by subtraction of the basis functions. Image by author.*
 
-<img src = 'images/hr8799.jpeg?raw=true'>*Very Large Telescope (VLT) images of the HR8799 stellar system processed using this algorithm. Multiple directly imaged exoplanets can clearly be seen in white.*
+<img src = 'images/hr8799.jpeg?raw=true'>*Very Large Telescope (VLT) images of the HR8799 stellar system processed using my implementation of the KLT algorithm. Multiple directly imaged exoplanets can clearly be seen in white.*
 
 [View Publication](https://iopscience.iop.org/article/10.3847/0004-637X/820/1/40/meta)
 
