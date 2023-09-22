@@ -27,7 +27,7 @@ Haumea is a dwarf planet located beyond Neptune’s orbit. Due to its small size
 
 <a id="KLIP"></a>
 
-### Karhunen-Loève Image Processing
+### Imaging Exoplanets with Karhunen-Loève Image Processing
 
 In this project, I use the Karhunen-Loève Transform (KLT) to directly image exoplanets. This algorithm is a generalization of principal component analysis that diagonalizes the covariance matrix of a set of reference images. The result is a set of uncorrelated variables called Karhunen-Loève basis functions that can be ordered based on their importance.
 
