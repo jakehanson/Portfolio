@@ -2,28 +2,14 @@
 
 This portfolio showcases a diverse collection of projects that demonstrate advanced proficiency in mathematics, programming, data science, data visualization, and communication. Each project employs a variety of programming languages and mathematical concepts to solve a real-world problem, demonstrating my ability to apply quantitative skills to various domains, from marketing to astrophysics, and from finance to entomology. Moreover, each project highlights the importance of making insights accessible and engaging to a non-technical audience using clear and concise visualizations.
 
-- [Adobe Classification](#adobe-classification)
 - [Astrophysics and Numerical Hydrodynamics](#Haumea)
 - [Exoplanets and Image Processing](#KLIP)
 - [Ant Simulations with Javascript and HTML](#nest-site-selection-1)
 - [Network Theory and Information Theory](#nest-site-selection-2)
 - [Discount-Lift Tradeoff in Marketing](#discount-lift-tradeoff)
 - [A/B Testing with Bayesian Posteriors](#ab-testing-bayesian)
-- [Backtesting Options Trading Strategies](#options-trading)
-
-<a id="adobe-classification"></a>
-
-### Adobe Classification
-
-The goal of this project was to assign metadata to marketing campaigns using Adobe Analytics. Prior to this project, marketing data was stored locally in our data warehouses but was unavailable in Adobe Analytics. What this project accomplished was syncing these two data sources so that we can easily build reports on the fly in Adobe Analytics using our internal data.
-
-<img src = "Portfolio/Adobe-Classification/img/name_and_manager.png?raw=true">
-
-*An example of a breakdown in Adobe Analytics that utilizes the classification implemented in this project. Notice, we are able to view each step in our signup flow using internal metrics such as marketing Manager and Department. This ability to roll up marketing campaigns into aggregate groups based on user-defined properties is crucial for alignment between Market Mix Models and Finance.*
-
-![](https://img.shields.io/badge/SQL-white?logo=Microsoft%20SQL%20Server&logoColor=red) ![](https://img.shields.io/badge/Python-white?logo=Python) ![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter) ![](https://img.shields.io/badge/Adobe%20Analytics-white?logo=Adobe&logoColor=red) 
-
-[View Code on GitHub](https://github.com/jakehanson/jakehanson.github.io/tree/master/Portfolio/Adobe-Classification)
+- [Options Trading and Backtesting](#options-trading)
+- [Adobe Analtyics Classification](#adobe-classification)
 
 <a id="Haumea"></a>
 
@@ -136,3 +122,17 @@ Using Python, I backtested pre-earnings straddles over six years, analyzing opti
 [View Summary](https://jakerhanson.weebly.com/blog/do-pre-earnings-straddles-work)
 
 ![](https://img.shields.io/badge/Quantitative_Finance-yellow) ![](https://img.shields.io/badge/Python-white?logo=Python) ![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)
+
+<a id="adobe-classification"></a>
+
+### Adobe Classification
+
+The goal of this project was to assign metadata to marketing campaigns using Adobe Analytics. Prior to this project, marketing data was stored locally in our data warehouses but was unavailable in Adobe Analytics. What this project accomplished was syncing these two data sources so that we can easily build reports on the fly in Adobe Analytics using our internal data.
+
+<img src = "Portfolio/Adobe-Classification/img/name_and_manager.png?raw=true">
+
+*An example of a breakdown in Adobe Analytics that utilizes the classification implemented in this project. Notice, we are able to view each step in our signup flow using internal metrics such as marketing Manager and Department. This ability to roll up marketing campaigns into aggregate groups based on user-defined properties is crucial for alignment between Market Mix Models and Finance.*
+
+![](https://img.shields.io/badge/SQL-white?logo=Microsoft%20SQL%20Server&logoColor=red) ![](https://img.shields.io/badge/Python-white?logo=Python) ![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter) ![](https://img.shields.io/badge/Adobe%20Analytics-white?logo=Adobe&logoColor=red) 
+
+[View Code on GitHub](https://github.com/jakehanson/jakehanson.github.io/tree/master/Portfolio/Adobe-Classification)
