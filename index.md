@@ -24,7 +24,7 @@ The algorithm starts by iterating through local Google search results using the 
 
 <img src = "images/benchmark_examples.png" width=750>
 
-By changing the search query and locations, one can generate a contact directories of buyers or sellers in virtually any market (e.g. "Disability Law Firms in Kentucky", "High End Restaurants in NYC", "Date Farms in Southern California", etc.). In short, the algorithm combines system-level LLM instructions with location-based Google search results in rigorous, automated, and scalable fashion.
+Simply by changing the search query and location, one can generate a contact list of buyers buyers or sellers for virtually any market (e.g. "Disability Law Firms in Kentucky", "High End Restaurants in NYC", "Date Farms in Southern California", etc.). In short, the algorithm combines system-level LLM instructions with location-based search results to create highly personalized contact directories in a way that is automated, verified, and scalable.
 
 [View Project on Github]
 
