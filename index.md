@@ -20,9 +20,9 @@ This project uses Large Language Models (LLMs) and web-scraping APIs to create a
 
 The algorithm starts by iterating through local Google search results using the search query "Gourmet Grocery Stores". The results from this search are then used to query the Google Place API, which provides verification of local businesses and additional information including websites, ratings, reviews, and addresses. This detailed information from the Place API is then processed and cleaned before being fed into an LLM (GPT-4) for compatability analysis using a prompt designed to match the product being sold with the ideal vendors .The prompt is benchmarked against human-evaluated data in order to ensure its effectiveness before being deployed across the entire dataset. The flowchart below illustrates this process.
 
-<img src = "/Users/jakehanson/Desktop/Algorithm Overview 2.png" width = 850>
+<img src = "images/Algorithm Overview 2.png" width = 850>
 
-<img src = "/Users/jakehanson/Desktop/benchmark_examples.png" width=750>
+<img src = "images/benchmark_examples.png" width=750>
 
 By changing the search query and locations, one can generate a contact directories of buyers or sellers in virtually any market (e.g. "Disability Law Firms in Kentucky", "High End Restaurants in NYC", "Date Farms in Southern California", etc.). In short, the algorithm combines system-level LLM instructions with location-based Google search results in rigorous, automated, and scalable fashion.
 
