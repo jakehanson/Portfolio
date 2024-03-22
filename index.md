@@ -26,7 +26,7 @@ The algorithm iterates through local Google search results using the search quer
 
 <img src = "images/benchmark_examples.png" width=750>
 
-The algorithm is devoloped in Python, rendered in HTML using Flask, and deployed online in a cloud environment using Heroku.
+The algorithm is devoloped in Python, rendered in HTML using Flask, and deployed  in a cloud environment using AWS Elastic Beanstalk.
 
 [View Project on Github](https://github.com/jakehanson/Haumea)
 
