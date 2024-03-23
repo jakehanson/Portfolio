@@ -5,7 +5,7 @@ This portfolio showcases a diverse collection of projects that demonstrate advan
 - [Web Scraping with GPT and AWS Deployment](#GPT)
 - [Numerical Hydrodynamics in C++](#Haumea)
 - [Exoplanets and Image Processing](#KLIP)
-- [Agend Based Modeling with Javascript and HTML](#nest-site-selection-1)
+- [Agent Based Modeling with Javascript and HTML](#nest-site-selection-1)
 - [Network Theory and Information Theory](#nest-site-selection-2)
 - [Discount-Lift Tradeoffs](#discount-lift-tradeoff)
 - [A/B Testing](#ab-testing-bayesian)
