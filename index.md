@@ -28,7 +28,7 @@ The algorithm iterates through local Google search results using the search quer
 
 The algorithm is devoloped in Python, rendered in HTML using Flask, and deployed  in a cloud environment using AWS Elastic Beanstalk.
 
-[View Project on Github](https://github.com/jakehanson/Haumea)
+[View Code on Github](https://github.com/jakehanson/GPT_Web_Scraping)
 
 <a id="Haumea"></a>
 
@@ -36,17 +36,19 @@ The algorithm is devoloped in Python, rendered in HTML using Flask, and deployed
 
 ![](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B) ![](https://img.shields.io/badge/Numerical_Hydrodynamics-red) ![](https://img.shields.io/badge/Astrophysics-orange) 
 
-Haumea is a dwarf planet located beyond Neptune’s orbit. Due to its small size, its shape cannot be accurately determined because the angular size is less than a pixel. Nonetheless, we can infer that Haumea is a rotating body with varying semi-major and semi-minor axes based on periodic changes in its brightness as a function of time which correspond to different ellipsoidal faces being exposed. To model the planet’s morphology and internal composition, we assume it is a Jacobi Ellipsoid and simulate a stable, 3D self-gravitating body with Haumea’s observed rotational period.
+Haumea is a dwarf planet located beyond Neptune's orbit. It is one of several dwarf planets that would have to be added to the nine recognized planets in our solar system if Pluto were to remain. Unlike other planets, Haumea is so small and distant that its angular width is less than a single pixel when imaged with a telescope. This means that its shape and density cannot be directly measured.
 
-<img src="images/density_sim.gif?raw=true">
+Instead, we must rely on self-consistent gravitational/hydrodynamic simulations to infer a shape and composition consistent with the planet's known mass and photometric observations. Here, we provide such a simulation, assuming a stable, 3D self-gravitating body in hydrostatic equilibrium with a differentiated ice crust. We find that Haumea's formation history likely included liquid water and the potential for habitability for a period of approximately 100 million years.
+
+<img src="/Users/jakehanson/Documents/Job Applications/jakehanson.github.io/images/density_sim.gif">
 
 *Self-consistent 3D gravitational simulation of the dwarf planet Haumea.*
 
-[View Code on Github](https://github.com/jakehanson/GPT_Web_Scraping)
+[View Project on Github](https://github.com/jakehanson/Haumea)
 
 <a id="KLIP"></a>
 
-### Imaging Exoplanets with Karhunen-Loève Image Processing
+### Direct Imaging of Exoplanets with Karhunen-Loève Image Processing
 
 ![](https://img.shields.io/badge/Linear Algebra-blue) ![](https://img.shields.io/badge/Image_Processing-gray) ![](https://img.shields.io/badge/Astrophysics-orange) ![](https://img.shields.io/badge/Interactive_Data_Langauge_(IDL)-green)
 
@@ -66,7 +68,7 @@ In Astronomy, these basis functions capture systematic defects in the telescope 
 
 ### Nest Site Selection in Temnothorax Ant Colonies (Part 1)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript) ![HTML](https://img.shields.io/badge/HTML-orange?logo=html5) ![CSS](https://img.shields.io/badge/CSS-blue?style=flat-square&logo=css3) ![](https://img.shields.io/badge/Agend Based Modeling-purple)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript) ![HTML](https://img.shields.io/badge/HTML-orange?logo=html5) ![CSS](https://img.shields.io/badge/CSS-blue?style=flat-square&logo=css3) ![](https://img.shields.io/badge/Agent Based Modeling-purple)
 
 Nest site selection in ant colonies is a fascinating example of collective decision-making without centralized control. To better understand this process, we modeled the ant species *Temnothorax Rugatulus* as particles undergoing Brownian motion within the nest. By fine-tuning the parameters of the Brownian random walk, we were able to show that this simple model can be optimized for specific nest geometries based on the quorum density within the nest. When a quorum threshold is met, ants transition from slow nest exploration to rapid brood carrying, indicating the successful selection of a new nest site. Our study provides insight into the underlying mechanisms of ant collective decision-making and underscores the ability of natural selection to delegate critical aspects of a collective decision to the physical environment.
 
@@ -148,10 +150,10 @@ Using Python, I backtested pre-earnings straddles over six years, analyzing opti
 
 ![](https://img.shields.io/badge/SQL-white?logo=Microsoft%20SQL%20Server&logoColor=red) ![](https://img.shields.io/badge/Python-white?logo=Python) ![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter) ![](https://img.shields.io/badge/Adobe%20Analytics-white?logo=Adobe&logoColor=red)
 
-The goal of this project was to assign metadata to marketing campaigns using Adobe Analytics. Prior to this project, marketing data was stored locally in our data warehouses but was unavailable in Adobe Analytics. What this project accomplished was syncing these two data sources so that we can easily build reports on the fly in Adobe Analytics using our internal data.
+The goal of this project is to assign metadata to marketing campaigns within Adobe Analytics. Previously, campaign information was stored locally in our data warehouses but was unavailable in Adobe Analytics. This project synchronizes these two data sources, enabling us to easily build reports on the fly in Adobe Analytics using our internal campaign data.
 
 <img src = "Portfolio/Adobe-Classification/img/name_and_manager.png?raw=true">
 
-*An example of a breakdown in Adobe Analytics that utilizes the classification implemented in this project. Notice, we are able to view each step in our signup flow using internal metrics such as marketing Manager and Department. This ability to roll up marketing campaigns into aggregate groups based on user-defined properties is crucial for alignment between Market Mix Models and Finance.*
+*An example of a breakdown in Adobe Analytics that utilizes the metadata implemented in this project. Notice that we are able to view each step in our signup flow using user-defined metrics, such as Marketing Manager and Department. This ability to roll up marketing campaigns into aggregate groups based on user-defined properties is crucial for achieving alignment between Market Mix Models and Finance.*
 
 [View Code on GitHub](https://github.com/jakehanson/jakehanson.github.io/tree/master/Portfolio/Adobe-Classification)
