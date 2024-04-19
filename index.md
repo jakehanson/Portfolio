@@ -40,7 +40,7 @@ Haumea is a dwarf planet located beyond Neptune's orbit. It is one of several dw
 
 Instead, we must rely on self-consistent gravitational/hydrodynamic simulations to infer a shape and composition consistent with the planet's known mass and photometric observations. Here, we provide such a simulation, assuming a stable, 3D self-gravitating body in hydrostatic equilibrium with a differentiated ice crust. We find that Haumea's formation history likely included liquid water and the potential for habitability for a period of approximately 100 million years.
 
-<img src="/Users/jakehanson/Documents/Job Applications/jakehanson.github.io/images/density_sim.gif">
+<img src = 'images/density_sim.gif?raw=true'>
 
 *Self-consistent 3D gravitational simulation of the dwarf planet Haumea.*
 
