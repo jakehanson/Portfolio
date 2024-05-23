@@ -3,8 +3,8 @@
 This portfolio showcases a diverse collection of projects that demonstrate advanced proficiency in mathematics, programming, data science, data visualization, and communication. Each project employs a variety of programming languages and mathematical concepts to solve a real-world problem, demonstrating the ability to apply quantitative skills to various domains, ranging from marketing to astrophysics, and from finance to entomology. Moreover, each project highlights the importance of making insights accessible and engaging to a non-technical audience using clear and concise visualizations.
 
 - [Web Scraping with GPT and AWS Deployment](#GPT)
-- [Numerical Hydrodynamics in C++](#Haumea)
 - [Exoplanets and Image Processing](#KLIP)
+- [Numerical Hydrodynamics in C++](#Haumea)
 - [Agent Based Modeling with Javascript and HTML](#nest-site-selection-1)
 - [Network Theory and Information Theory](#nest-site-selection-2)
 - [Discount-Lift Tradeoffs](#discount-lift-tradeoff)
