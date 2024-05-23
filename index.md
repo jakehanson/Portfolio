@@ -30,22 +30,6 @@ The algorithm is devoloped in Python, rendered in HTML using Flask, and deployed
 
 [View Code on Github](https://github.com/jakehanson/GPT_Web_Scraping)
 
-<a id="Haumea"></a>
-
-### Modeling the Interior of the Dwarf Planet Haumea
-
-![](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B) ![](https://img.shields.io/badge/Numerical_Hydrodynamics-red) ![](https://img.shields.io/badge/Astrophysics-orange) 
-
-Haumea is a dwarf planet located beyond Neptune's orbit. It is one of several dwarf planets that would have to be added to the nine recognized planets in our solar system if Pluto were to remain. Unlike other planets, Haumea is so small and distant that its angular width is less than a single pixel when imaged with a telescope. This means that its shape and density cannot be directly measured.
-
-Instead, we must rely on self-consistent gravitational/hydrodynamic simulations to infer a shape and composition consistent with the planet's known mass and photometric observations. Here, we provide such a simulation, assuming a stable, 3D self-gravitating body in hydrostatic equilibrium with a differentiated ice crust. We find that Haumea's formation history likely included liquid water and the potential for habitability for a period of approximately 100 million years.
-
-<img src = 'images/density_sim.gif?raw=true'>
-
-*Self-consistent 3D gravitational simulation of the dwarf planet Haumea.*
-
-[View Project on Github](https://github.com/jakehanson/Haumea)
-
 <a id="KLIP"></a>
 
 ### Direct Imaging of Exoplanets with Karhunen-Loève Image Processing
@@ -63,6 +47,22 @@ In Astronomy, these basis functions capture systematic defects in the telescope 
 [View Publication](https://iopscience.iop.org/article/10.3847/0004-637X/820/1/40/meta)
 
 [View Code on GitHub](https://github.com/jakehanson/KLIP)
+
+<a id="Haumea"></a>
+
+### Modeling the Interior of the Dwarf Planet Haumea
+
+![](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B) ![](https://img.shields.io/badge/Numerical_Hydrodynamics-red) ![](https://img.shields.io/badge/Astrophysics-orange) 
+
+Haumea is a dwarf planet located beyond Neptune's orbit. It is one of several dwarf planets that would have to be added to the nine recognized planets in our solar system if Pluto were to remain. Unlike other planets, Haumea is so small and distant that its angular width is less than a single pixel when imaged with a telescope. This means that its shape and density cannot be directly measured.
+
+Instead, we must rely on self-consistent gravitational/hydrodynamic simulations to infer a shape and composition consistent with the planet's known mass and photometric observations. Here, we provide such a simulation, assuming a stable, 3D self-gravitating body in hydrostatic equilibrium with a differentiated ice crust. We find that Haumea's formation history likely included liquid water and the potential for habitability for a period of approximately 100 million years.
+
+<img src = 'images/density_sim.gif?raw=true'>
+
+*Self-consistent 3D gravitational simulation of the dwarf planet Haumea.*
+
+[View Project on Github](https://github.com/jakehanson/Haumea)
 
 <a id="nest-site-selection-1"></a>
 
