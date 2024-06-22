@@ -152,8 +152,8 @@ Using Python, I backtested pre-earnings straddles over six years, analyzing opti
 
 The goal of this project is to assign metadata to marketing campaigns within Adobe Analytics. Previously, campaign information was stored locally in our data warehouses but was unavailable in Adobe Analytics. This project synchronizes these two data sources, enabling us to easily build reports on the fly in Adobe Analytics using our internal campaign data.
 
-<img src = "Portfolio/Adobe-Classification/img/name_and_manager.png?raw=true">
+<img src = "Portfolio/Adobe-Classification/img/name_and_manager_redacted.png?raw=true">
 
-*An example of a breakdown in Adobe Analytics that utilizes the metadata implemented in this project. Notice that we are able to view each step in our signup flow using user-defined metrics, such as Marketing Manager and Department. This ability to roll up marketing campaigns into aggregate groups based on user-defined properties is crucial for achieving alignment between Market Mix Models and Finance.*
+*An example of a breakdown in Adobe Analytics that utilizes the metadata implemented in this project. Notice that we are able to view each step in our signup flow using user-defined metrics, such as Marketing Manager and Name. This ability to assign marketing campaigns metadata based on user-defined properties is crucial for achieving alignment between Marketing and Finance.*
 
 [View Code on GitHub](https://github.com/jakehanson/jakehanson.github.io/tree/master/Portfolio/Adobe-Classification)
