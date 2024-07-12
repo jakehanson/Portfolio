@@ -2,7 +2,7 @@
 
 This portfolio showcases a diverse collection of projects that demonstrate advanced proficiency in mathematics, programming, data science, data visualization, and communication. Each project employs a variety of programming languages and mathematical concepts to solve a real-world problem, demonstrating the ability to apply quantitative skills to various domains, ranging from marketing to astrophysics, and from finance to entomology. Moreover, each project highlights the importance of making insights accessible and engaging to a non-technical audience using clear and concise visualizations.
 
-- [Web Scraping with GPT and AWS Deployment](#GPT)
+- [LLMs, Web Scraping, and AWS Deployment](#GPT)
 - [Exoplanets and Image Processing](#KLIP)
 - [Numerical Hydrodynamics in C++](#Haumea)
 - [Agent Based Modeling with Javascript and HTML](#nest-site-selection-1)
@@ -36,7 +36,7 @@ The algorithm is devoloped in Python, rendered in HTML using Flask, and deployed
 
 ![](https://img.shields.io/badge/Linear Algebra-blue) ![](https://img.shields.io/badge/Image_Processing-gray) ![](https://img.shields.io/badge/Astrophysics-orange) ![](https://img.shields.io/badge/Interactive_Data_Langauge_(IDL)-green)
 
-In this project, I use the Karhunen-Loève Transform (KLT) to directly detect exoplanets. This algorithm is a generalization of principal component analysis that diagonalizes the covariance matrix of a set of reference images. The result is a set of uncorrelated variables called Karhunen-Loève basis functions that can be ordered based on their importance.
+In this project, I use the Karhunen-Loève Transform (KLT) to directly detect new exoplanets. This algorithm is a generalization of principal component analysis that diagonalizes the covariance matrix of a set of reference images. The result is a set of uncorrelated variables called Karhunen-Loève basis functions that can be ordered based on their importance.
 
 In Astronomy, these basis functions capture systematic defects in the telescope optics that result in a speckle pattern that is the same order of magnitude as astrophysical sources. By subtracting the basis functions, you can remove the systematic defects while retaining the astrophysical signal - enabling the discovery of faint exoplanets in bright environments.
 
